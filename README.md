@@ -1,0 +1,83 @@
+# Avano AI
+
+> The operational brain for mobility fleets. Autonomous, self-learning, built to scale.
+
+## What is Avano AI?
+
+Most fleet operators still run on WhatsApp groups, spreadsheets, and gut feel. Avano AI replaces that entire layer.
+
+We built an autonomous operations platform with a self-learning reasoning engine at its core. It thinks, adapts, and optimizes in real time — handling customer service, compliance, contracts, scheduling, and cost decisions without a human in the loop.
+
+Every fleet that joins makes the system smarter. The data flywheel is the moat.
+
+## Platform Architecture
+
+```
+┌─────────────────────────────────────────────────────┐
+│                   Avano AI Platform                  │
+├───────────────┬─────────────────┬───────────────────┤
+│  Customer AI  │  Operations AI  │   Compliance AI   │
+│  (WhatsApp    │  (Fleet mgmt,   │  (RTA/TARS,       │
+│   native)     │   scheduling)   │   contracts)      │
+├───────────────┴─────────────────┴───────────────────┤
+│              Self-Learning Reasoning Engine          │
+├─────────────────────────────────────────────────────┤
+│           Multi-Tenant Fleet Data Layer              │
+│         PostgreSQL · Redis · Node.js · Python        │
+└─────────────────────────────────────────────────────┘
+```
+
+## Key Features
+
+- **WhatsApp-native AI agent** — handles the full customer lifecycle in any language
+- **Autonomous document processing** — ID verification, contract generation, e-signing
+- **Self-learning reasoning engine** — optimizes in real time, gets smarter with every booking
+- **RTA/TARS integration** — approved for Dubai Roads & Transport Authority compliance
+- **Multi-tenant architecture** — each operator gets isolated data and custom configurations
+- **Financial ledger** — per-booking tracking of Salik, fines, deposits, late returns, fuel
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Backend | Node.js, Python |
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| Database | PostgreSQL, Redis |
+| AI | Claude (Azure Foundry), Azure Whisper |
+| Infra | Azure VM (UAE North), Nginx, SSL |
+| Integrations | Telegram Bot API, WhatsApp (Baileys) |
+
+## Roadmap
+
+### Phase 1 — Car Rental Operations (Live)
+- Multi-language AI customer service
+- Document OCR and verification
+- Digital contracts and e-signing
+- Fleet management dashboard
+- Real-time booking management
+
+### Phase 2 — Logistics and Taxi Operations
+- Extended vehicle types and routing
+- Driver behavior monitoring
+- Dynamic demand forecasting
+
+### Phase 3 — City-Level Mobility Coordination
+- Autonomous vehicle fleet integration
+- Dynamic traffic coordination
+- Cross-fleet optimization engine
+
+## Recognition
+
+- Member of **NVIDIA Inception Program**
+- Member of **Dubai Founders HQ**
+- Member of **Ignyte Accelerator**
+- Approved for **RTA/TARS integration** in Dubai
+- Patent filed on core reasoning architecture
+
+## Status
+
+Currently live with operators in the UAE.
+
+---
+
+© 2026 Avano Technologies. All rights reserved.
