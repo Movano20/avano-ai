@@ -2,84 +2,66 @@
 
 ## Overview
 
-Avano AI is a multi-layer intelligence platform built for mobility fleet operators. The system processes real-time customer interactions, operational data, and compliance requirements through a modular microservices architecture.
+Avano AI is a multi-tenant SaaS platform built for car rental and fleet operators in the UAE. The system processes customer communications, automates bookings, enforces compliance, and anchors contracts to the TARS blockchain.
+
+## Infrastructure
 
 ```
-Customer (WhatsApp / Telegram)
-        │
-        ▼
-┌───────────────────────┐
-│  AI Conversation      │  Natural language processing, multilingual support
-│  Engine (Tier 1)      │  150+ languages, tool-calling, booking flow
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│  Operations API       │  Booking lifecycle, fleet management,
-│  (Tier 2)             │  customer profiles, financial ledger
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│  Compliance Layer     │  RTA/TARS integration, contract generation,
-│  (Tier 3)             │  blockchain hashing, audit trails
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│  Operator Dashboard   │  Real-time fleet view, live ops, analytics,
-│                       │  operator takeover, customer profiles
-└───────────────────────┘
+                        ┌─────────────────────────┐
+                        │   avanoai.ai (Azure CDN) │
+                        └────────────┬────────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              │                      │                      │
+    ┌─────────▼────────┐   ┌────────▼────────┐   ┌────────▼────────┐
+    │ app.avanoai.ai   │   │ api.avanoai.ai  │   │ admin365        │
+    │ Operator Portal  │   │ AI / Live Ops   │   │ Internal Admin  │
+    │ (React + Node)   │   │ (Tier 1)        │   │ (React + Node)  │
+    └─────────┬────────┘   └────────┬────────┘   └─────────────────┘
+              │                      │
+    ┌─────────▼────────┐   ┌────────▼────────┐
+    │ Tier 2 Ops API   │   │ Telegram Bot    │
+    │ Fleet/Bookings/  │   │ WhatsApp Bot    │
+    │ Customers/Finance│   │ (Claude AI)     │
+    └─────────┬────────┘   └─────────────────┘
+              │
+    ┌─────────▼────────┐
+    │ PostgreSQL DB    │
+    │ (Tenant isolated)│
+    └──────────────────┘
 ```
 
-## Core Components
+## Services
 
-### AI Conversation Engine
-- Multi-language AI agent (English, Arabic, Hindi, Urdu, Tagalog, and 145+ more)
-- Autonomous booking creation via conversational flow
-- OCR document processing (Emirates ID, passport, driving license)
-- Operator takeover: human agents can intercept any conversation in real-time
+| Service | Port | Description |
+|---------|------|-------------|
+| `avano-tier1` | 3001 | AI agent, conversations, takeover |
+| `avano-tier2` | 3002 | Ops API: fleet, bookings, customers, compliance |
+| `avano-dash` | 8443 | Operator dashboard (React, HTTPS proxy) |
+| `avano-bot` | — | Telegram bot (AI-powered) |
+| `avano-verify` | 4001 | Insurance contract verification portal |
+| Admin API | 3003 | Internal admin panel API |
 
-### Operations API
-- RESTful fleet and booking management
-- Real-time vehicle availability and demand signals
-- Customer trust scoring and blacklist network
-- Multi-tenant architecture (isolated per operator)
+## AI Layer
 
-### Compliance Layer
-- UAE RTA/TARS integration for regulatory reporting
-- Automated contract generation (PDF, signed)
-- Blockchain contract hashing for tamper-proof records
-- Audit trail for all booking state changes
+- **Model:** Claude Sonnet (Azure AI Foundry)
+- **Memory:** Redis (per-tenant conversation history, 20 message limit)
+- **Takeover:** Operator can take over any live conversation; AI resumes on release
+- **Languages:** Arabic (MSA) + English — auto-detected per customer message
 
-### Operator Dashboard
-- Live fleet status with clickable filter controls
-- Booking management with contract signing workflow
-- Customer profiles with confidence scoring
-- Real-time WhatsApp/Telegram chat panel with takeover capability
-- Analytics: revenue, utilization, demand patterns
+## Compliance Layer
 
-## Data Flow
+- **TARS Integration:** Hyperledger Fabric via RTA Dubai API
+- **Contract Hashing:** SHA-256, dual-hash lifecycle (open + close)
+- **Emirate Routing:** Dubai → TARS, Abu Dhabi → DoT Taqa, others → PDF export
 
-```
-Customer Message → Language Detection → AI Processing → Tool Calls
-       ↓
-Booking Created → Contract Generated → Customer Notified
-       ↓
-Operator Dashboard ← Real-time Updates ← Event Stream
-       ↓
-Compliance Layer → RTA Reporting → Blockchain Hash → Audit Log
-```
+## Multi-Tenancy
 
-## Technology Stack
+Every database query is scoped to `tenant_id`. No cross-tenant data access is possible at the query level. Tenant ID is validated on every API request via `x-tenant-id` header.
 
-| Layer | Technology |
-|-------|-----------|
-| AI Engine | Multi-model architecture (model-agnostic) |
-| Backend | Node.js, TypeScript |
-| Database | PostgreSQL (multi-tenant) |
-| Cache / Queues | Redis |
-| Messaging | WhatsApp (Baileys), Telegram Bot API |
-| Dashboard | React, Vite, TailwindCSS |
-| Infrastructure | Azure Cloud |
-| Compliance | RTA/TARS API, PDF generation |
+## Deployment
+
+- **VM:** Azure (Ubuntu, public IP `74.162.120.4`)
+- **SSL:** Let's Encrypt via Certbot
+- **Process Manager:** PM2 with systemd auto-restart
+- **DNS:** Cloudflare (avanoai.ai)
