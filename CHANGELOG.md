@@ -15,3 +15,4 @@ Tue Mar 17 12:39:43 UTC 2026: feat: UAE data sovereignty compliance notes
 Tue Mar 17 12:39:43 UTC 2026: docs: update NVIDIA Inception partnership details
 Tue Mar 17 12:39:43 UTC 2026: refactor: improve AI model selection rationale
 Tue Mar 17 12:39:43 UTC 2026: docs: add GCC expansion roadmap Q2 2026
+Tue Mar 17 12:39:43 UTC 2026: feat: operator WhatsApp integration guide
