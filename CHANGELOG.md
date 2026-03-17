@@ -2,3 +2,4 @@ Tue Mar 17 12:39:43 UTC 2026: docs: update sovereign mobility intelligence overv
 Tue Mar 17 12:39:43 UTC 2026: feat: add Arabic NLP processing notes
 Tue Mar 17 12:39:43 UTC 2026: docs: update fleet optimization architecture
 Tue Mar 17 12:39:43 UTC 2026: refactor: improve WhatsApp bot conversation flow docs
+Tue Mar 17 12:39:43 UTC 2026: docs: add Jais 2 fine-tuning roadmap
