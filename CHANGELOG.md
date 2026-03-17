@@ -6,3 +6,4 @@ Tue Mar 17 12:39:43 UTC 2026: docs: add Jais 2 fine-tuning roadmap
 Tue Mar 17 12:39:43 UTC 2026: feat: document dynamic pricing engine design
 Tue Mar 17 12:39:43 UTC 2026: docs: update UAE mobility market analysis
 Tue Mar 17 12:39:43 UTC 2026: refactor: clean up operator onboarding flow notes
+Tue Mar 17 12:39:43 UTC 2026: docs: add document collection flow spec
