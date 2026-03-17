@@ -93,3 +93,4 @@ Currently live with operators in the UAE.
 # Avano AI - Update 10
 # Avano AI - Update 11
 # Avano AI - Update 12
+# Avano AI - Update 13

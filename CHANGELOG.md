@@ -10,3 +10,4 @@ Tue Mar 17 12:39:43 UTC 2026: docs: add document collection flow spec
 Tue Mar 17 12:39:43 UTC 2026: feat: voice note transcription pipeline notes
 Tue Mar 17 12:39:43 UTC 2026: docs: update multi-tenant architecture overview
 Tue Mar 17 12:39:43 UTC 2026: refactor: improve booking lifecycle documentation
+Tue Mar 17 12:39:43 UTC 2026: docs: add negotiation engine design spec
