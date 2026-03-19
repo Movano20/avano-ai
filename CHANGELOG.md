@@ -24,3 +24,4 @@ Wed Mar 18 01:00:06 UTC 2026: docs: add dynamic pricing engine notes
 Wed Mar 18 09:00:04 UTC 2026: docs: update platform architecture notes
 Wed Mar 18 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Wed Mar 18 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
+Thu Mar 19 01:00:04 UTC 2026: feat: document WhatsApp automation flow
