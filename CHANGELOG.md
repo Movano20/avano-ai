@@ -35,3 +35,4 @@ Fri Mar 20 01:00:04 UTC 2026: docs: update sovereign AI model training plan
 Fri Mar 20 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
 Fri Mar 20 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 Fri Mar 20 09:00:04 UTC 2026: feat: document fleet analytics data model
+Fri Mar 20 09:00:04 UTC 2026: feat: document WhatsApp automation flow
