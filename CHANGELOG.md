@@ -36,3 +36,4 @@ Fri Mar 20 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
 Fri Mar 20 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 Fri Mar 20 09:00:04 UTC 2026: feat: document fleet analytics data model
 Fri Mar 20 09:00:04 UTC 2026: feat: document WhatsApp automation flow
+Sat Mar 21 01:00:05 UTC 2026: docs: update platform architecture notes
