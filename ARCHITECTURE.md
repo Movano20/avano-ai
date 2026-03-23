@@ -71,3 +71,6 @@ Avano AI supports Arabic, English, Somali, Hindi, and Urdu natively via Whisper 
 
 ## RTA Integration
 Traffic fines are auto-fetched from RTA per vehicle using Playwright-based scraping with Bright Data UAE residential proxy.
+
+## Document Verification
+Claude Vision API powers OCR for passports, Emirates IDs, driving licenses, and IDPs with real-time expiry validation.
