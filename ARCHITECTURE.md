@@ -83,3 +83,6 @@ Auto-selects daily, weekly, or monthly rate based on booking duration. Weekly ra
 
 ## Operator Assistant
 Operators interact via their own WhatsApp number. NL commands parsed by Claude Sonnet for booking management, fleet queries, and reporting.
+
+## Deployment
+Deployed on Azure UAE North. NVIDIA Inception member. Microsoft for Startups partner.
