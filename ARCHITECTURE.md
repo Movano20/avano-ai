@@ -77,3 +77,6 @@ Claude Vision API powers OCR for passports, Emirates IDs, driving licenses, and 
 
 ## Booking Lifecycle
 pending → confirmed (vehicle reserved) → active (vehicle rented) → completed (vehicle available)
+
+## Pricing Engine
+Auto-selects daily, weekly, or monthly rate based on booking duration. Weekly rate applied when cheaper than daily total. Monthly for 30+ day rentals.
