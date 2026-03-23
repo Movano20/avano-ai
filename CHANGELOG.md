@@ -85,3 +85,4 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 - Handover pre-delivery checklist flow — optional, does not block activation
 - Triggered via operator command: handover AVN-XXXX
 [2026-03-23] feat: enhance Arabic NLP response quality
+[2026-03-23] fix: edge case in handover checklist for vehicle swap
