@@ -80,3 +80,6 @@ pending → confirmed (vehicle reserved) → active (vehicle rented) → complet
 
 ## Pricing Engine
 Auto-selects daily, weekly, or monthly rate based on booking duration. Weekly rate applied when cheaper than daily total. Monthly for 30+ day rentals.
+
+## Operator Assistant
+Operators interact via their own WhatsApp number. NL commands parsed by Claude Sonnet for booking management, fleet queries, and reporting.
