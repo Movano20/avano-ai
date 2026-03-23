@@ -52,3 +52,4 @@ Mon Mar 23 01:00:03 UTC 2026: feat: document fleet analytics data model
 Mon Mar 23 01:00:03 UTC 2026: feat: document WhatsApp automation flow
 Mon Mar 23 01:00:03 UTC 2026: feat: document WhatsApp automation flow
 Mon Mar 23 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
+Mon Mar 23 09:00:04 UTC 2026: docs: add demand forecasting model spec
