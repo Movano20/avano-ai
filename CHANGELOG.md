@@ -59,3 +59,5 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Added
 - Smart pricing engine: auto-selects daily, weekly, or monthly rates by booking duration
 - Deposit collection step at activation (cash + card split support)
+### Added
+- Full closing flow rewrite: 10-step process with RTA fines integration
