@@ -89,3 +89,4 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-03-23] docs: compliance and data retention policy update
 [2026-03-23] feat: operator NL assistant handles partial commands
 [2026-03-23] feat: add vehicle availability caching layer
+[2026-03-23] feat: add telemetry logging for operator assistant commands
