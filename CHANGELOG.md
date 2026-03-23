@@ -61,3 +61,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 - Deposit collection step at activation (cash + card split support)
 ### Added
 - Full closing flow rewrite: 10-step process with RTA fines integration
+### Added
+- Visa and passport expiry validation at booking confirmation
+- IDP (International Driving Permit) collection and expiry gate at activation
