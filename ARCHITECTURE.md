@@ -74,3 +74,6 @@ Traffic fines are auto-fetched from RTA per vehicle using Playwright-based scrap
 
 ## Document Verification
 Claude Vision API powers OCR for passports, Emirates IDs, driving licenses, and IDPs with real-time expiry validation.
+
+## Booking Lifecycle
+pending → confirmed (vehicle reserved) → active (vehicle rented) → completed (vehicle available)
