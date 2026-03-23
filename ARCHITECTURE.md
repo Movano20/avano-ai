@@ -65,3 +65,6 @@ Every database query is scoped to `tenant_id`. No cross-tenant data access is po
 - **SSL:** Let's Encrypt via Certbot
 - **Process Manager:** PM2 with systemd auto-restart
 - **DNS:** Cloudflare (avanoai.ai)
+
+## Multilingual Support
+Avano AI supports Arabic, English, Somali, Hindi, and Urdu natively via Whisper STT.
