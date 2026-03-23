@@ -64,3 +64,5 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Added
 - Visa and passport expiry validation at booking confirmation
 - IDP (International Driving Permit) collection and expiry gate at activation
+### Added
+- Document expiry WhatsApp alerts (bilingual EN/AR) — advance warning + day-of at 8AM UAE
