@@ -78,3 +78,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Fixed
 - Haggling engine: auto-accept any price at or above minimum floor rate
 - Bot no longer escalates valid offers to human
+### Changed
+- OCR engine switched to Claude Vision API for higher accuracy on UAE documents
+- Handles passports, Emirates IDs, driving licenses, IDPs
