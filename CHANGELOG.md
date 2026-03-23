@@ -54,3 +54,8 @@ Mon Mar 23 01:00:03 UTC 2026: feat: document WhatsApp automation flow
 Mon Mar 23 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Mar 23 09:00:04 UTC 2026: docs: add demand forecasting model spec
 Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
+
+## [2026.3.23] - March 23, 2026
+### Added
+- Smart pricing engine: auto-selects daily, weekly, or monthly rates by booking duration
+- Deposit collection step at activation (cash + card split support)
