@@ -72,3 +72,4 @@ Avano Token transitions from loyalty points to live utility token when data netw
 ### Q2 2026 — Fleet Intelligence Layer
 - Predictive maintenance alerts based on mileage and trip patterns
 - Dynamic demand forecasting for rental pricing optimization
+- Driver behavior scoring from telematics data
