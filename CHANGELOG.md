@@ -75,3 +75,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Added
 - Operator NL assistant: natural language commands via operator WhatsApp number
 - Full booking lifecycle commands (confirm, activate, close, check status)
+### Fixed
+- Haggling engine: auto-accept any price at or above minimum floor rate
+- Bot no longer escalates valid offers to human
