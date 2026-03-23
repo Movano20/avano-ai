@@ -68,3 +68,6 @@ Every database query is scoped to `tenant_id`. No cross-tenant data access is po
 
 ## Multilingual Support
 Avano AI supports Arabic, English, Somali, Hindi, and Urdu natively via Whisper STT.
+
+## RTA Integration
+Traffic fines are auto-fetched from RTA per vehicle using Playwright-based scraping with Bright Data UAE residential proxy.
