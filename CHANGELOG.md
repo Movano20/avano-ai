@@ -91,3 +91,4 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-03-23] feat: add vehicle availability caching layer
 [2026-03-23] feat: add telemetry logging for operator assistant commands
 [2026-03-23] fix: notification worker stability improvements
+[2026-03-23] feat: add booking search by plate number
