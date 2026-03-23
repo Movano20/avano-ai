@@ -69,3 +69,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Added
 - RTA traffic fines scraper: per-vehicle "Fetch Fines" button in fleet dashboard
 - booking_fines DB table with auto-sync every 2 hours across all tenants
+### Changed
+- STT migration: Azure Speech → Whisper (Azure OpenAI) with auto language detection
+- Supports Arabic, English, Somali, Hindi, Urdu out of the box
