@@ -72,3 +72,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Changed
 - STT migration: Azure Speech → Whisper (Azure OpenAI) with auto language detection
 - Supports Arabic, English, Somali, Hindi, Urdu out of the box
+### Added
+- Operator NL assistant: natural language commands via operator WhatsApp number
+- Full booking lifecycle commands (confirm, activate, close, check status)
