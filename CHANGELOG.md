@@ -81,3 +81,6 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 ### Changed
 - OCR engine switched to Claude Vision API for higher accuracy on UAE documents
 - Handles passports, Emirates IDs, driving licenses, IDPs
+### Added
+- Handover pre-delivery checklist flow — optional, does not block activation
+- Triggered via operator command: handover AVN-XXXX
