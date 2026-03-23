@@ -68,3 +68,6 @@ Avano Token transitions from loyalty points to live utility token when data netw
 ---
 
 *Last updated: March 2026*
+
+### Q2 2026 — Fleet Intelligence Layer
+- Predictive maintenance alerts based on mileage and trip patterns
