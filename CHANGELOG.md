@@ -93,3 +93,4 @@ Mon Mar 23 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-03-23] fix: notification worker stability improvements
 [2026-03-23] feat: add booking search by plate number
 [2026-03-23] feat: add CSV export for monthly rental reports
+[2026-03-23] feat: improve fines sync error handling and retry logic
