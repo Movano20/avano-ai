@@ -107,3 +107,4 @@ Tue Mar 24 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-03-24] docs: update architecture diagram for fleet intelligence layer
 [2026-03-24] fix: timezone handling for UAE late-night bookings
 [2026-03-24] docs: Q3 2026 roadmap update — logistics expansion
+[2026-03-24] feat: add booking search by plate number
