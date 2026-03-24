@@ -109,3 +109,4 @@ Tue Mar 24 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-03-24] docs: Q3 2026 roadmap update — logistics expansion
 [2026-03-24] feat: add booking search by plate number
 [2026-03-24] feat: enhance Arabic NLP response quality
+[2026-03-24] feat: add vehicle utilization metrics to dashboard
