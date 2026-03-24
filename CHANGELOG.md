@@ -104,3 +104,4 @@ Tue Mar 24 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-03-24] refactor: clean up closing flow state transitions
 [2026-03-24] feat: add vehicle availability caching layer
 [2026-03-24] fix: race condition in concurrent booking confirmations
+[2026-03-24] docs: update architecture diagram for fleet intelligence layer
