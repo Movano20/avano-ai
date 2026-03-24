@@ -101,3 +101,4 @@ Tue Mar 24 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Tue Mar 24 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Tue Mar 24 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-03-24] feat: smart alert thresholds for low Salik balance
+[2026-03-24] refactor: clean up closing flow state transitions
