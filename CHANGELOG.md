@@ -124,3 +124,4 @@ Wed Mar 25 09:00:06 UTC 2026: docs: update platform architecture notes
 [2026-03-25] feat: add telemetry logging for operator assistant commands
 [2026-03-25] feat: add booking search by plate number
 [2026-03-25] docs: update API reference for booking lifecycle endpoints
+[2026-03-25] docs: expand multilingual support documentation
