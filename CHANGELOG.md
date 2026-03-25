@@ -116,3 +116,4 @@ Wed Mar 25 01:00:04 UTC 2026: feat: document WhatsApp automation flow
 Wed Mar 25 09:00:06 UTC 2026: feat: document operator alert system design
 Wed Mar 25 09:00:06 UTC 2026: docs: add demand forecasting model spec
 Wed Mar 25 09:00:06 UTC 2026: docs: update platform architecture notes
+[2026-03-25] docs: add operator onboarding guide
