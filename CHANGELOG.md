@@ -120,3 +120,4 @@ Wed Mar 25 09:00:06 UTC 2026: docs: update platform architecture notes
 [2026-03-25] fix: IDP expiry edge case for short-term rentals
 [2026-03-25] feat: enhance document OCR confidence scoring
 [2026-03-25] refactor: improve database query performance for fleet router
+[2026-03-25] feat: improve fines sync error handling and retry logic
