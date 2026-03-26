@@ -139,3 +139,4 @@ Thu Mar 26 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-03-26] docs: add operator onboarding guide
 [2026-03-26] docs: update API reference for booking lifecycle endpoints
 [2026-03-26] feat: improve booking confirmation response time
+[2026-03-26] refactor: clean up closing flow state transitions
