@@ -136,3 +136,4 @@ Thu Mar 26 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-03-26] fix: IDP expiry edge case for short-term rentals
 [2026-03-26] feat: add booking search by plate number
 [2026-03-26] feat: add vehicle utilization metrics to dashboard
+[2026-03-26] docs: add operator onboarding guide
