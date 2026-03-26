@@ -128,3 +128,4 @@ Wed Mar 25 09:00:06 UTC 2026: docs: update platform architecture notes
 [2026-03-25] fix: edge case in handover checklist for vehicle swap
 Thu Mar 26 01:00:04 UTC 2026: refactor: improve booking lifecycle documentation
 Thu Mar 26 01:00:04 UTC 2026: feat: document fleet analytics data model
+Thu Mar 26 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
