@@ -154,3 +154,4 @@ Fri Mar 27 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-03-27] feat: add booking search by plate number
 [2026-03-27] refactor: consolidate pricing engine rate selection logic
 [2026-03-27] feat: add vehicle availability caching layer
+[2026-03-27] feat: enhance bot tone calibration for Gulf Arabic dialect
