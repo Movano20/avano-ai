@@ -150,3 +150,4 @@ Fri Mar 27 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 Fri Mar 27 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-03-27] fix: timezone handling for UAE late-night bookings
 [2026-03-27] refactor: clean up closing flow state transitions
+[2026-03-27] feat: improve WhatsApp message delivery retry logic
