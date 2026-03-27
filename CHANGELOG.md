@@ -147,3 +147,4 @@ Fri Mar 27 01:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Mar 27 01:00:06 UTC 2026: feat: add operator onboarding flow documentation
 Fri Mar 27 09:00:06 UTC 2026: feat: document WhatsApp automation flow
 Fri Mar 27 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
+Fri Mar 27 09:00:06 UTC 2026: docs: update GCC expansion roadmap
