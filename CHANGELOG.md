@@ -145,3 +145,4 @@ Thu Mar 26 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Fri Mar 27 01:00:06 UTC 2026: refactor: improve API integration specs
 Fri Mar 27 01:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Mar 27 01:00:06 UTC 2026: feat: add operator onboarding flow documentation
+Fri Mar 27 09:00:06 UTC 2026: feat: document WhatsApp automation flow
