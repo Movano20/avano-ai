@@ -168,3 +168,4 @@ Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-28] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-03-28] docs: Q3 2026 roadmap update — logistics expansion
 [2026-03-28] fix: deposit split validation for cash+card combinations
+[2026-03-28] docs: add operator onboarding guide
