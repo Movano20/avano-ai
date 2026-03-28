@@ -164,3 +164,4 @@ Sat Mar 28 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
 Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 Sat Mar 28 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
+[2026-03-28] feat: enhance document OCR confidence scoring
