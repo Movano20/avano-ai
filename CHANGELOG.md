@@ -161,3 +161,4 @@ Fri Mar 27 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 Sat Mar 28 01:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Mar 28 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Sat Mar 28 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
+Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
