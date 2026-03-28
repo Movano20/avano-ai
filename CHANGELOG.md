@@ -165,3 +165,4 @@ Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 Sat Mar 28 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-28] feat: enhance document OCR confidence scoring
+[2026-03-28] feat: enhance bot tone calibration for Gulf Arabic dialect
