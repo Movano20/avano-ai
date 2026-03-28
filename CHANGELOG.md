@@ -172,3 +172,4 @@ Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-28] feat: add CSV export for monthly rental reports
 [2026-03-28] refactor: optimize ConversationEngine message routing
 [2026-03-28] fix: edge case in deposit calculation for multi-day rentals
+[2026-03-28] fix: notification worker stability improvements
