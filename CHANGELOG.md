@@ -178,3 +178,4 @@ Sun Mar 29 01:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Mar 29 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Sun Mar 29 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Sun Mar 29 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
+Sun Mar 29 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
