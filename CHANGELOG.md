@@ -186,3 +186,4 @@ Sun Mar 29 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-03-29] feat: improve WhatsApp message delivery retry logic
 [2026-03-29] feat: operator NL assistant handles partial commands
 [2026-03-29] fix: notification worker stability improvements
+[2026-03-29] feat: add telemetry logging for operator assistant commands
