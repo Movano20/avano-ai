@@ -174,3 +174,4 @@ Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-28] fix: edge case in deposit calculation for multi-day rentals
 [2026-03-28] fix: notification worker stability improvements
 [2026-03-28] refactor: clean up closing flow state transitions
+Sun Mar 29 01:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
