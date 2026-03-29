@@ -182,3 +182,4 @@ Sun Mar 29 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Sun Mar 29 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-03-29] feat: improve booking confirmation response time
 [2026-03-29] feat: improve fines sync error handling and retry logic
+[2026-03-29] feat: add vehicle availability caching layer
