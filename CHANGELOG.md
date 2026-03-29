@@ -176,3 +176,4 @@ Sat Mar 28 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-28] refactor: clean up closing flow state transitions
 Sun Mar 29 01:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Mar 29 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
+Sun Mar 29 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
