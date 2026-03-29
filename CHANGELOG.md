@@ -189,3 +189,4 @@ Sun Mar 29 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-03-29] feat: add telemetry logging for operator assistant commands
 [2026-03-29] fix: edge case in deposit calculation for multi-day rentals
 [2026-03-29] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-03-29] fix: timezone handling for UAE late-night bookings
