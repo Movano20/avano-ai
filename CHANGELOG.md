@@ -195,3 +195,4 @@ Mon Mar 30 01:00:03 UTC 2026: feat: document fleet analytics data model
 Mon Mar 30 01:00:04 UTC 2026: docs: update platform architecture notes
 Mon Mar 30 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Mon Mar 30 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
+Mon Mar 30 09:00:05 UTC 2026: feat: document WhatsApp automation flow
