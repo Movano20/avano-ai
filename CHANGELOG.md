@@ -203,3 +203,4 @@ Mon Mar 30 09:00:05 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-30] docs: compliance and data retention policy update
 [2026-03-30] docs: add operator onboarding guide
 [2026-03-30] fix: edge case in handover checklist for vehicle swap
+[2026-03-30] feat: add booking search by plate number
