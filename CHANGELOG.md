@@ -198,3 +198,4 @@ Mon Mar 30 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 Mon Mar 30 09:00:05 UTC 2026: feat: document WhatsApp automation flow
 [2026-03-30] fix: timezone handling for UAE late-night bookings
 [2026-03-30] fix: IDP expiry edge case for short-term rentals
+[2026-03-30] docs: expand multilingual support documentation
