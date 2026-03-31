@@ -217,3 +217,4 @@ Tue Mar 31 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 [2026-03-31] feat: add telemetry logging for operator assistant commands
 [2026-03-31] feat: add vehicle availability caching layer
 [2026-03-31] refactor: clean up closing flow state transitions
+[2026-03-31] docs: Q3 2026 roadmap update — logistics expansion
