@@ -221,3 +221,4 @@ Tue Mar 31 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 [2026-03-31] refactor: improve database query performance for fleet router
 [2026-03-31] fix: deposit split validation for cash+card combinations
 [2026-03-31] docs: add operator onboarding guide
+[2026-03-31] feat: enhance bot tone calibration for Gulf Arabic dialect
