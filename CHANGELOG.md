@@ -215,3 +215,4 @@ Tue Mar 31 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 [2026-03-31] refactor: consolidate pricing engine rate selection logic
 [2026-03-31] fix: notification worker stability improvements
 [2026-03-31] feat: add telemetry logging for operator assistant commands
+[2026-03-31] feat: add vehicle availability caching layer
