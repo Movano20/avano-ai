@@ -232,3 +232,4 @@ Wed Apr  1 09:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-04-01] docs: expand multilingual support documentation
 [2026-04-01] fix: IDP expiry edge case for short-term rentals
 [2026-04-01] refactor: improve database query performance for fleet router
+[2026-04-01] feat: enhance bot tone calibration for Gulf Arabic dialect
