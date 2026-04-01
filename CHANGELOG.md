@@ -227,3 +227,4 @@ Wed Apr  1 01:00:05 UTC 2026: docs: update platform architecture notes
 Wed Apr  1 01:00:05 UTC 2026: docs: add dynamic pricing engine notes
 Wed Apr  1 09:00:05 UTC 2026: docs: update UAE compliance workflow spec
 Wed Apr  1 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
+Wed Apr  1 09:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
