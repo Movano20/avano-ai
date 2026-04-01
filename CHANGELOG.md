@@ -224,3 +224,4 @@ Tue Mar 31 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 [2026-03-31] feat: enhance bot tone calibration for Gulf Arabic dialect
 Wed Apr  1 01:00:05 UTC 2026: feat: add operator onboarding flow documentation
 Wed Apr  1 01:00:05 UTC 2026: docs: update platform architecture notes
+Wed Apr  1 01:00:05 UTC 2026: docs: add dynamic pricing engine notes
