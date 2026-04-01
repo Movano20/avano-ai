@@ -230,3 +230,4 @@ Wed Apr  1 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Apr  1 09:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-04-01] fix: timezone handling for UAE late-night bookings
 [2026-04-01] docs: expand multilingual support documentation
+[2026-04-01] fix: IDP expiry edge case for short-term rentals
