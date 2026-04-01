@@ -225,3 +225,4 @@ Tue Mar 31 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 Wed Apr  1 01:00:05 UTC 2026: feat: add operator onboarding flow documentation
 Wed Apr  1 01:00:05 UTC 2026: docs: update platform architecture notes
 Wed Apr  1 01:00:05 UTC 2026: docs: add dynamic pricing engine notes
+Wed Apr  1 09:00:05 UTC 2026: docs: update UAE compliance workflow spec
