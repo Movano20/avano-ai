@@ -241,3 +241,4 @@ Wed Apr  1 09:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu Apr  2 01:00:05 UTC 2026: docs: update GCC expansion roadmap
 Thu Apr  2 01:00:05 UTC 2026: docs: update platform architecture notes
 Thu Apr  2 01:00:05 UTC 2026: refactor: improve customer conversation flow docs
+Thu Apr  2 09:00:06 UTC 2026: docs: add demand forecasting model spec
