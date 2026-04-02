@@ -252,3 +252,4 @@ Thu Apr  2 09:00:06 UTC 2026: docs: add demand forecasting model spec
 [2026-04-02] docs: add operator onboarding guide
 [2026-04-02] feat: operator NL assistant handles partial commands
 [2026-04-02] feat: add CSV export for monthly rental reports
+[2026-04-02] feat: enhance document OCR confidence scoring
