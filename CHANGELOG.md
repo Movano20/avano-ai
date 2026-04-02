@@ -248,3 +248,4 @@ Thu Apr  2 09:00:06 UTC 2026: docs: add demand forecasting model spec
 [2026-04-02] feat: improve WhatsApp message delivery retry logic
 [2026-04-02] fix: IDP expiry edge case for short-term rentals
 [2026-04-02] feat: improve booking confirmation response time
+[2026-04-02] feat: improve fines sync error handling and retry logic
