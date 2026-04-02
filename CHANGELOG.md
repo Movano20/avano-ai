@@ -246,3 +246,4 @@ Thu Apr  2 09:00:06 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu Apr  2 09:00:06 UTC 2026: docs: add demand forecasting model spec
 [2026-04-02] docs: Q3 2026 roadmap update — logistics expansion
 [2026-04-02] feat: improve WhatsApp message delivery retry logic
+[2026-04-02] fix: IDP expiry edge case for short-term rentals
