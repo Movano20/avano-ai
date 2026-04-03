@@ -257,3 +257,4 @@ Thu Apr  2 09:00:06 UTC 2026: docs: add demand forecasting model spec
 Fri Apr  3 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
 Fri Apr  3 01:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 Fri Apr  3 01:00:04 UTC 2026: feat: document WhatsApp automation flow
+Fri Apr  3 09:00:04 UTC 2026: docs: update platform architecture notes
