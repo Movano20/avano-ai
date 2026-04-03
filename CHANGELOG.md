@@ -261,3 +261,4 @@ Fri Apr  3 09:00:04 UTC 2026: docs: update platform architecture notes
 Fri Apr  3 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 Fri Apr  3 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-04-03] docs: expand multilingual support documentation
+[2026-04-03] fix: notification worker stability improvements
