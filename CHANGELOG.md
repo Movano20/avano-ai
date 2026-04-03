@@ -267,3 +267,4 @@ Fri Apr  3 09:00:04 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-04-03] refactor: consolidate pricing engine rate selection logic
 [2026-04-03] feat: improve WhatsApp message delivery retry logic
 [2026-04-03] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-04-03] feat: smart alert thresholds for low Salik balance
