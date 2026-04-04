@@ -279,3 +279,4 @@ Sat Apr  4 09:00:03 UTC 2026: feat: document fleet analytics data model
 [2026-04-04] fix: notification worker stability improvements
 [2026-04-04] feat: improve booking confirmation response time
 [2026-04-04] fix: race condition in concurrent booking confirmations
+[2026-04-04] feat: enhance Arabic NLP response quality
