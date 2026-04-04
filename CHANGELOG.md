@@ -282,3 +282,4 @@ Sat Apr  4 09:00:03 UTC 2026: feat: document fleet analytics data model
 [2026-04-04] feat: enhance Arabic NLP response quality
 [2026-04-04] feat: enhance document OCR confidence scoring
 [2026-04-04] fix: edge case in handover checklist for vehicle swap
+[2026-04-04] fix: IDP expiry edge case for short-term rentals
