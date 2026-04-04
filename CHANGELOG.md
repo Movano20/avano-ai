@@ -274,3 +274,4 @@ Sat Apr  4 01:00:03 UTC 2026: refactor: improve API integration specs
 Sat Apr  4 01:00:03 UTC 2026: refactor: improve customer conversation flow docs
 Sat Apr  4 01:00:03 UTC 2026: feat: document WhatsApp automation flow
 Sat Apr  4 09:00:03 UTC 2026: docs: add demand forecasting model spec
+Sat Apr  4 09:00:03 UTC 2026: docs: update GCC expansion roadmap
