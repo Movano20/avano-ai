@@ -300,3 +300,4 @@ Sun Apr  5 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-05] refactor: clean up closing flow state transitions
 [2026-04-05] fix: edge case in handover checklist for vehicle swap
 [2026-04-05] docs: Q3 2026 roadmap update — logistics expansion
+[2026-04-05] refactor: consolidate pricing engine rate selection logic
