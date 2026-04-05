@@ -293,3 +293,4 @@ Sun Apr  5 09:00:03 UTC 2026: docs: update GCC expansion roadmap
 Sun Apr  5 09:00:03 UTC 2026: feat: document WhatsApp automation flow
 Sun Apr  5 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-05] fix: notification worker stability improvements
+[2026-04-05] feat: smart alert thresholds for low Salik balance
