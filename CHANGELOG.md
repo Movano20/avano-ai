@@ -296,3 +296,4 @@ Sun Apr  5 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-05] feat: smart alert thresholds for low Salik balance
 [2026-04-05] feat: improve WhatsApp message delivery retry logic
 [2026-04-05] feat: enhance document OCR confidence scoring
+[2026-04-05] docs: add operator onboarding guide
