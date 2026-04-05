@@ -287,3 +287,4 @@ Sat Apr  4 09:00:03 UTC 2026: feat: document fleet analytics data model
 [2026-04-04] refactor: clean up closing flow state transitions
 [2026-04-04] docs: Q3 2026 roadmap update — logistics expansion
 Sun Apr  5 01:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
+Sun Apr  5 01:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
