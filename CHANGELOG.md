@@ -298,3 +298,4 @@ Sun Apr  5 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-05] feat: enhance document OCR confidence scoring
 [2026-04-05] docs: add operator onboarding guide
 [2026-04-05] refactor: clean up closing flow state transitions
+[2026-04-05] fix: edge case in handover checklist for vehicle swap
