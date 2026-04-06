@@ -315,3 +315,4 @@ Mon Apr  6 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-06] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-06] fix: edge case in deposit calculation for multi-day rentals
 [2026-04-06] fix: edge case in handover checklist for vehicle swap
+[2026-04-06] feat: operator NL assistant handles partial commands
