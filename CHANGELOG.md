@@ -311,3 +311,4 @@ Mon Apr  6 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-06] feat: enhance Arabic NLP response quality
 [2026-04-06] feat: add booking search by plate number
 [2026-04-06] refactor: optimize ConversationEngine message routing
+[2026-04-06] fix: IDP expiry edge case for short-term rentals
