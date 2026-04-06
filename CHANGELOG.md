@@ -302,3 +302,4 @@ Sun Apr  5 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-05] docs: Q3 2026 roadmap update — logistics expansion
 [2026-04-05] refactor: consolidate pricing engine rate selection logic
 [2026-04-05] refactor: optimize ConversationEngine message routing
+Mon Apr  6 01:00:04 UTC 2026: feat: add operator onboarding flow documentation
