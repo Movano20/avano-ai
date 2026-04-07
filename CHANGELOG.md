@@ -323,3 +323,4 @@ Tue Apr  7 01:00:04 UTC 2026: docs: update sovereign AI model training plan
 Tue Apr  7 01:00:04 UTC 2026: feat: document WhatsApp automation flow
 Tue Apr  7 09:00:04 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Apr  7 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
+Tue Apr  7 09:00:04 UTC 2026: docs: update platform architecture notes
