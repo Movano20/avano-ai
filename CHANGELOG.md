@@ -325,3 +325,4 @@ Tue Apr  7 09:00:04 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Apr  7 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Tue Apr  7 09:00:04 UTC 2026: docs: update platform architecture notes
 [2026-04-07] refactor: optimize ConversationEngine message routing
+[2026-04-07] refactor: consolidate pricing engine rate selection logic
