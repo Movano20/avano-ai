@@ -328,3 +328,4 @@ Tue Apr  7 09:00:04 UTC 2026: docs: update platform architecture notes
 [2026-04-07] refactor: consolidate pricing engine rate selection logic
 [2026-04-07] feat: add CSV export for monthly rental reports
 [2026-04-07] feat: operator NL assistant handles partial commands
+[2026-04-07] fix: IDP expiry edge case for short-term rentals
