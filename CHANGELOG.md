@@ -330,3 +330,4 @@ Tue Apr  7 09:00:04 UTC 2026: docs: update platform architecture notes
 [2026-04-07] feat: operator NL assistant handles partial commands
 [2026-04-07] fix: IDP expiry edge case for short-term rentals
 [2026-04-07] docs: add operator onboarding guide
+[2026-04-07] feat: add telemetry logging for operator assistant commands
