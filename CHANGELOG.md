@@ -347,3 +347,4 @@ Wed Apr  8 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-08] feat: add booking search by plate number
 [2026-04-08] refactor: optimize ConversationEngine message routing
 [2026-04-08] fix: deposit split validation for cash+card combinations
+[2026-04-08] docs: compliance and data retention policy update
