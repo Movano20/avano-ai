@@ -352,3 +352,4 @@ Wed Apr  8 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-08] feat: enhance document OCR confidence scoring
 Thu Apr  9 01:00:04 UTC 2026: docs: add demand forecasting model spec
 Thu Apr  9 01:00:04 UTC 2026: docs: update platform architecture notes
+Thu Apr  9 01:00:04 UTC 2026: refactor: improve API integration specs
