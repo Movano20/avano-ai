@@ -360,3 +360,4 @@ Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
 [2026-04-09] feat: add vehicle utilization metrics to dashboard
 [2026-04-09] fix: IDP expiry edge case for short-term rentals
 [2026-04-09] refactor: clean up closing flow state transitions
+[2026-04-09] feat: enhance document OCR confidence scoring
