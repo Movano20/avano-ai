@@ -356,3 +356,4 @@ Thu Apr  9 01:00:04 UTC 2026: refactor: improve API integration specs
 Thu Apr  9 09:00:04 UTC 2026: docs: add demand forecasting model spec
 Thu Apr  9 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
+[2026-04-09] fix: deposit split validation for cash+card combinations
