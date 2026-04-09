@@ -365,3 +365,4 @@ Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
 [2026-04-09] docs: add operator onboarding guide
 [2026-04-09] feat: add vehicle availability caching layer
 [2026-04-09] fix: notification worker stability improvements
+[2026-04-09] fix: edge case in handover checklist for vehicle swap
