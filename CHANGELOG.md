@@ -350,3 +350,4 @@ Wed Apr  8 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-08] docs: compliance and data retention policy update
 [2026-04-08] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-08] feat: enhance document OCR confidence scoring
+Thu Apr  9 01:00:04 UTC 2026: docs: add demand forecasting model spec
