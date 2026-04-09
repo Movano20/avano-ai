@@ -363,3 +363,4 @@ Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
 [2026-04-09] feat: enhance document OCR confidence scoring
 [2026-04-09] feat: add CSV export for monthly rental reports
 [2026-04-09] docs: add operator onboarding guide
+[2026-04-09] feat: add vehicle availability caching layer
