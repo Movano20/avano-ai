@@ -367,3 +367,4 @@ Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
 [2026-04-09] fix: notification worker stability improvements
 [2026-04-09] fix: edge case in handover checklist for vehicle swap
 Fri Apr 10 01:00:04 UTC 2026: docs: update GCC expansion roadmap
+Fri Apr 10 01:00:04 UTC 2026: docs: update platform architecture notes
