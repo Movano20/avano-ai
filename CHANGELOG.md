@@ -376,3 +376,4 @@ Fri Apr 10 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-04-10] feat: smart alert thresholds for low Salik balance
 [2026-04-10] docs: update API reference for booking lifecycle endpoints
 [2026-04-10] fix: timezone handling for UAE late-night bookings
+[2026-04-10] docs: add operator onboarding guide
