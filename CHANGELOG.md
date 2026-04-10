@@ -369,3 +369,4 @@ Thu Apr  9 09:00:04 UTC 2026: feat: document operator alert system design
 Fri Apr 10 01:00:04 UTC 2026: docs: update GCC expansion roadmap
 Fri Apr 10 01:00:04 UTC 2026: docs: update platform architecture notes
 Fri Apr 10 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
+Fri Apr 10 09:00:05 UTC 2026: feat: document WhatsApp automation flow
