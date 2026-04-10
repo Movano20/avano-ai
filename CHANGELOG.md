@@ -381,3 +381,4 @@ Fri Apr 10 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-04-10] feat: enhance Arabic NLP response quality
 [2026-04-10] fix: notification worker stability improvements
 [2026-04-10] feat: add vehicle utilization metrics to dashboard
+[2026-04-10] feat: enhance bot tone calibration for Gulf Arabic dialect
