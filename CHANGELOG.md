@@ -379,3 +379,4 @@ Fri Apr 10 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-04-10] docs: add operator onboarding guide
 [2026-04-10] refactor: clean up closing flow state transitions
 [2026-04-10] feat: enhance Arabic NLP response quality
+[2026-04-10] fix: notification worker stability improvements
