@@ -396,3 +396,4 @@ Sat Apr 11 09:00:04 UTC 2026: refactor: improve API integration specs
 [2026-04-11] refactor: improve database query performance for fleet router
 [2026-04-11] fix: edge case in handover checklist for vehicle swap
 [2026-04-11] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-04-11] fix: deposit split validation for cash+card combinations
