@@ -393,3 +393,4 @@ Sat Apr 11 09:00:04 UTC 2026: refactor: improve API integration specs
 [2026-04-11] feat: add telemetry logging for operator assistant commands
 [2026-04-11] docs: add operator onboarding guide
 [2026-04-11] feat: add vehicle utilization metrics to dashboard
+[2026-04-11] refactor: improve database query performance for fleet router
