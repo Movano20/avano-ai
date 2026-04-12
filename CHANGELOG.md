@@ -413,3 +413,4 @@ Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-12] feat: operator NL assistant handles partial commands
 [2026-04-12] fix: edge case in deposit calculation for multi-day rentals
 [2026-04-12] refactor: improve database query performance for fleet router
+[2026-04-12] feat: enhance bot tone calibration for Gulf Arabic dialect
