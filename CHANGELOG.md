@@ -409,3 +409,4 @@ Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-12] feat: add vehicle availability caching layer
 [2026-04-12] feat: enhance Arabic NLP response quality
 [2026-04-12] fix: IDP expiry edge case for short-term rentals
+[2026-04-12] refactor: consolidate pricing engine rate selection logic
