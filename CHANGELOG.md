@@ -403,3 +403,4 @@ Sun Apr 12 01:00:05 UTC 2026: feat: document operator alert system design
 Sun Apr 12 01:00:05 UTC 2026: docs: update GCC expansion roadmap
 Sun Apr 12 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Sun Apr 12 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
+Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
