@@ -399,3 +399,4 @@ Sat Apr 11 09:00:04 UTC 2026: refactor: improve API integration specs
 [2026-04-11] fix: deposit split validation for cash+card combinations
 [2026-04-11] feat: add booking search by plate number
 Sun Apr 12 01:00:05 UTC 2026: docs: update platform architecture notes
+Sun Apr 12 01:00:05 UTC 2026: feat: document operator alert system design
