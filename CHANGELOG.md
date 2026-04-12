@@ -405,3 +405,4 @@ Sun Apr 12 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Sun Apr 12 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-12] feat: add telemetry logging for operator assistant commands
+[2026-04-12] docs: compliance and data retention policy update
