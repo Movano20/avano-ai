@@ -426,3 +426,4 @@ Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
 [2026-04-13] fix: IDP expiry edge case for short-term rentals
 [2026-04-13] docs: compliance and data retention policy update
 [2026-04-13] fix: timezone handling for UAE late-night bookings
+[2026-04-13] refactor: clean up closing flow state transitions
