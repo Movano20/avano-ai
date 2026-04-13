@@ -428,3 +428,4 @@ Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
 [2026-04-13] fix: timezone handling for UAE late-night bookings
 [2026-04-13] refactor: clean up closing flow state transitions
 [2026-04-13] feat: enhance document OCR confidence scoring
+[2026-04-13] feat: add telemetry logging for operator assistant commands
