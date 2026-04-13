@@ -422,3 +422,4 @@ Mon Apr 13 09:00:02 UTC 2026: refactor: improve customer conversation flow docs
 Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
 [2026-04-13] feat: add vehicle availability caching layer
 [2026-04-13] docs: expand multilingual support documentation
+[2026-04-13] docs: update architecture diagram for fleet intelligence layer
