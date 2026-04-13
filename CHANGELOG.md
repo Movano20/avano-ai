@@ -417,3 +417,4 @@ Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 Mon Apr 13 01:00:03 UTC 2026: docs: add demand forecasting model spec
 Mon Apr 13 01:00:03 UTC 2026: refactor: improve API integration specs
 Mon Apr 13 01:00:03 UTC 2026: feat: document WhatsApp automation flow
+Mon Apr 13 09:00:02 UTC 2026: docs: add dynamic pricing engine notes
