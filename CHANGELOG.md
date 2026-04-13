@@ -420,3 +420,4 @@ Mon Apr 13 01:00:03 UTC 2026: feat: document WhatsApp automation flow
 Mon Apr 13 09:00:02 UTC 2026: docs: add dynamic pricing engine notes
 Mon Apr 13 09:00:02 UTC 2026: refactor: improve customer conversation flow docs
 Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
+[2026-04-13] feat: add vehicle availability caching layer
