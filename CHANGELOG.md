@@ -416,3 +416,4 @@ Sun Apr 12 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-12] feat: enhance bot tone calibration for Gulf Arabic dialect
 Mon Apr 13 01:00:03 UTC 2026: docs: add demand forecasting model spec
 Mon Apr 13 01:00:03 UTC 2026: refactor: improve API integration specs
+Mon Apr 13 01:00:03 UTC 2026: feat: document WhatsApp automation flow
