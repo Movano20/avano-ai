@@ -432,3 +432,4 @@ Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
 [2026-04-13] feat: enhance Arabic NLP response quality
 Tue Apr 14 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
 Tue Apr 14 01:00:04 UTC 2026: feat: add operator onboarding flow documentation
+Tue Apr 14 01:00:04 UTC 2026: feat: document fleet analytics data model
