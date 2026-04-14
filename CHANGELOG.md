@@ -433,3 +433,4 @@ Mon Apr 13 09:00:02 UTC 2026: docs: update platform architecture notes
 Tue Apr 14 01:00:04 UTC 2026: docs: update UAE compliance workflow spec
 Tue Apr 14 01:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Tue Apr 14 01:00:04 UTC 2026: feat: document fleet analytics data model
+Tue Apr 14 09:00:24 UTC 2026: docs: add demand forecasting model spec
