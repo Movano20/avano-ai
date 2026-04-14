@@ -444,3 +444,4 @@ Tue Apr 14 09:00:24 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-14] feat: enhance Arabic NLP response quality
 [2026-04-14] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-14] fix: deposit split validation for cash+card combinations
+[2026-04-14] fix: IDP expiry edge case for short-term rentals
