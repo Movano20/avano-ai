@@ -447,3 +447,4 @@ Tue Apr 14 09:00:24 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-14] fix: IDP expiry edge case for short-term rentals
 [2026-04-14] docs: expand multilingual support documentation
 Wed Apr 15 01:00:03 UTC 2026: refactor: improve multi-tenant architecture docs
+Wed Apr 15 01:00:03 UTC 2026: docs: add dynamic pricing engine notes
