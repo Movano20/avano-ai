@@ -453,3 +453,4 @@ Wed Apr 15 09:00:06 UTC 2026: feat: document operator alert system design
 Wed Apr 15 09:00:06 UTC 2026: docs: add dynamic pricing engine notes
 Wed Apr 15 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-15] feat: add booking search by plate number
+[2026-04-15] docs: Q3 2026 roadmap update — logistics expansion
