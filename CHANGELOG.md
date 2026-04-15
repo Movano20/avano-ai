@@ -461,3 +461,4 @@ Wed Apr 15 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-15] fix: IDP expiry edge case for short-term rentals
 [2026-04-15] fix: race condition in concurrent booking confirmations
 [2026-04-15] docs: add operator onboarding guide
+[2026-04-15] fix: edge case in deposit calculation for multi-day rentals
