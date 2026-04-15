@@ -458,3 +458,4 @@ Wed Apr 15 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-15] fix: deposit split validation for cash+card combinations
 [2026-04-15] feat: improve WhatsApp message delivery retry logic
 [2026-04-15] feat: improve booking confirmation response time
+[2026-04-15] fix: IDP expiry edge case for short-term rentals
