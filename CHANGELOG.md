@@ -477,3 +477,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-16] refactor: clean up closing flow state transitions
 [2026-04-16] refactor: consolidate pricing engine rate selection logic
 [2026-04-16] feat: improve booking confirmation response time
+[2026-04-16] fix: race condition in concurrent booking confirmations
