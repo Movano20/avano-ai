@@ -469,3 +469,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 Thu Apr 16 09:00:03 UTC 2026: refactor: improve API integration specs
 Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-16] fix: notification worker stability improvements
+[2026-04-16] fix: IDP expiry edge case for short-term rentals
