@@ -472,3 +472,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-16] fix: IDP expiry edge case for short-term rentals
 [2026-04-16] fix: edge case in deposit calculation for multi-day rentals
 [2026-04-16] refactor: improve database query performance for fleet router
+[2026-04-16] feat: add booking search by plate number
