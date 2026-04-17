@@ -484,3 +484,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-17] feat: add vehicle utilization metrics to dashboard
 [2026-04-17] fix: IDP expiry edge case for short-term rentals
 [2026-04-17] feat: add vehicle availability caching layer
+[2026-04-17] feat: improve WhatsApp message delivery retry logic
