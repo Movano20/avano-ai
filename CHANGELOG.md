@@ -481,3 +481,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 [2026-04-17] refactor: improve database query performance for fleet router
 [2026-04-17] refactor: clean up closing flow state transitions
 [2026-04-17] feat: add telemetry logging for operator assistant commands
+[2026-04-17] feat: add vehicle utilization metrics to dashboard
