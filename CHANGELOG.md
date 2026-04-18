@@ -502,3 +502,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-18] fix: IDP expiry edge case for short-term rentals
 [2026-04-18] fix: race condition in concurrent booking confirmations
 [2026-04-18] refactor: clean up closing flow state transitions
+[2026-04-18] feat: add telemetry logging for operator assistant commands
