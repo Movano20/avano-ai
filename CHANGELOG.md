@@ -491,3 +491,4 @@ Thu Apr 16 09:00:03 UTC 2026: refactor: improve customer conversation flow docs
 Sat Apr 18 01:00:06 UTC 2026: refactor: improve booking lifecycle documentation
 Sat Apr 18 01:00:06 UTC 2026: feat: add operator onboarding flow documentation
 Sat Apr 18 01:00:06 UTC 2026: feat: add operator onboarding flow documentation
+Sat Apr 18 09:00:02 UTC 2026: docs: add demand forecasting model spec
