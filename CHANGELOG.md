@@ -496,3 +496,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: add demand forecasting model spec
 Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-18] feat: smart alert thresholds for low Salik balance
 [2026-04-18] fix: edge case in handover checklist for vehicle swap
+[2026-04-18] feat: add CSV export for monthly rental reports
