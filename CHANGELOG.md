@@ -506,3 +506,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-18] refactor: optimize ConversationEngine message routing
 [2026-04-19] fix: edge case in handover checklist for vehicle swap
 [2026-04-19] refactor: clean up closing flow state transitions
+[2026-04-19] docs: Q3 2026 roadmap update — logistics expansion
