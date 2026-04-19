@@ -511,3 +511,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-19] fix: notification worker stability improvements
 [2026-04-19] feat: improve booking confirmation response time
 [2026-04-19] refactor: improve database query performance for fleet router
+[2026-04-19] feat: operator NL assistant handles partial commands
