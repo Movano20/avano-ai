@@ -513,3 +513,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-19] refactor: improve database query performance for fleet router
 [2026-04-19] feat: operator NL assistant handles partial commands
 [2026-04-19] refactor: consolidate pricing engine rate selection logic
+[2026-04-19] feat: add booking search by plate number
