@@ -529,3 +529,4 @@ Mon Apr 20 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-20] fix: notification worker stability improvements
 [2026-04-20] refactor: consolidate pricing engine rate selection logic
 [2026-04-20] fix: deposit split validation for cash+card combinations
+[2026-04-20] docs: expand multilingual support documentation
