@@ -521,3 +521,4 @@ Mon Apr 20 09:00:07 UTC 2026: refactor: improve customer conversation flow docs
 Mon Apr 20 09:00:07 UTC 2026: docs: update platform architecture notes
 Mon Apr 20 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-20] docs: update architecture diagram for fleet intelligence layer
+[2026-04-20] fix: IDP expiry edge case for short-term rentals
