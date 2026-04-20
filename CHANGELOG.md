@@ -527,3 +527,4 @@ Mon Apr 20 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-20] feat: improve booking confirmation response time
 [2026-04-20] feat: operator NL assistant handles partial commands
 [2026-04-20] fix: notification worker stability improvements
+[2026-04-20] refactor: consolidate pricing engine rate selection logic
