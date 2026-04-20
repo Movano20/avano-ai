@@ -516,3 +516,4 @@ Sat Apr 18 09:00:02 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-19] feat: add booking search by plate number
 Mon Apr 20 01:00:04 UTC 2026: feat: add operator onboarding flow documentation
 Mon Apr 20 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
+Mon Apr 20 01:00:04 UTC 2026: docs: add dynamic pricing engine notes
