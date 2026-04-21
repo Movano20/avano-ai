@@ -545,3 +545,4 @@ Tue Apr 21 09:00:03 UTC 2026: feat: document WhatsApp automation flow
 [2026-04-21] docs: compliance and data retention policy update
 [2026-04-21] fix: notification worker stability improvements
 [2026-04-21] feat: operator NL assistant handles partial commands
+[2026-04-21] fix: timezone handling for UAE late-night bookings
