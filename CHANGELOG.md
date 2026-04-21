@@ -541,3 +541,4 @@ Tue Apr 21 09:00:03 UTC 2026: feat: document WhatsApp automation flow
 [2026-04-21] feat: add vehicle utilization metrics to dashboard
 [2026-04-21] feat: smart alert thresholds for low Salik balance
 [2026-04-21] refactor: optimize ConversationEngine message routing
+[2026-04-21] docs: add operator onboarding guide
