@@ -538,3 +538,4 @@ Tue Apr 21 09:00:03 UTC 2026: docs: add demand forecasting model spec
 Tue Apr 21 09:00:03 UTC 2026: feat: document WhatsApp automation flow
 [2026-04-21] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-21] docs: Q3 2026 roadmap update — logistics expansion
+[2026-04-21] feat: add vehicle utilization metrics to dashboard
