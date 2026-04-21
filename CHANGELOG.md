@@ -535,3 +535,4 @@ Tue Apr 21 01:00:06 UTC 2026: feat: document fleet analytics data model
 Tue Apr 21 01:00:06 UTC 2026: docs: add dynamic pricing engine notes
 Tue Apr 21 09:00:03 UTC 2026: feat: document fleet analytics data model
 Tue Apr 21 09:00:03 UTC 2026: docs: add demand forecasting model spec
+Tue Apr 21 09:00:03 UTC 2026: feat: document WhatsApp automation flow
