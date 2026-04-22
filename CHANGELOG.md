@@ -561,3 +561,4 @@ Wed Apr 22 09:00:05 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-22] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-22] feat: enhance Arabic NLP response quality
 [2026-04-22] fix: race condition in concurrent booking confirmations
+[2026-04-22] refactor: optimize ConversationEngine message routing
