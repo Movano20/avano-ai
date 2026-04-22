@@ -548,3 +548,4 @@ Tue Apr 21 09:00:03 UTC 2026: feat: document WhatsApp automation flow
 [2026-04-21] fix: timezone handling for UAE late-night bookings
 Wed Apr 22 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Wed Apr 22 01:00:04 UTC 2026: feat: document fleet analytics data model
+Wed Apr 22 01:00:04 UTC 2026: refactor: improve API integration specs
