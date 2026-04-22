@@ -555,3 +555,4 @@ Wed Apr 22 09:00:05 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-22] feat: add telemetry logging for operator assistant commands
 [2026-04-22] fix: edge case in deposit calculation for multi-day rentals
 [2026-04-22] feat: improve fines sync error handling and retry logic
+[2026-04-22] refactor: clean up closing flow state transitions
