@@ -564,3 +564,4 @@ Wed Apr 22 09:00:05 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-22] refactor: optimize ConversationEngine message routing
 Thu Apr 23 01:00:04 UTC 2026: refactor: improve booking lifecycle documentation
 Thu Apr 23 01:00:05 UTC 2026: feat: document WhatsApp automation flow
+Thu Apr 23 01:00:05 UTC 2026: feat: document operator alert system design
