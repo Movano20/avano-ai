@@ -574,3 +574,4 @@ Thu Apr 23 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-23] fix: deposit split validation for cash+card combinations
 [2026-04-23] fix: IDP expiry edge case for short-term rentals
 [2026-04-23] feat: add CSV export for monthly rental reports
+[2026-04-23] fix: edge case in handover checklist for vehicle swap
