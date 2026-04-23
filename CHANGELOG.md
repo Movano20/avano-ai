@@ -570,3 +570,4 @@ Thu Apr 23 09:00:06 UTC 2026: docs: update platform architecture notes
 Thu Apr 23 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-04-23] refactor: clean up closing flow state transitions
 [2026-04-23] docs: add operator onboarding guide
+[2026-04-23] feat: add vehicle availability caching layer
