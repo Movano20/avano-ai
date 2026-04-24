@@ -586,3 +586,4 @@ Fri Apr 24 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Fri Apr 24 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-24] refactor: clean up closing flow state transitions
 [2026-04-24] fix: edge case in deposit calculation for multi-day rentals
+[2026-04-24] feat: enhance bot tone calibration for Gulf Arabic dialect
