@@ -590,3 +590,4 @@ Fri Apr 24 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-24] feat: operator NL assistant handles partial commands
 [2026-04-24] docs: compliance and data retention policy update
 [2026-04-24] docs: update architecture diagram for fleet intelligence layer
+[2026-04-24] feat: add CSV export for monthly rental reports
