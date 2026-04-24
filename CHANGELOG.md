@@ -592,3 +592,4 @@ Fri Apr 24 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-24] docs: update architecture diagram for fleet intelligence layer
 [2026-04-24] feat: add CSV export for monthly rental reports
 [2026-04-24] feat: smart alert thresholds for low Salik balance
+[2026-04-24] fix: timezone handling for UAE late-night bookings
