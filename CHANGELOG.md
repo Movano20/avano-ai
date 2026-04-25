@@ -603,3 +603,4 @@ Sat Apr 25 09:00:04 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-25] refactor: consolidate pricing engine rate selection logic
 [2026-04-25] feat: improve WhatsApp message delivery retry logic
 [2026-04-25] refactor: optimize ConversationEngine message routing
+[2026-04-25] feat: add booking search by plate number
