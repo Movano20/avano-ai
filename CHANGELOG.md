@@ -609,3 +609,4 @@ Sat Apr 25 09:00:04 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-25] refactor: improve database query performance for fleet router
 [2026-04-25] feat: add CSV export for monthly rental reports
 [2026-04-25] docs: compliance and data retention policy update
+[2026-04-25] fix: deposit split validation for cash+card combinations
