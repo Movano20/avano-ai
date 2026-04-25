@@ -595,3 +595,4 @@ Fri Apr 24 09:00:04 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-24] fix: timezone handling for UAE late-night bookings
 [2026-04-24] refactor: optimize ConversationEngine message routing
 Sat Apr 25 01:00:04 UTC 2026: refactor: improve customer conversation flow docs
+Sat Apr 25 01:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
