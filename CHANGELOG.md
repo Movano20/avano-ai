@@ -612,3 +612,4 @@ Sat Apr 25 09:00:04 UTC 2026: docs: update UAE compliance workflow spec
 [2026-04-25] fix: deposit split validation for cash+card combinations
 Sun Apr 26 01:00:05 UTC 2026: refactor: improve API integration specs
 Sun Apr 26 01:00:05 UTC 2026: docs: update sovereign AI model training plan
+Sun Apr 26 01:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
