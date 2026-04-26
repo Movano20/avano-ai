@@ -617,3 +617,4 @@ Sun Apr 26 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 Sun Apr 26 09:00:04 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun Apr 26 09:00:04 UTC 2026: feat: document fleet analytics data model
 [2026-04-26] feat: enhance Arabic NLP response quality
+[2026-04-26] fix: timezone handling for UAE late-night bookings
