@@ -622,3 +622,4 @@ Sun Apr 26 09:00:04 UTC 2026: feat: document fleet analytics data model
 [2026-04-26] feat: enhance document OCR confidence scoring
 [2026-04-26] fix: race condition in concurrent booking confirmations
 [2026-04-26] feat: add vehicle availability caching layer
+[2026-04-26] feat: add booking search by plate number
