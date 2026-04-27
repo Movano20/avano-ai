@@ -639,3 +639,4 @@ Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 [2026-04-27] fix: IDP expiry edge case for short-term rentals
 [2026-04-27] feat: add vehicle utilization metrics to dashboard
 [2026-04-27] feat: improve booking confirmation response time
+[2026-04-27] feat: enhance Arabic NLP response quality
