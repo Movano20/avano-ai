@@ -634,3 +634,4 @@ Mon Apr 27 09:00:05 UTC 2026: docs: add demand forecasting model spec
 Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 [2026-04-27] refactor: consolidate pricing engine rate selection logic
 [2026-04-27] feat: improve fines sync error handling and retry logic
+[2026-04-27] docs: expand multilingual support documentation
