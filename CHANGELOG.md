@@ -637,3 +637,4 @@ Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 [2026-04-27] docs: expand multilingual support documentation
 [2026-04-27] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-27] fix: IDP expiry edge case for short-term rentals
+[2026-04-27] feat: add vehicle utilization metrics to dashboard
