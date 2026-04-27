@@ -641,3 +641,4 @@ Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 [2026-04-27] feat: improve booking confirmation response time
 [2026-04-27] feat: enhance Arabic NLP response quality
 [2026-04-27] refactor: clean up closing flow state transitions
+[2026-04-27] docs: update architecture diagram for fleet intelligence layer
