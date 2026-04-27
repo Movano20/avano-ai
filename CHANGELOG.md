@@ -627,3 +627,4 @@ Sun Apr 26 09:00:04 UTC 2026: feat: document fleet analytics data model
 [2026-04-26] feat: add telemetry logging for operator assistant commands
 [2026-04-26] fix: deposit split validation for cash+card combinations
 Mon Apr 27 01:00:06 UTC 2026: docs: add dynamic pricing engine notes
+Mon Apr 27 01:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
