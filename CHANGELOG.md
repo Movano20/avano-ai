@@ -631,3 +631,4 @@ Mon Apr 27 01:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Apr 27 01:00:06 UTC 2026: feat: document fleet analytics data model
 Mon Apr 27 09:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Apr 27 09:00:05 UTC 2026: docs: add demand forecasting model spec
+Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
