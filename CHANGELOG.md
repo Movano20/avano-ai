@@ -654,3 +654,4 @@ Tue Apr 28 09:00:06 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-28] feat: add telemetry logging for operator assistant commands
 [2026-04-28] feat: add booking search by plate number
 [2026-04-28] fix: IDP expiry edge case for short-term rentals
+[2026-04-28] refactor: clean up closing flow state transitions
