@@ -657,3 +657,4 @@ Tue Apr 28 09:00:06 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-28] refactor: clean up closing flow state transitions
 [2026-04-28] feat: enhance Arabic NLP response quality
 [2026-04-28] refactor: consolidate pricing engine rate selection logic
+[2026-04-28] fix: edge case in deposit calculation for multi-day rentals
