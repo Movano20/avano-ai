@@ -644,3 +644,4 @@ Mon Apr 27 09:00:05 UTC 2026: feat: add operator onboarding flow documentation
 [2026-04-27] docs: update architecture diagram for fleet intelligence layer
 Tue Apr 28 01:00:03 UTC 2026: docs: update Arabic NLP pipeline notes
 Tue Apr 28 01:00:03 UTC 2026: docs: update Arabic NLP pipeline notes
+Tue Apr 28 01:00:03 UTC 2026: refactor: improve customer conversation flow docs
