@@ -649,3 +649,4 @@ Tue Apr 28 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 Tue Apr 28 09:00:06 UTC 2026: docs: add demand forecasting model spec
 Tue Apr 28 09:00:06 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-28] feat: improve fines sync error handling and retry logic
+[2026-04-28] feat: improve WhatsApp message delivery retry logic
