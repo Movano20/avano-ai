@@ -646,3 +646,4 @@ Tue Apr 28 01:00:03 UTC 2026: docs: update Arabic NLP pipeline notes
 Tue Apr 28 01:00:03 UTC 2026: docs: update Arabic NLP pipeline notes
 Tue Apr 28 01:00:03 UTC 2026: refactor: improve customer conversation flow docs
 Tue Apr 28 09:00:06 UTC 2026: docs: update GCC expansion roadmap
+Tue Apr 28 09:00:06 UTC 2026: docs: add demand forecasting model spec
