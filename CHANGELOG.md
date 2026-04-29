@@ -659,3 +659,4 @@ Tue Apr 28 09:00:06 UTC 2026: docs: add dynamic pricing engine notes
 [2026-04-28] refactor: consolidate pricing engine rate selection logic
 [2026-04-28] fix: edge case in deposit calculation for multi-day rentals
 Wed Apr 29 01:00:06 UTC 2026: docs: add demand forecasting model spec
+Wed Apr 29 01:00:06 UTC 2026: refactor: improve API integration specs
