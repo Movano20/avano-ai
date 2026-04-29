@@ -673,3 +673,4 @@ Wed Apr 29 09:00:05 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-29] feat: enhance Arabic NLP response quality
 [2026-04-29] feat: improve booking confirmation response time
 [2026-04-29] refactor: optimize ConversationEngine message routing
+[2026-04-29] feat: add CSV export for monthly rental reports
