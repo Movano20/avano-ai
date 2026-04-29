@@ -665,3 +665,4 @@ Wed Apr 29 09:00:05 UTC 2026: docs: update platform architecture notes
 Wed Apr 29 09:00:05 UTC 2026: refactor: improve customer conversation flow docs
 Wed Apr 29 09:00:05 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-29] feat: add booking search by plate number
+[2026-04-29] fix: IDP expiry edge case for short-term rentals
