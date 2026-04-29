@@ -668,3 +668,4 @@ Wed Apr 29 09:00:05 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-29] fix: IDP expiry edge case for short-term rentals
 [2026-04-29] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-04-29] feat: improve WhatsApp message delivery retry logic
+[2026-04-29] feat: add telemetry logging for operator assistant commands
