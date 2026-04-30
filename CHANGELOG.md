@@ -676,3 +676,4 @@ Wed Apr 29 09:00:05 UTC 2026: docs: update sovereign AI model training plan
 [2026-04-29] feat: add CSV export for monthly rental reports
 Thu Apr 30 01:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu Apr 30 01:00:05 UTC 2026: refactor: improve customer conversation flow docs
+Thu Apr 30 01:00:05 UTC 2026: docs: update UAE compliance workflow spec
