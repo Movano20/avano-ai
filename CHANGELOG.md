@@ -689,3 +689,4 @@ Thu Apr 30 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-30] fix: deposit split validation for cash+card combinations
 [2026-04-30] fix: timezone handling for UAE late-night bookings
 [2026-04-30] refactor: improve database query performance for fleet router
+[2026-04-30] feat: add CSV export for monthly rental reports
