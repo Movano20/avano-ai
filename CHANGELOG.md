@@ -685,3 +685,4 @@ Thu Apr 30 09:00:03 UTC 2026: feat: document operator alert system design
 [2026-04-30] feat: operator NL assistant handles partial commands
 [2026-04-30] feat: improve booking confirmation response time
 [2026-04-30] docs: expand multilingual support documentation
+[2026-04-30] feat: add vehicle utilization metrics to dashboard
