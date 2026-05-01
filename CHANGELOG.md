@@ -703,3 +703,4 @@ Fri May  1 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-01] fix: IDP expiry edge case for short-term rentals
 [2026-05-01] docs: update API reference for booking lifecycle endpoints
 [2026-05-01] feat: operator NL assistant handles partial commands
+[2026-05-01] docs: update architecture diagram for fleet intelligence layer
