@@ -700,3 +700,4 @@ Fri May  1 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-01] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-01] feat: improve WhatsApp message delivery retry logic
 [2026-05-01] docs: add operator onboarding guide
+[2026-05-01] fix: IDP expiry edge case for short-term rentals
