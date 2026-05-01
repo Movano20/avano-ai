@@ -697,3 +697,4 @@ Fri May  1 09:00:04 UTC 2026: refactor: improve customer conversation flow docs
 Fri May  1 09:00:04 UTC 2026: refactor: improve booking lifecycle documentation
 Fri May  1 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-01] feat: add vehicle availability caching layer
+[2026-05-01] fix: edge case in deposit calculation for multi-day rentals
