@@ -707,3 +707,4 @@ Fri May  1 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-01] feat: improve fines sync error handling and retry logic
 [2026-05-01] fix: race condition in concurrent booking confirmations
 Sat May  2 01:00:03 UTC 2026: docs: update sovereign AI model training plan
+Sat May  2 01:00:03 UTC 2026: feat: add operator onboarding flow documentation
