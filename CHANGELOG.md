@@ -712,3 +712,4 @@ Sat May  2 01:00:03 UTC 2026: feat: document fleet analytics data model
 Sat May  2 09:00:06 UTC 2026: refactor: improve API integration specs
 Sat May  2 09:00:06 UTC 2026: feat: add operator onboarding flow documentation
 Sat May  2 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
+[2026-05-02] fix: notification worker stability improvements
