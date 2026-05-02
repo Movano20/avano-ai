@@ -718,3 +718,4 @@ Sat May  2 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-02] fix: timezone handling for UAE late-night bookings
 [2026-05-02] refactor: improve database query performance for fleet router
 [2026-05-02] fix: race condition in concurrent booking confirmations
+[2026-05-02] feat: enhance bot tone calibration for Gulf Arabic dialect
