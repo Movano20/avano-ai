@@ -714,3 +714,4 @@ Sat May  2 09:00:06 UTC 2026: feat: add operator onboarding flow documentation
 Sat May  2 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-02] fix: notification worker stability improvements
 [2026-05-02] fix: edge case in handover checklist for vehicle swap
+[2026-05-02] feat: improve fines sync error handling and retry logic
