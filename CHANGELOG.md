@@ -724,3 +724,4 @@ Sat May  2 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-02] feat: add vehicle availability caching layer
 Sun May  3 01:00:05 UTC 2026: docs: update UAE compliance workflow spec
 Sun May  3 01:00:05 UTC 2026: docs: add dynamic pricing engine notes
+Sun May  3 01:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
