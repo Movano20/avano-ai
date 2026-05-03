@@ -735,3 +735,4 @@ Sun May  3 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-03] fix: race condition in concurrent booking confirmations
 [2026-05-03] feat: smart alert thresholds for low Salik balance
 [2026-05-03] docs: add operator onboarding guide
+[2026-05-03] refactor: clean up closing flow state transitions
