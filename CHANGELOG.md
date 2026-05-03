@@ -729,3 +729,4 @@ Sun May  3 09:00:04 UTC 2026: feat: document operator alert system design
 Sun May  3 09:00:04 UTC 2026: feat: document WhatsApp automation flow
 Sun May  3 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-03] fix: notification worker stability improvements
+[2026-05-03] refactor: optimize ConversationEngine message routing
