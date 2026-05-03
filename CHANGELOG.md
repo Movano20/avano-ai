@@ -737,3 +737,4 @@ Sun May  3 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-03] docs: add operator onboarding guide
 [2026-05-03] refactor: clean up closing flow state transitions
 [2026-05-03] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-05-03] docs: compliance and data retention policy update
