@@ -722,3 +722,4 @@ Sat May  2 09:00:06 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-02] feat: smart alert thresholds for low Salik balance
 [2026-05-02] fix: IDP expiry edge case for short-term rentals
 [2026-05-02] feat: add vehicle availability caching layer
+Sun May  3 01:00:05 UTC 2026: docs: update UAE compliance workflow spec
