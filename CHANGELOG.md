@@ -726,3 +726,4 @@ Sun May  3 01:00:05 UTC 2026: docs: update UAE compliance workflow spec
 Sun May  3 01:00:05 UTC 2026: docs: add dynamic pricing engine notes
 Sun May  3 01:00:05 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun May  3 09:00:04 UTC 2026: feat: document operator alert system design
+Sun May  3 09:00:04 UTC 2026: feat: document WhatsApp automation flow
