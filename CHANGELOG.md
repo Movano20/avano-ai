@@ -742,3 +742,4 @@ Mon May  4 01:00:05 UTC 2026: refactor: improve API integration specs
 Mon May  4 01:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon May  4 01:00:05 UTC 2026: feat: document WhatsApp automation flow
 Mon May  4 09:00:04 UTC 2026: refactor: improve booking lifecycle documentation
+Mon May  4 09:00:04 UTC 2026: docs: update GCC expansion roadmap
