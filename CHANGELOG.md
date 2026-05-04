@@ -740,3 +740,4 @@ Sun May  3 09:00:04 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-03] docs: compliance and data retention policy update
 Mon May  4 01:00:05 UTC 2026: refactor: improve API integration specs
 Mon May  4 01:00:05 UTC 2026: docs: update Arabic NLP pipeline notes
+Mon May  4 01:00:05 UTC 2026: feat: document WhatsApp automation flow
