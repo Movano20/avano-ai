@@ -746,3 +746,4 @@ Mon May  4 09:00:04 UTC 2026: docs: update GCC expansion roadmap
 Mon May  4 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-04] refactor: improve database query performance for fleet router
 [2026-05-04] feat: smart alert thresholds for low Salik balance
+[2026-05-04] docs: add operator onboarding guide
