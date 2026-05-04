@@ -750,3 +750,4 @@ Mon May  4 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-04] docs: update API reference for booking lifecycle endpoints
 [2026-05-04] fix: race condition in concurrent booking confirmations
 [2026-05-04] fix: IDP expiry edge case for short-term rentals
+[2026-05-04] refactor: optimize ConversationEngine message routing
