@@ -756,3 +756,4 @@ Mon May  4 09:00:04 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-04] feat: enhance bot tone calibration for Gulf Arabic dialect
 Tue May  5 09:00:19 UTC 2026: refactor: improve customer conversation flow docs
 Tue May  5 09:00:19 UTC 2026: docs: update platform architecture notes
+Tue May  5 09:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
