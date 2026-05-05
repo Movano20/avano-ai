@@ -763,3 +763,4 @@ Tue May  5 09:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-05] fix: deposit split validation for cash+card combinations
 [2026-05-05] docs: update API reference for booking lifecycle endpoints
 [2026-05-05] feat: improve WhatsApp message delivery retry logic
+[2026-05-05] fix: race condition in concurrent booking confirmations
