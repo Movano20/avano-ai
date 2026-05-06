@@ -778,3 +778,4 @@ Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-06] fix: IDP expiry edge case for short-term rentals
 [2026-05-06] docs: update architecture diagram for fleet intelligence layer
 [2026-05-06] fix: edge case in deposit calculation for multi-day rentals
+[2026-05-06] fix: edge case in handover checklist for vehicle swap
