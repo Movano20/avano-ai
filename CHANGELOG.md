@@ -776,3 +776,4 @@ Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-06] feat: add telemetry logging for operator assistant commands
 [2026-05-06] feat: add vehicle availability caching layer
 [2026-05-06] fix: IDP expiry edge case for short-term rentals
+[2026-05-06] docs: update architecture diagram for fleet intelligence layer
