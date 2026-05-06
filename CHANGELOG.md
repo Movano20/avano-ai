@@ -773,3 +773,4 @@ Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-06] fix: deposit split validation for cash+card combinations
 [2026-05-06] feat: add vehicle utilization metrics to dashboard
 [2026-05-06] feat: enhance document OCR confidence scoring
+[2026-05-06] feat: add telemetry logging for operator assistant commands
