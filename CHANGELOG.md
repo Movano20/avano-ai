@@ -767,3 +767,4 @@ Tue May  5 09:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-05] refactor: consolidate pricing engine rate selection logic
 [2026-05-05] feat: add CSV export for monthly rental reports
 [2026-05-05] docs: add operator onboarding guide
+Wed May  6 01:00:11 UTC 2026: refactor: improve API integration specs
