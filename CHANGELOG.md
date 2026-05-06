@@ -769,3 +769,4 @@ Tue May  5 09:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-05] docs: add operator onboarding guide
 Wed May  6 01:00:11 UTC 2026: refactor: improve API integration specs
 Wed May  6 01:00:11 UTC 2026: docs: update UAE compliance workflow spec
+Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
