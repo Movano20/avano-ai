@@ -787,3 +787,4 @@ Thu May  7 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 Thu May  7 09:00:14 UTC 2026: docs: update GCC expansion roadmap
 Thu May  7 09:00:14 UTC 2026: refactor: improve API integration specs
 [2026-05-07] feat: add booking search by plate number
+[2026-05-07] refactor: improve database query performance for fleet router
