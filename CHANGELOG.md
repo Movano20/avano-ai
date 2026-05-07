@@ -792,3 +792,4 @@ Thu May  7 09:00:14 UTC 2026: refactor: improve API integration specs
 [2026-05-07] docs: Q3 2026 roadmap update — logistics expansion
 [2026-05-07] feat: add telemetry logging for operator assistant commands
 [2026-05-07] fix: race condition in concurrent booking confirmations
+[2026-05-07] feat: enhance bot tone calibration for Gulf Arabic dialect
