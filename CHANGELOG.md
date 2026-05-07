@@ -795,3 +795,4 @@ Thu May  7 09:00:14 UTC 2026: refactor: improve API integration specs
 [2026-05-07] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-05-07] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-07] feat: improve WhatsApp message delivery retry logic
+[2026-05-07] docs: update architecture diagram for fleet intelligence layer
