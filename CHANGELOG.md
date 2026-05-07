@@ -783,3 +783,4 @@ Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
 Thu May  7 01:00:18 UTC 2026: docs: update sovereign AI model training plan
 Thu May  7 01:00:18 UTC 2026: docs: add demand forecasting model spec
 Thu May  7 01:00:18 UTC 2026: docs: add demand forecasting model spec
+Thu May  7 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
