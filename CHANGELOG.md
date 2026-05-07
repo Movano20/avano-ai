@@ -781,3 +781,4 @@ Wed May  6 01:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-06] fix: edge case in handover checklist for vehicle swap
 [2026-05-06] docs: Q3 2026 roadmap update — logistics expansion
 Thu May  7 01:00:18 UTC 2026: docs: update sovereign AI model training plan
+Thu May  7 01:00:18 UTC 2026: docs: add demand forecasting model spec
