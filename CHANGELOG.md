@@ -809,3 +809,4 @@ Fri May  8 09:00:07 UTC 2026: docs: add demand forecasting model spec
 [2026-05-08] fix: deposit split validation for cash+card combinations
 [2026-05-08] fix: race condition in concurrent booking confirmations
 [2026-05-08] refactor: improve database query performance for fleet router
+[2026-05-08] feat: add CSV export for monthly rental reports
