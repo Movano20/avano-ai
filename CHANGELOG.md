@@ -804,3 +804,4 @@ Fri May  8 09:00:07 UTC 2026: feat: document operator alert system design
 Fri May  8 09:00:07 UTC 2026: docs: add demand forecasting model spec
 [2026-05-08] feat: improve booking confirmation response time
 [2026-05-08] feat: add telemetry logging for operator assistant commands
+[2026-05-08] docs: expand multilingual support documentation
