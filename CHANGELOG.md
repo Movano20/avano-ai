@@ -807,3 +807,4 @@ Fri May  8 09:00:07 UTC 2026: docs: add demand forecasting model spec
 [2026-05-08] docs: expand multilingual support documentation
 [2026-05-08] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-08] fix: deposit split validation for cash+card combinations
+[2026-05-08] fix: race condition in concurrent booking confirmations
