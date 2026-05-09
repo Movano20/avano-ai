@@ -823,3 +823,4 @@ Sat May  9 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-09] docs: add operator onboarding guide
 [2026-05-09] fix: edge case in handover checklist for vehicle swap
 [2026-05-09] feat: improve WhatsApp message delivery retry logic
+[2026-05-09] fix: race condition in concurrent booking confirmations
