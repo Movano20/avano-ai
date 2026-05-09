@@ -813,3 +813,4 @@ Fri May  8 09:00:07 UTC 2026: docs: add demand forecasting model spec
 [2026-05-08] feat: enhance Arabic NLP response quality
 [2026-05-08] refactor: optimize ConversationEngine message routing
 Sat May  9 01:00:06 UTC 2026: feat: add operator onboarding flow documentation
+Sat May  9 01:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
