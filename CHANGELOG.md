@@ -843,3 +843,4 @@ Sun May 10 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-05-10] refactor: improve database query performance for fleet router
 [2026-05-10] docs: update API reference for booking lifecycle endpoints
 [2026-05-10] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-05-10] fix: notification worker stability improvements
