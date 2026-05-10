@@ -829,3 +829,4 @@ Sat May  9 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-05-09] docs: expand multilingual support documentation
 [2026-05-09] fix: timezone handling for UAE late-night bookings
 Sun May 10 01:00:09 UTC 2026: docs: update GCC expansion roadmap
+Sun May 10 01:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
