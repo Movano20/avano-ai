@@ -834,3 +834,4 @@ Sun May 10 01:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun May 10 09:00:10 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun May 10 09:00:10 UTC 2026: refactor: improve API integration specs
 Sun May 10 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
+[2026-05-10] fix: race condition in concurrent booking confirmations
