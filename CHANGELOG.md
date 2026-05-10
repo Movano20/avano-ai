@@ -839,3 +839,4 @@ Sun May 10 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-05-10] fix: timezone handling for UAE late-night bookings
 [2026-05-10] docs: add operator onboarding guide
 [2026-05-10] refactor: optimize ConversationEngine message routing
+[2026-05-10] feat: add vehicle utilization metrics to dashboard
