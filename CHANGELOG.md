@@ -841,3 +841,4 @@ Sun May 10 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-05-10] refactor: optimize ConversationEngine message routing
 [2026-05-10] feat: add vehicle utilization metrics to dashboard
 [2026-05-10] refactor: improve database query performance for fleet router
+[2026-05-10] docs: update API reference for booking lifecycle endpoints
