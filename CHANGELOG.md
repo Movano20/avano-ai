@@ -854,3 +854,4 @@ Mon May 11 09:00:36 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-11] feat: enhance document OCR confidence scoring
 [2026-05-11] docs: expand multilingual support documentation
 [2026-05-11] docs: add operator onboarding guide
+[2026-05-11] fix: edge case in handover checklist for vehicle swap
