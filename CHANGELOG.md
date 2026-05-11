@@ -856,3 +856,4 @@ Mon May 11 09:00:36 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-11] docs: add operator onboarding guide
 [2026-05-11] fix: edge case in handover checklist for vehicle swap
 [2026-05-11] fix: race condition in concurrent booking confirmations
+[2026-05-11] docs: update architecture diagram for fleet intelligence layer
