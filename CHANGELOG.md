@@ -847,3 +847,4 @@ Sun May 10 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
 Mon May 11 01:00:17 UTC 2026: docs: update platform architecture notes
 Mon May 11 01:00:17 UTC 2026: refactor: improve multi-tenant architecture docs
 Mon May 11 01:00:17 UTC 2026: refactor: improve multi-tenant architecture docs
+Mon May 11 09:00:36 UTC 2026: feat: document fleet analytics data model
