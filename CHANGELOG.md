@@ -874,3 +874,4 @@ Tue May 12 09:00:12 UTC 2026: docs: add demand forecasting model spec
 [2026-05-12] refactor: improve database query performance for fleet router
 [2026-05-12] feat: add CSV export for monthly rental reports
 [2026-05-12] feat: add booking search by plate number
+[2026-05-12] feat: operator NL assistant handles partial commands
