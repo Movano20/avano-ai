@@ -869,3 +869,4 @@ Tue May 12 09:00:12 UTC 2026: docs: add demand forecasting model spec
 [2026-05-12] docs: update API reference for booking lifecycle endpoints
 [2026-05-12] fix: race condition in concurrent booking confirmations
 [2026-05-12] refactor: consolidate pricing engine rate selection logic
+[2026-05-12] fix: edge case in deposit calculation for multi-day rentals
