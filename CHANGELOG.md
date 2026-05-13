@@ -882,3 +882,4 @@ Wed May 13 01:00:14 UTC 2026: docs: update GCC expansion roadmap
 Wed May 13 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
 Wed May 13 09:00:15 UTC 2026: refactor: improve API integration specs
 Wed May 13 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
+[2026-05-13] docs: expand multilingual support documentation
