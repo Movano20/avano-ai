@@ -890,3 +890,4 @@ Wed May 13 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
 [2026-05-13] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-05-13] fix: edge case in handover checklist for vehicle swap
 [2026-05-13] feat: enhance document OCR confidence scoring
+[2026-05-13] feat: enhance Arabic NLP response quality
