@@ -879,3 +879,4 @@ Tue May 12 09:00:12 UTC 2026: docs: add demand forecasting model spec
 Wed May 13 01:00:14 UTC 2026: docs: add demand forecasting model spec
 Wed May 13 01:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed May 13 01:00:14 UTC 2026: docs: update GCC expansion roadmap
+Wed May 13 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
