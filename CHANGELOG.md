@@ -887,3 +887,4 @@ Wed May 13 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
 [2026-05-13] feat: add vehicle availability caching layer
 [2026-05-13] fix: IDP expiry edge case for short-term rentals
 [2026-05-13] refactor: consolidate pricing engine rate selection logic
+[2026-05-13] feat: enhance bot tone calibration for Gulf Arabic dialect
