@@ -876,3 +876,4 @@ Tue May 12 09:00:12 UTC 2026: docs: add demand forecasting model spec
 [2026-05-12] feat: add booking search by plate number
 [2026-05-12] feat: operator NL assistant handles partial commands
 [2026-05-12] refactor: optimize ConversationEngine message routing
+Wed May 13 01:00:14 UTC 2026: docs: add demand forecasting model spec
