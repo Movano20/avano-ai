@@ -898,3 +898,4 @@ Thu May 14 01:00:17 UTC 2026: docs: update sovereign AI model training plan
 Thu May 14 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
 Thu May 14 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu May 14 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
+[2026-05-14] feat: enhance document OCR confidence scoring
