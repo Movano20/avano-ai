@@ -907,3 +907,4 @@ Thu May 14 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-14] refactor: optimize ConversationEngine message routing
 [2026-05-14] docs: Q3 2026 roadmap update — logistics expansion
 [2026-05-14] fix: IDP expiry edge case for short-term rentals
+[2026-05-14] refactor: clean up closing flow state transitions
