@@ -902,3 +902,4 @@ Thu May 14 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-14] feat: add telemetry logging for operator assistant commands
 [2026-05-14] fix: timezone handling for UAE late-night bookings
 [2026-05-14] fix: deposit split validation for cash+card combinations
+[2026-05-14] feat: operator NL assistant handles partial commands
