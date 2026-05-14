@@ -904,3 +904,4 @@ Thu May 14 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-05-14] fix: deposit split validation for cash+card combinations
 [2026-05-14] feat: operator NL assistant handles partial commands
 [2026-05-14] docs: expand multilingual support documentation
+[2026-05-14] refactor: optimize ConversationEngine message routing
