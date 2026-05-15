@@ -919,3 +919,4 @@ Fri May 15 14:58:28 UTC 2026: refactor: improve API integration specs
 [2026-05-15] feat: add vehicle availability caching layer
 [2026-05-15] fix: race condition in concurrent booking confirmations
 [2026-05-15] feat: improve fines sync error handling and retry logic
+[2026-05-15] feat: operator NL assistant handles partial commands
