@@ -917,3 +917,4 @@ Fri May 15 14:58:28 UTC 2026: refactor: improve API integration specs
 [2026-05-15] feat: enhance document OCR confidence scoring
 [2026-05-15] feat: smart alert thresholds for low Salik balance
 [2026-05-15] feat: add vehicle availability caching layer
+[2026-05-15] fix: race condition in concurrent booking confirmations
