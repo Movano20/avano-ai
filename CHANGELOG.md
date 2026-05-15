@@ -914,3 +914,4 @@ Fri May 15 01:00:30 UTC 2026: docs: update sovereign AI model training plan
 Fri May 15 14:58:27 UTC 2026: refactor: improve customer conversation flow docs
 Fri May 15 14:58:27 UTC 2026: docs: update platform architecture notes
 Fri May 15 14:58:28 UTC 2026: refactor: improve API integration specs
+[2026-05-15] feat: enhance document OCR confidence scoring
