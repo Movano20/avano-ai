@@ -916,3 +916,4 @@ Fri May 15 14:58:27 UTC 2026: docs: update platform architecture notes
 Fri May 15 14:58:28 UTC 2026: refactor: improve API integration specs
 [2026-05-15] feat: enhance document OCR confidence scoring
 [2026-05-15] feat: smart alert thresholds for low Salik balance
+[2026-05-15] feat: add vehicle availability caching layer
