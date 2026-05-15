@@ -923,3 +923,4 @@ Fri May 15 14:58:28 UTC 2026: refactor: improve API integration specs
 [2026-05-15] docs: expand multilingual support documentation
 [2026-05-15] feat: add CSV export for monthly rental reports
 [2026-05-15] docs: update API reference for booking lifecycle endpoints
+[2026-05-15] feat: add telemetry logging for operator assistant commands
