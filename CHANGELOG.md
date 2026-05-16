@@ -931,3 +931,4 @@ Sat May 16 09:00:29 UTC 2026: docs: update UAE compliance workflow spec
 Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 [2026-05-16] docs: update API reference for booking lifecycle endpoints
+[2026-05-16] feat: improve booking confirmation response time
