@@ -928,3 +928,4 @@ Sat May 16 01:00:13 UTC 2026: docs: update GCC expansion roadmap
 Sat May 16 01:00:14 UTC 2026: docs: update platform architecture notes
 Sat May 16 01:00:14 UTC 2026: docs: update platform architecture notes
 Sat May 16 09:00:29 UTC 2026: docs: update UAE compliance workflow spec
+Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
