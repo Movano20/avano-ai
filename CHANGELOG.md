@@ -936,3 +936,4 @@ Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 [2026-05-16] feat: add booking search by plate number
 [2026-05-16] feat: add vehicle availability caching layer
 [2026-05-16] feat: enhance Arabic NLP response quality
+[2026-05-16] refactor: clean up closing flow state transitions
