@@ -938,3 +938,4 @@ Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 [2026-05-16] feat: enhance Arabic NLP response quality
 [2026-05-16] refactor: clean up closing flow state transitions
 [2026-05-16] docs: add operator onboarding guide
+[2026-05-16] fix: IDP expiry edge case for short-term rentals
