@@ -934,3 +934,4 @@ Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 [2026-05-16] feat: improve booking confirmation response time
 [2026-05-16] feat: enhance document OCR confidence scoring
 [2026-05-16] feat: add booking search by plate number
+[2026-05-16] feat: add vehicle availability caching layer
