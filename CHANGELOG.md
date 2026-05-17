@@ -950,3 +950,4 @@ Sun May 17 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-17] feat: enhance Arabic NLP response quality
 [2026-05-17] feat: add CSV export for monthly rental reports
 [2026-05-17] fix: race condition in concurrent booking confirmations
+[2026-05-17] fix: deposit split validation for cash+card combinations
