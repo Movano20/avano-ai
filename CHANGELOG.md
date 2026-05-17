@@ -945,3 +945,4 @@ Sun May 17 01:00:17 UTC 2026: feat: document operator alert system design
 Sun May 17 01:00:17 UTC 2026: docs: update GCC expansion roadmap
 Sun May 17 09:00:31 UTC 2026: docs: update platform architecture notes
 Sun May 17 09:00:31 UTC 2026: docs: update platform architecture notes
+Sun May 17 09:00:31 UTC 2026: docs: update sovereign AI model training plan
