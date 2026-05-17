@@ -942,3 +942,4 @@ Sat May 16 09:00:29 UTC 2026: feat: document WhatsApp automation flow
 [2026-05-16] docs: expand multilingual support documentation
 Sun May 17 01:00:17 UTC 2026: feat: document operator alert system design
 Sun May 17 01:00:17 UTC 2026: feat: document operator alert system design
+Sun May 17 01:00:17 UTC 2026: docs: update GCC expansion roadmap
