@@ -953,3 +953,4 @@ Sun May 17 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-17] fix: deposit split validation for cash+card combinations
 [2026-05-17] feat: improve fines sync error handling and retry logic
 [2026-05-17] refactor: clean up closing flow state transitions
+[2026-05-17] docs: update architecture diagram for fleet intelligence layer
