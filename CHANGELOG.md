@@ -971,3 +971,4 @@ Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
 [2026-05-18] fix: timezone handling for UAE late-night bookings
 [2026-05-18] feat: improve WhatsApp message delivery retry logic
 [2026-05-18] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-05-18] feat: improve booking confirmation response time
