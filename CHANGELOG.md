@@ -956,3 +956,4 @@ Sun May 17 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-17] docs: update architecture diagram for fleet intelligence layer
 [2026-05-17] docs: compliance and data retention policy update
 [2026-05-17] feat: enhance document OCR confidence scoring
+Mon May 18 01:00:10 UTC 2026: refactor: improve API integration specs
