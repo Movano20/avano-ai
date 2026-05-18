@@ -966,3 +966,4 @@ Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
 [2026-05-18] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-18] docs: add operator onboarding guide
 [2026-05-18] feat: add vehicle utilization metrics to dashboard
+[2026-05-18] feat: add CSV export for monthly rental reports
