@@ -962,3 +962,4 @@ Mon May 18 01:00:10 UTC 2026: docs: update sovereign AI model training plan
 Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
 Mon May 18 09:00:17 UTC 2026: docs: add dynamic pricing engine notes
 Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
+[2026-05-18] refactor: clean up closing flow state transitions
