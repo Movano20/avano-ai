@@ -975,3 +975,4 @@ Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
 Tue May 19 01:00:12 UTC 2026: feat: document WhatsApp automation flow
 Tue May 19 01:00:12 UTC 2026: feat: document operator alert system design
 Tue May 19 01:00:12 UTC 2026: docs: add demand forecasting model spec
+Tue May 19 09:00:22 UTC 2026: feat: add operator onboarding flow documentation
