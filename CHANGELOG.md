@@ -974,3 +974,4 @@ Mon May 18 09:00:17 UTC 2026: feat: document fleet analytics data model
 [2026-05-18] feat: improve booking confirmation response time
 Tue May 19 01:00:12 UTC 2026: feat: document WhatsApp automation flow
 Tue May 19 01:00:12 UTC 2026: feat: document operator alert system design
+Tue May 19 01:00:12 UTC 2026: docs: add demand forecasting model spec
