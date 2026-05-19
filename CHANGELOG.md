@@ -979,3 +979,4 @@ Tue May 19 09:00:22 UTC 2026: feat: add operator onboarding flow documentation
 Tue May 19 09:00:22 UTC 2026: docs: update UAE compliance workflow spec
 Tue May 19 09:00:22 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-19] refactor: optimize ConversationEngine message routing
+[2026-05-19] feat: add vehicle utilization metrics to dashboard
