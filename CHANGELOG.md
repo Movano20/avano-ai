@@ -982,3 +982,4 @@ Tue May 19 09:00:22 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-19] feat: add vehicle utilization metrics to dashboard
 [2026-05-19] fix: deposit split validation for cash+card combinations
 [2026-05-19] feat: improve booking confirmation response time
+[2026-05-19] docs: expand multilingual support documentation
