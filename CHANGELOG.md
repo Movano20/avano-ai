@@ -984,3 +984,4 @@ Tue May 19 09:00:22 UTC 2026: feat: add operator onboarding flow documentation
 [2026-05-19] feat: improve booking confirmation response time
 [2026-05-19] docs: expand multilingual support documentation
 [2026-05-19] docs: update API reference for booking lifecycle endpoints
+[2026-05-19] fix: IDP expiry edge case for short-term rentals
