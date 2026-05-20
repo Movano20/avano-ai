@@ -997,3 +997,4 @@ Wed May 20 09:00:17 UTC 2026: docs: update platform architecture notes
 [2026-05-20] docs: compliance and data retention policy update
 [2026-05-20] fix: edge case in handover checklist for vehicle swap
 [2026-05-20] fix: race condition in concurrent booking confirmations
+[2026-05-20] fix: edge case in deposit calculation for multi-day rentals
