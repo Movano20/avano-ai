@@ -1003,3 +1003,4 @@ Wed May 20 09:00:17 UTC 2026: docs: update platform architecture notes
 [2026-05-20] feat: add CSV export for monthly rental reports
 [2026-05-20] feat: enhance document OCR confidence scoring
 [2026-05-20] fix: deposit split validation for cash+card combinations
+[2026-05-20] fix: timezone handling for UAE late-night bookings
