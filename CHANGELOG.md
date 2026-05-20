@@ -999,3 +999,4 @@ Wed May 20 09:00:17 UTC 2026: docs: update platform architecture notes
 [2026-05-20] fix: race condition in concurrent booking confirmations
 [2026-05-20] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-20] refactor: improve database query performance for fleet router
+[2026-05-20] feat: add booking search by plate number
