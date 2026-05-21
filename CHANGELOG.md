@@ -1019,3 +1019,4 @@ Thu May 21 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
 [2026-05-21] docs: update architecture diagram for fleet intelligence layer
 [2026-05-21] fix: timezone handling for UAE late-night bookings
 [2026-05-21] feat: smart alert thresholds for low Salik balance
+[2026-05-21] fix: notification worker stability improvements
