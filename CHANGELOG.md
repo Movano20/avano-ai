@@ -1008,3 +1008,4 @@ Thu May 21 01:00:33 UTC 2026: docs: update UAE compliance workflow spec
 Thu May 21 01:00:33 UTC 2026: feat: document WhatsApp automation flow
 Thu May 21 01:00:33 UTC 2026: docs: update GCC expansion roadmap
 Thu May 21 09:00:15 UTC 2026: feat: document fleet analytics data model
+Thu May 21 09:00:15 UTC 2026: docs: update sovereign AI model training plan
