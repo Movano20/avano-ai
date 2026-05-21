@@ -1005,3 +1005,4 @@ Wed May 20 09:00:17 UTC 2026: docs: update platform architecture notes
 [2026-05-20] fix: deposit split validation for cash+card combinations
 [2026-05-20] fix: timezone handling for UAE late-night bookings
 Thu May 21 01:00:33 UTC 2026: docs: update UAE compliance workflow spec
+Thu May 21 01:00:33 UTC 2026: feat: document WhatsApp automation flow
