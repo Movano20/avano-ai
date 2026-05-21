@@ -1014,3 +1014,4 @@ Thu May 21 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
 [2026-05-21] fix: IDP expiry edge case for short-term rentals
 [2026-05-21] refactor: clean up closing flow state transitions
 [2026-05-21] feat: add vehicle utilization metrics to dashboard
+[2026-05-21] feat: add CSV export for monthly rental reports
