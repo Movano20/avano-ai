@@ -1022,3 +1022,4 @@ Thu May 21 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
 [2026-05-21] fix: notification worker stability improvements
 Fri May 22 01:00:18 UTC 2026: feat: document WhatsApp automation flow
 Fri May 22 01:00:18 UTC 2026: docs: update UAE compliance workflow spec
+Fri May 22 01:00:18 UTC 2026: refactor: improve API integration specs
