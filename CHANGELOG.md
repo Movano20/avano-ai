@@ -1030,3 +1030,4 @@ Fri May 22 09:00:19 UTC 2026: feat: document operator alert system design
 [2026-05-22] refactor: optimize ConversationEngine message routing
 [2026-05-22] docs: compliance and data retention policy update
 [2026-05-22] fix: notification worker stability improvements
+[2026-05-22] feat: add booking search by plate number
