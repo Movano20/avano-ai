@@ -1035,3 +1035,4 @@ Fri May 22 09:00:19 UTC 2026: feat: document operator alert system design
 [2026-05-22] feat: enhance Arabic NLP response quality
 [2026-05-22] fix: deposit split validation for cash+card combinations
 [2026-05-22] docs: update API reference for booking lifecycle endpoints
+[2026-05-22] docs: add operator onboarding guide
