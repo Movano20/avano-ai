@@ -1043,3 +1043,4 @@ Sat May 23 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
 Sat May 23 09:00:14 UTC 2026: docs: update GCC expansion roadmap
 Sat May 23 09:00:14 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-05-23] fix: race condition in concurrent booking confirmations
+[2026-05-23] feat: add vehicle utilization metrics to dashboard
