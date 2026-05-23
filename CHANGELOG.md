@@ -1040,3 +1040,4 @@ Sat May 23 01:00:14 UTC 2026: refactor: improve booking lifecycle documentation
 Sat May 23 01:00:14 UTC 2026: docs: add dynamic pricing engine notes
 Sat May 23 01:00:14 UTC 2026: docs: update UAE compliance workflow spec
 Sat May 23 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
+Sat May 23 09:00:14 UTC 2026: docs: update GCC expansion roadmap
