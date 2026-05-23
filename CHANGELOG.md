@@ -1051,3 +1051,4 @@ Sat May 23 09:00:14 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-05-23] refactor: improve database query performance for fleet router
 [2026-05-23] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-23] feat: smart alert thresholds for low Salik balance
+[2026-05-23] docs: update API reference for booking lifecycle endpoints
