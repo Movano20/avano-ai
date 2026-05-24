@@ -1059,3 +1059,4 @@ Sun May 24 09:00:24 UTC 2026: docs: update UAE compliance workflow spec
 Sun May 24 09:00:24 UTC 2026: docs: update UAE compliance workflow spec
 Sun May 24 09:00:24 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-24] feat: smart alert thresholds for low Salik balance
+[2026-05-24] fix: edge case in handover checklist for vehicle swap
