@@ -1067,3 +1067,4 @@ Sun May 24 09:00:24 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-24] docs: update architecture diagram for fleet intelligence layer
 [2026-05-24] feat: add vehicle utilization metrics to dashboard
 [2026-05-24] feat: improve booking confirmation response time
+[2026-05-24] fix: race condition in concurrent booking confirmations
