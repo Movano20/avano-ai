@@ -1064,3 +1064,4 @@ Sun May 24 09:00:24 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-24] fix: notification worker stability improvements
 [2026-05-24] feat: add telemetry logging for operator assistant commands
 [2026-05-24] feat: add CSV export for monthly rental reports
+[2026-05-24] docs: update architecture diagram for fleet intelligence layer
