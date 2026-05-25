@@ -1073,3 +1073,4 @@ Mon May 25 01:00:31 UTC 2026: refactor: improve multi-tenant architecture docs
 Mon May 25 01:00:31 UTC 2026: feat: document fleet analytics data model
 Mon May 25 09:00:20 UTC 2026: refactor: improve booking lifecycle documentation
 Mon May 25 09:00:20 UTC 2026: feat: document fleet analytics data model
+Mon May 25 09:00:20 UTC 2026: docs: update sovereign AI model training plan
