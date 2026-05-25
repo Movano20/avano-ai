@@ -1076,3 +1076,4 @@ Mon May 25 09:00:20 UTC 2026: feat: document fleet analytics data model
 Mon May 25 09:00:20 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-25] refactor: consolidate pricing engine rate selection logic
 [2026-05-25] fix: notification worker stability improvements
+[2026-05-25] feat: add vehicle availability caching layer
