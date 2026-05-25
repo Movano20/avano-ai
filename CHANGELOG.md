@@ -1079,3 +1079,4 @@ Mon May 25 09:00:20 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-25] feat: add vehicle availability caching layer
 [2026-05-25] feat: smart alert thresholds for low Salik balance
 [2026-05-25] feat: add telemetry logging for operator assistant commands
+[2026-05-25] feat: improve WhatsApp message delivery retry logic
