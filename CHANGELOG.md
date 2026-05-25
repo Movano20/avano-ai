@@ -1081,3 +1081,4 @@ Mon May 25 09:00:20 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-25] feat: add telemetry logging for operator assistant commands
 [2026-05-25] feat: improve WhatsApp message delivery retry logic
 [2026-05-25] docs: expand multilingual support documentation
+[2026-05-25] fix: deposit split validation for cash+card combinations
