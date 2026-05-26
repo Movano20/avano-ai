@@ -1095,3 +1095,4 @@ Tue May 26 09:00:21 UTC 2026: feat: document fleet analytics data model
 [2026-05-26] feat: add vehicle utilization metrics to dashboard
 [2026-05-26] feat: enhance Arabic NLP response quality
 [2026-05-26] refactor: optimize ConversationEngine message routing
+[2026-05-26] docs: update architecture diagram for fleet intelligence layer
