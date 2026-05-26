@@ -1098,3 +1098,4 @@ Tue May 26 09:00:21 UTC 2026: feat: document fleet analytics data model
 [2026-05-26] docs: update architecture diagram for fleet intelligence layer
 [2026-05-26] fix: race condition in concurrent booking confirmations
 [2026-05-26] feat: add vehicle availability caching layer
+[2026-05-26] docs: expand multilingual support documentation
