@@ -1103,3 +1103,4 @@ Tue May 26 09:00:21 UTC 2026: feat: document fleet analytics data model
 Wed May 27 01:00:14 UTC 2026: docs: update sovereign AI model training plan
 Wed May 27 01:00:14 UTC 2026: docs: update sovereign AI model training plan
 Wed May 27 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
+Wed May 27 09:00:22 UTC 2026: docs: add demand forecasting model spec
