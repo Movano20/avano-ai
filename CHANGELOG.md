@@ -1111,3 +1111,4 @@ Wed May 27 09:00:22 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-27] feat: add CSV export for monthly rental reports
 [2026-05-27] docs: add operator onboarding guide
 [2026-05-27] fix: edge case in deposit calculation for multi-day rentals
+[2026-05-27] feat: enhance bot tone calibration for Gulf Arabic dialect
