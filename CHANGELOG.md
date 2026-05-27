@@ -1109,3 +1109,4 @@ Wed May 27 09:00:22 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-27] docs: update API reference for booking lifecycle endpoints
 [2026-05-27] refactor: clean up closing flow state transitions
 [2026-05-27] feat: add CSV export for monthly rental reports
+[2026-05-27] docs: add operator onboarding guide
