@@ -1106,3 +1106,4 @@ Wed May 27 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
 Wed May 27 09:00:22 UTC 2026: docs: add demand forecasting model spec
 Wed May 27 09:00:22 UTC 2026: feat: document fleet analytics data model
 Wed May 27 09:00:22 UTC 2026: docs: update Arabic NLP pipeline notes
+[2026-05-27] docs: update API reference for booking lifecycle endpoints
