@@ -1118,3 +1118,4 @@ Wed May 27 09:00:22 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-05-27] feat: improve fines sync error handling and retry logic
 Thu May 28 01:00:13 UTC 2026: docs: update GCC expansion roadmap
 Thu May 28 01:00:13 UTC 2026: docs: update Arabic NLP pipeline notes
+Thu May 28 01:00:13 UTC 2026: feat: document WhatsApp automation flow
