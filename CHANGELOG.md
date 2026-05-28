@@ -1122,3 +1122,4 @@ Thu May 28 01:00:13 UTC 2026: feat: document WhatsApp automation flow
 Thu May 28 09:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 Thu May 28 09:00:17 UTC 2026: refactor: improve customer conversation flow docs
 Thu May 28 09:00:17 UTC 2026: docs: update GCC expansion roadmap
+[2026-05-28] feat: enhance Arabic NLP response quality
