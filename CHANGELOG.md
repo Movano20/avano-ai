@@ -1125,3 +1125,4 @@ Thu May 28 09:00:17 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-28] feat: enhance Arabic NLP response quality
 [2026-05-28] feat: smart alert thresholds for low Salik balance
 [2026-05-28] refactor: consolidate pricing engine rate selection logic
+[2026-05-28] feat: improve fines sync error handling and retry logic
