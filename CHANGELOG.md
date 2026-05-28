@@ -1129,3 +1129,4 @@ Thu May 28 09:00:17 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-28] feat: improve booking confirmation response time
 [2026-05-28] refactor: improve database query performance for fleet router
 [2026-05-28] feat: add vehicle availability caching layer
+[2026-05-28] fix: edge case in deposit calculation for multi-day rentals
