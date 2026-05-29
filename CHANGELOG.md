@@ -1144,3 +1144,4 @@ Fri May 29 09:00:17 UTC 2026: docs: add dynamic pricing engine notes
 [2026-05-29] fix: timezone handling for UAE late-night bookings
 [2026-05-29] docs: add operator onboarding guide
 [2026-05-29] feat: enhance Arabic NLP response quality
+[2026-05-29] feat: enhance bot tone calibration for Gulf Arabic dialect
