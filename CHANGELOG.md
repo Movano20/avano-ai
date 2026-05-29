@@ -1140,3 +1140,4 @@ Fri May 29 09:00:17 UTC 2026: feat: document fleet analytics data model
 Fri May 29 09:00:17 UTC 2026: docs: add dynamic pricing engine notes
 [2026-05-29] docs: expand multilingual support documentation
 [2026-05-29] feat: improve fines sync error handling and retry logic
+[2026-05-29] fix: edge case in handover checklist for vehicle swap
