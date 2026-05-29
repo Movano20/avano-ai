@@ -1137,3 +1137,4 @@ Fri May 29 01:00:36 UTC 2026: docs: update GCC expansion roadmap
 Fri May 29 01:00:36 UTC 2026: refactor: improve customer conversation flow docs
 Fri May 29 09:00:17 UTC 2026: refactor: improve booking lifecycle documentation
 Fri May 29 09:00:17 UTC 2026: feat: document fleet analytics data model
+Fri May 29 09:00:17 UTC 2026: docs: add dynamic pricing engine notes
