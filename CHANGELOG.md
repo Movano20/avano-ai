@@ -1132,3 +1132,4 @@ Thu May 28 09:00:17 UTC 2026: docs: update GCC expansion roadmap
 [2026-05-28] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-28] refactor: optimize ConversationEngine message routing
 [2026-05-28] refactor: clean up closing flow state transitions
+Fri May 29 01:00:36 UTC 2026: refactor: improve customer conversation flow docs
