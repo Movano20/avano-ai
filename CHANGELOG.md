@@ -1162,3 +1162,4 @@ Sat May 30 09:00:13 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-30] fix: timezone handling for UAE late-night bookings
 [2026-05-30] feat: improve WhatsApp message delivery retry logic
 [2026-05-30] feat: add vehicle utilization metrics to dashboard
+[2026-05-30] docs: expand multilingual support documentation
