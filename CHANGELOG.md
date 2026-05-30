@@ -1159,3 +1159,4 @@ Sat May 30 09:00:13 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-30] fix: edge case in deposit calculation for multi-day rentals
 [2026-05-30] feat: smart alert thresholds for low Salik balance
 [2026-05-30] refactor: improve database query performance for fleet router
+[2026-05-30] fix: timezone handling for UAE late-night bookings
