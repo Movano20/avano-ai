@@ -1154,3 +1154,4 @@ Sat May 30 01:00:13 UTC 2026: docs: update UAE compliance workflow spec
 Sat May 30 09:00:13 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat May 30 09:00:13 UTC 2026: feat: document operator alert system design
 Sat May 30 09:00:13 UTC 2026: docs: update sovereign AI model training plan
+[2026-05-30] feat: add CSV export for monthly rental reports
