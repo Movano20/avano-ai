@@ -1157,3 +1157,4 @@ Sat May 30 09:00:13 UTC 2026: docs: update sovereign AI model training plan
 [2026-05-30] feat: add CSV export for monthly rental reports
 [2026-05-30] docs: add operator onboarding guide
 [2026-05-30] fix: edge case in deposit calculation for multi-day rentals
+[2026-05-30] feat: smart alert thresholds for low Salik balance
