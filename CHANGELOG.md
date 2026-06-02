@@ -1178,3 +1178,4 @@ Tue Jun  2 09:00:24 UTC 2026: feat: document fleet analytics data model
 Tue Jun  2 09:00:24 UTC 2026: feat: document operator alert system design
 [2026-06-02] docs: compliance and data retention policy update
 [2026-06-02] feat: enhance Arabic NLP response quality
+[2026-06-02] docs: expand multilingual support documentation
