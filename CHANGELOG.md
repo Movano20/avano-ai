@@ -1185,3 +1185,4 @@ Tue Jun  2 09:00:24 UTC 2026: feat: document operator alert system design
 [2026-06-02] fix: deposit split validation for cash+card combinations
 [2026-06-02] feat: enhance document OCR confidence scoring
 [2026-06-02] refactor: consolidate pricing engine rate selection logic
+[2026-06-02] docs: Q3 2026 roadmap update — logistics expansion
