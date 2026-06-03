@@ -1193,3 +1193,4 @@ Wed Jun  3 09:00:45 UTC 2026: docs: add demand forecasting model spec
 Wed Jun  3 09:00:45 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Jun  3 09:00:45 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-03] feat: operator NL assistant handles partial commands
+[2026-06-03] feat: add CSV export for monthly rental reports
