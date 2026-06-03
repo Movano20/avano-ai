@@ -1190,3 +1190,4 @@ Wed Jun  3 01:00:16 UTC 2026: docs: update sovereign AI model training plan
 Wed Jun  3 01:00:16 UTC 2026: refactor: improve customer conversation flow docs
 Wed Jun  3 01:00:16 UTC 2026: refactor: improve booking lifecycle documentation
 Wed Jun  3 09:00:45 UTC 2026: docs: add demand forecasting model spec
+Wed Jun  3 09:00:45 UTC 2026: docs: update Arabic NLP pipeline notes
