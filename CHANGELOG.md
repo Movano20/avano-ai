@@ -1198,3 +1198,4 @@ Wed Jun  3 09:00:45 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-03] feat: add vehicle utilization metrics to dashboard
 [2026-06-03] refactor: optimize ConversationEngine message routing
 [2026-06-03] feat: enhance document OCR confidence scoring
+[2026-06-03] docs: expand multilingual support documentation
