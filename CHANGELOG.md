@@ -1208,3 +1208,4 @@ Thu Jun  4 01:00:13 UTC 2026: feat: document fleet analytics data model
 Thu Jun  4 09:00:14 UTC 2026: feat: document WhatsApp automation flow
 Thu Jun  4 09:00:14 UTC 2026: docs: update platform architecture notes
 Thu Jun  4 09:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
+[2026-06-04] docs: update API reference for booking lifecycle endpoints
