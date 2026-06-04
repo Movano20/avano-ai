@@ -1212,3 +1212,4 @@ Thu Jun  4 09:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-04] feat: improve booking confirmation response time
 [2026-06-04] refactor: clean up closing flow state transitions
 [2026-06-04] fix: edge case in handover checklist for vehicle swap
+[2026-06-04] feat: add vehicle utilization metrics to dashboard
