@@ -1204,3 +1204,4 @@ Wed Jun  3 09:00:45 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-03] fix: race condition in concurrent booking confirmations
 Thu Jun  4 01:00:13 UTC 2026: docs: add dynamic pricing engine notes
 Thu Jun  4 01:00:13 UTC 2026: docs: add demand forecasting model spec
+Thu Jun  4 01:00:13 UTC 2026: feat: document fleet analytics data model
