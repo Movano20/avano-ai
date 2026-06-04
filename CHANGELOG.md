@@ -1217,3 +1217,4 @@ Thu Jun  4 09:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-04] feat: add telemetry logging for operator assistant commands
 [2026-06-04] feat: enhance Arabic NLP response quality
 [2026-06-04] fix: timezone handling for UAE late-night bookings
+[2026-06-04] refactor: optimize ConversationEngine message routing
