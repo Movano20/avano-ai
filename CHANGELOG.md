@@ -1224,3 +1224,4 @@ Fri Jun  5 12:52:24 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-05] fix: deposit split validation for cash+card combinations
 [2026-06-05] fix: notification worker stability improvements
 [2026-06-05] feat: improve booking confirmation response time
+[2026-06-05] feat: add vehicle availability caching layer
