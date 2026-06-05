@@ -1229,3 +1229,4 @@ Fri Jun  5 12:52:24 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-05] refactor: clean up closing flow state transitions
 [2026-06-05] feat: add telemetry logging for operator assistant commands
 [2026-06-05] refactor: consolidate pricing engine rate selection logic
+[2026-06-05] fix: edge case in deposit calculation for multi-day rentals
