@@ -1221,3 +1221,4 @@ Thu Jun  4 09:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Jun  5 12:52:24 UTC 2026: docs: add demand forecasting model spec
 Fri Jun  5 12:52:24 UTC 2026: refactor: improve customer conversation flow docs
 Fri Jun  5 12:52:24 UTC 2026: refactor: improve customer conversation flow docs
+[2026-06-05] fix: deposit split validation for cash+card combinations
