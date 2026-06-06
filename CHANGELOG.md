@@ -1245,3 +1245,4 @@ Sat Jun  6 09:00:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-06-06] fix: edge case in deposit calculation for multi-day rentals
 [2026-06-06] fix: IDP expiry edge case for short-term rentals
 [2026-06-06] fix: edge case in handover checklist for vehicle swap
+[2026-06-06] fix: timezone handling for UAE late-night bookings
