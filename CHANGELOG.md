@@ -1242,3 +1242,4 @@ Sat Jun  6 09:00:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-06-06] docs: expand multilingual support documentation
 [2026-06-06] feat: operator NL assistant handles partial commands
 [2026-06-06] feat: enhance Arabic NLP response quality
+[2026-06-06] fix: edge case in deposit calculation for multi-day rentals
