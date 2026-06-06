@@ -1237,3 +1237,4 @@ Sat Jun  6 01:00:14 UTC 2026: feat: document WhatsApp automation flow
 Sat Jun  6 09:00:13 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Jun  6 09:00:13 UTC 2026: docs: update Arabic NLP pipeline notes
 Sat Jun  6 09:00:13 UTC 2026: docs: update UAE compliance workflow spec
+[2026-06-06] fix: deposit split validation for cash+card combinations
