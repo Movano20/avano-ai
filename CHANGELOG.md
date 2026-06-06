@@ -1231,3 +1231,4 @@ Fri Jun  5 12:52:24 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-05] refactor: consolidate pricing engine rate selection logic
 [2026-06-05] fix: edge case in deposit calculation for multi-day rentals
 [2026-06-05] docs: Q3 2026 roadmap update — logistics expansion
+Sat Jun  6 01:00:14 UTC 2026: docs: update UAE compliance workflow spec
