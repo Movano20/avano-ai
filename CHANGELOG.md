@@ -1240,3 +1240,4 @@ Sat Jun  6 09:00:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-06-06] fix: deposit split validation for cash+card combinations
 [2026-06-06] feat: add vehicle utilization metrics to dashboard
 [2026-06-06] docs: expand multilingual support documentation
+[2026-06-06] feat: operator NL assistant handles partial commands
