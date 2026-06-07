@@ -1253,3 +1253,4 @@ Sun Jun  7 01:00:22 UTC 2026: docs: update platform architecture notes
 Sun Jun  7 09:00:14 UTC 2026: docs: update sovereign AI model training plan
 Sun Jun  7 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
 Sun Jun  7 09:00:14 UTC 2026: docs: update platform architecture notes
+[2026-06-07] refactor: clean up closing flow state transitions
