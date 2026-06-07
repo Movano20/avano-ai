@@ -1262,3 +1262,4 @@ Sun Jun  7 09:00:14 UTC 2026: docs: update platform architecture notes
 [2026-06-07] feat: add CSV export for monthly rental reports
 [2026-06-07] fix: race condition in concurrent booking confirmations
 [2026-06-07] feat: improve fines sync error handling and retry logic
+[2026-06-07] feat: add vehicle utilization metrics to dashboard
