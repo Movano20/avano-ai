@@ -1248,3 +1248,4 @@ Sat Jun  6 09:00:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-06-06] fix: timezone handling for UAE late-night bookings
 [2026-06-06] feat: add CSV export for monthly rental reports
 Sun Jun  7 01:00:22 UTC 2026: docs: update GCC expansion roadmap
+Sun Jun  7 01:00:22 UTC 2026: docs: update sovereign AI model training plan
