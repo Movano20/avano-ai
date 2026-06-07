@@ -1257,3 +1257,4 @@ Sun Jun  7 09:00:14 UTC 2026: docs: update platform architecture notes
 [2026-06-07] refactor: improve database query performance for fleet router
 [2026-06-07] docs: add operator onboarding guide
 [2026-06-07] feat: add telemetry logging for operator assistant commands
+[2026-06-07] feat: add booking search by plate number
