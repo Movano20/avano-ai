@@ -1260,3 +1260,4 @@ Sun Jun  7 09:00:14 UTC 2026: docs: update platform architecture notes
 [2026-06-07] feat: add booking search by plate number
 [2026-06-07] docs: Q3 2026 roadmap update — logistics expansion
 [2026-06-07] feat: add CSV export for monthly rental reports
+[2026-06-07] fix: race condition in concurrent booking confirmations
