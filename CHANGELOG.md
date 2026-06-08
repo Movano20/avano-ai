@@ -1277,3 +1277,4 @@ Mon Jun  8 09:00:14 UTC 2026: feat: document operator alert system design
 [2026-06-08] feat: add telemetry logging for operator assistant commands
 [2026-06-08] docs: update API reference for booking lifecycle endpoints
 [2026-06-08] feat: add vehicle utilization metrics to dashboard
+[2026-06-08] feat: add vehicle availability caching layer
