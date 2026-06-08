@@ -1264,3 +1264,4 @@ Sun Jun  7 09:00:14 UTC 2026: docs: update platform architecture notes
 [2026-06-07] feat: improve fines sync error handling and retry logic
 [2026-06-07] feat: add vehicle utilization metrics to dashboard
 Mon Jun  8 01:00:24 UTC 2026: refactor: improve booking lifecycle documentation
+Mon Jun  8 01:00:24 UTC 2026: feat: document WhatsApp automation flow
