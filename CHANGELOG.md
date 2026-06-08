@@ -1272,3 +1272,4 @@ Mon Jun  8 09:00:14 UTC 2026: feat: document operator alert system design
 [2026-06-08] docs: expand multilingual support documentation
 [2026-06-08] fix: deposit split validation for cash+card combinations
 [2026-06-08] docs: Q3 2026 roadmap update — logistics expansion
+[2026-06-08] feat: improve booking confirmation response time
