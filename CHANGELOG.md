@@ -1275,3 +1275,4 @@ Mon Jun  8 09:00:14 UTC 2026: feat: document operator alert system design
 [2026-06-08] feat: improve booking confirmation response time
 [2026-06-08] fix: notification worker stability improvements
 [2026-06-08] feat: add telemetry logging for operator assistant commands
+[2026-06-08] docs: update API reference for booking lifecycle endpoints
