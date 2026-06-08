@@ -1267,3 +1267,4 @@ Mon Jun  8 01:00:24 UTC 2026: refactor: improve booking lifecycle documentation
 Mon Jun  8 01:00:24 UTC 2026: feat: document WhatsApp automation flow
 Mon Jun  8 01:00:24 UTC 2026: docs: update platform architecture notes
 Mon Jun  8 09:00:14 UTC 2026: docs: add demand forecasting model spec
+Mon Jun  8 09:00:14 UTC 2026: feat: document operator alert system design
