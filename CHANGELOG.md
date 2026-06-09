@@ -1294,3 +1294,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-09] feat: improve booking confirmation response time
 [2026-06-09] fix: notification worker stability improvements
 [2026-06-09] feat: enhance Arabic NLP response quality
+[2026-06-09] feat: enhance bot tone calibration for Gulf Arabic dialect
