@@ -1280,3 +1280,4 @@ Mon Jun  8 09:00:14 UTC 2026: feat: document operator alert system design
 [2026-06-08] feat: add vehicle availability caching layer
 [2026-06-08] docs: compliance and data retention policy update
 Tue Jun  9 01:00:46 UTC 2026: refactor: improve booking lifecycle documentation
+Tue Jun  9 01:00:46 UTC 2026: docs: update Arabic NLP pipeline notes
