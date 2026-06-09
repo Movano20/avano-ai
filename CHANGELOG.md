@@ -1283,3 +1283,4 @@ Tue Jun  9 01:00:46 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Jun  9 01:00:46 UTC 2026: docs: update Arabic NLP pipeline notes
 Tue Jun  9 01:00:46 UTC 2026: docs: update GCC expansion roadmap
 Tue Jun  9 09:00:20 UTC 2026: docs: update Arabic NLP pipeline notes
+Tue Jun  9 09:00:20 UTC 2026: docs: add dynamic pricing engine notes
