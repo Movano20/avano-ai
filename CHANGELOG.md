@@ -1288,3 +1288,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-09] fix: edge case in handover checklist for vehicle swap
 [2026-06-09] docs: add operator onboarding guide
 [2026-06-09] refactor: improve database query performance for fleet router
+[2026-06-09] docs: update architecture diagram for fleet intelligence layer
