@@ -1302,3 +1302,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-10] docs: Q3 2026 roadmap update — logistics expansion
 [2026-06-10] fix: notification worker stability improvements
 [2026-06-10] docs: add operator onboarding guide
+[2026-06-10] feat: add vehicle availability caching layer
