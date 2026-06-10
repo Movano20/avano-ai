@@ -1304,3 +1304,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-10] docs: add operator onboarding guide
 [2026-06-10] feat: add vehicle availability caching layer
 [2026-06-10] feat: enhance document OCR confidence scoring
+[2026-06-10] refactor: improve database query performance for fleet router
