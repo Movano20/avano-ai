@@ -1296,3 +1296,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-09] feat: enhance Arabic NLP response quality
 [2026-06-09] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-10] feat: add CSV export for monthly rental reports
+[2026-06-10] fix: timezone handling for UAE late-night bookings
