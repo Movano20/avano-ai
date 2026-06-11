@@ -1306,3 +1306,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-10] feat: enhance document OCR confidence scoring
 [2026-06-10] refactor: improve database query performance for fleet router
 [2026-06-11] feat: enhance Arabic NLP response quality
+[2026-06-11] fix: edge case in deposit calculation for multi-day rentals
