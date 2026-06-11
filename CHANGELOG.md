@@ -1314,3 +1314,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-11] feat: improve fines sync error handling and retry logic
 [2026-06-11] fix: race condition in concurrent booking confirmations
 [2026-06-11] fix: deposit split validation for cash+card combinations
+[2026-06-11] docs: Q3 2026 roadmap update — logistics expansion
