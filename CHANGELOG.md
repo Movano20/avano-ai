@@ -1322,3 +1322,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-12] docs: update architecture diagram for fleet intelligence layer
 [2026-06-12] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-12] docs: compliance and data retention policy update
+[2026-06-12] refactor: improve database query performance for fleet router
