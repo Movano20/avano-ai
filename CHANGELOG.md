@@ -1317,3 +1317,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-11] docs: Q3 2026 roadmap update — logistics expansion
 [2026-06-12] fix: timezone handling for UAE late-night bookings
 [2026-06-12] feat: improve WhatsApp message delivery retry logic
+[2026-06-12] feat: add telemetry logging for operator assistant commands
