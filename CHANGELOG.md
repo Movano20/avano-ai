@@ -1325,3 +1325,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-12] refactor: improve database query performance for fleet router
 [2026-06-12] feat: enhance Arabic NLP response quality
 [2026-06-12] docs: add operator onboarding guide
+[2026-06-13] fix: timezone handling for UAE late-night bookings
