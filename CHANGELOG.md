@@ -1328,3 +1328,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-13] fix: timezone handling for UAE late-night bookings
 [2026-06-13] feat: enhance document OCR confidence scoring
 [2026-06-13] refactor: optimize ConversationEngine message routing
+[2026-06-13] docs: add operator onboarding guide
