@@ -1338,3 +1338,4 @@ Tue Jun  9 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 Sun Jun 14 15:01:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Jun 14 15:01:09 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Jun 14 15:01:09 UTC 2026: docs: update UAE compliance workflow spec
+[2026-06-14] refactor: consolidate pricing engine rate selection logic
