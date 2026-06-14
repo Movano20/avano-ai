@@ -1346,3 +1346,4 @@ Sun Jun 14 15:01:09 UTC 2026: docs: update UAE compliance workflow spec
 [2026-06-14] feat: add booking search by plate number
 [2026-06-14] docs: expand multilingual support documentation
 [2026-06-14] fix: timezone handling for UAE late-night bookings
+[2026-06-14] feat: enhance document OCR confidence scoring
