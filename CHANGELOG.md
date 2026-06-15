@@ -1361,3 +1361,4 @@ Mon Jun 15 09:00:26 UTC 2026: feat: document fleet analytics data model
 [2026-06-15] docs: update API reference for booking lifecycle endpoints
 [2026-06-15] docs: Q3 2026 roadmap update — logistics expansion
 [2026-06-15] feat: improve WhatsApp message delivery retry logic
+[2026-06-15] docs: expand multilingual support documentation
