@@ -1377,3 +1377,4 @@ Tue Jun 16 09:00:23 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-16] refactor: improve database query performance for fleet router
 [2026-06-16] feat: add CSV export for monthly rental reports
 [2026-06-16] docs: update architecture diagram for fleet intelligence layer
+[2026-06-16] feat: improve fines sync error handling and retry logic
