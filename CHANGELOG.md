@@ -1372,3 +1372,4 @@ Tue Jun 16 09:00:23 UTC 2026: refactor: improve API integration specs
 Tue Jun 16 09:00:23 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-16] feat: smart alert thresholds for low Salik balance
 [2026-06-16] docs: add operator onboarding guide
+[2026-06-16] fix: edge case in deposit calculation for multi-day rentals
