@@ -1375,3 +1375,4 @@ Tue Jun 16 09:00:23 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-16] fix: edge case in deposit calculation for multi-day rentals
 [2026-06-16] fix: deposit split validation for cash+card combinations
 [2026-06-16] refactor: improve database query performance for fleet router
+[2026-06-16] feat: add CSV export for monthly rental reports
