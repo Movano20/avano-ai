@@ -1366,3 +1366,4 @@ Mon Jun 15 09:00:26 UTC 2026: feat: document fleet analytics data model
 [2026-06-15] fix: edge case in deposit calculation for multi-day rentals
 Tue Jun 16 01:00:13 UTC 2026: docs: add dynamic pricing engine notes
 Tue Jun 16 01:00:13 UTC 2026: docs: add dynamic pricing engine notes
+Tue Jun 16 01:00:13 UTC 2026: refactor: improve booking lifecycle documentation
