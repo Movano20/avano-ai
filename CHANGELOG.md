@@ -1397,3 +1397,4 @@ Wed Jun 17 09:00:33 UTC 2026: docs: update platform architecture notes
 [2026-06-17] feat: operator NL assistant handles partial commands
 [2026-06-17] docs: update API reference for booking lifecycle endpoints
 [2026-06-17] refactor: clean up closing flow state transitions
+[2026-06-17] docs: compliance and data retention policy update
