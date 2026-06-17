@@ -1391,3 +1391,4 @@ Wed Jun 17 09:00:33 UTC 2026: refactor: improve multi-tenant architecture docs
 Wed Jun 17 09:00:33 UTC 2026: docs: update platform architecture notes
 [2026-06-17] feat: smart alert thresholds for low Salik balance
 [2026-06-17] fix: deposit split validation for cash+card combinations
+[2026-06-17] docs: expand multilingual support documentation
