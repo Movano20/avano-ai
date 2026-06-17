@@ -1380,3 +1380,4 @@ Tue Jun 16 09:00:23 UTC 2026: feat: document WhatsApp automation flow
 [2026-06-16] feat: improve fines sync error handling and retry logic
 [2026-06-16] fix: race condition in concurrent booking confirmations
 [2026-06-16] feat: enhance document OCR confidence scoring
+Wed Jun 17 01:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
