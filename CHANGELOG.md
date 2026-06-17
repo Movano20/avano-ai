@@ -1394,3 +1394,4 @@ Wed Jun 17 09:00:33 UTC 2026: docs: update platform architecture notes
 [2026-06-17] docs: expand multilingual support documentation
 [2026-06-17] feat: add booking search by plate number
 [2026-06-17] feat: add CSV export for monthly rental reports
+[2026-06-17] feat: operator NL assistant handles partial commands
