@@ -1401,3 +1401,4 @@ Wed Jun 17 09:00:33 UTC 2026: docs: update platform architecture notes
 [2026-06-17] fix: edge case in deposit calculation for multi-day rentals
 Thu Jun 18 01:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 Thu Jun 18 01:00:19 UTC 2026: feat: document WhatsApp automation flow
+Thu Jun 18 01:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
