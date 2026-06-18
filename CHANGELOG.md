@@ -1403,3 +1403,4 @@ Thu Jun 18 01:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 Thu Jun 18 01:00:19 UTC 2026: feat: document WhatsApp automation flow
 Thu Jun 18 01:00:19 UTC 2026: docs: update Arabic NLP pipeline notes
 Thu Jun 18 09:00:23 UTC 2026: docs: update UAE compliance workflow spec
+Thu Jun 18 09:00:23 UTC 2026: refactor: improve booking lifecycle documentation
