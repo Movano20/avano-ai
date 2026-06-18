@@ -1408,3 +1408,4 @@ Thu Jun 18 09:00:23 UTC 2026: docs: add demand forecasting model spec
 [2026-06-18] feat: add booking search by plate number
 [2026-06-18] feat: improve WhatsApp message delivery retry logic
 [2026-06-18] feat: operator NL assistant handles partial commands
+[2026-06-18] docs: update architecture diagram for fleet intelligence layer
