@@ -1410,3 +1410,4 @@ Thu Jun 18 09:00:23 UTC 2026: docs: add demand forecasting model spec
 [2026-06-18] feat: operator NL assistant handles partial commands
 [2026-06-18] docs: update architecture diagram for fleet intelligence layer
 [2026-06-18] fix: deposit split validation for cash+card combinations
+[2026-06-18] feat: enhance Arabic NLP response quality
