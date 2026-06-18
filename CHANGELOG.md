@@ -1413,3 +1413,4 @@ Thu Jun 18 09:00:23 UTC 2026: docs: add demand forecasting model spec
 [2026-06-18] feat: enhance Arabic NLP response quality
 [2026-06-18] refactor: consolidate pricing engine rate selection logic
 [2026-06-18] docs: add operator onboarding guide
+[2026-06-18] fix: notification worker stability improvements
