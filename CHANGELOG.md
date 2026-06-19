@@ -1420,3 +1420,4 @@ Fri Jun 19 01:00:14 UTC 2026: docs: update GCC expansion roadmap
 Fri Jun 19 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
 Fri Jun 19 09:00:18 UTC 2026: feat: document fleet analytics data model
 Fri Jun 19 09:00:18 UTC 2026: docs: update sovereign AI model training plan
+Fri Jun 19 09:00:18 UTC 2026: refactor: improve API integration specs
