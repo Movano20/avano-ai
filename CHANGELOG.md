@@ -1417,3 +1417,4 @@ Thu Jun 18 09:00:23 UTC 2026: docs: add demand forecasting model spec
 [2026-06-18] feat: add vehicle availability caching layer
 Fri Jun 19 01:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Jun 19 01:00:14 UTC 2026: docs: update GCC expansion roadmap
+Fri Jun 19 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
