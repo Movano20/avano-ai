@@ -1430,3 +1430,4 @@ Fri Jun 19 09:00:18 UTC 2026: refactor: improve API integration specs
 [2026-06-19] feat: add telemetry logging for operator assistant commands
 [2026-06-19] feat: improve fines sync error handling and retry logic
 [2026-06-19] feat: add CSV export for monthly rental reports
+[2026-06-19] fix: IDP expiry edge case for short-term rentals
