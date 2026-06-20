@@ -1442,3 +1442,4 @@ Sat Jun 20 09:00:16 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-20] docs: compliance and data retention policy update
 [2026-06-20] refactor: consolidate pricing engine rate selection logic
 [2026-06-20] feat: improve fines sync error handling and retry logic
+[2026-06-20] fix: edge case in deposit calculation for multi-day rentals
