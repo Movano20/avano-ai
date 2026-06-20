@@ -1434,3 +1434,4 @@ Fri Jun 19 09:00:18 UTC 2026: refactor: improve API integration specs
 Sat Jun 20 01:00:19 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Jun 20 01:00:19 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Jun 20 01:00:19 UTC 2026: docs: add demand forecasting model spec
+Sat Jun 20 09:00:16 UTC 2026: feat: document fleet analytics data model
