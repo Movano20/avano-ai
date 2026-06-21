@@ -1459,3 +1459,4 @@ Sun Jun 21 09:00:24 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-21] fix: notification worker stability improvements
 [2026-06-21] feat: improve fines sync error handling and retry logic
 [2026-06-21] feat: add vehicle utilization metrics to dashboard
+[2026-06-21] fix: timezone handling for UAE late-night bookings
