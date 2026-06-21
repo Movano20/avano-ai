@@ -1462,3 +1462,4 @@ Sun Jun 21 09:00:24 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-21] fix: timezone handling for UAE late-night bookings
 [2026-06-21] refactor: clean up closing flow state transitions
 [2026-06-21] feat: add booking search by plate number
+[2026-06-21] feat: operator NL assistant handles partial commands
