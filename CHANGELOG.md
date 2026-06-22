@@ -1475,3 +1475,4 @@ Mon Jun 22 09:00:11 UTC 2026: docs: update sovereign AI model training plan
 [2026-06-22] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-22] feat: smart alert thresholds for low Salik balance
 [2026-06-22] feat: improve fines sync error handling and retry logic
+[2026-06-22] fix: timezone handling for UAE late-night bookings
