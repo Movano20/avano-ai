@@ -1465,3 +1465,4 @@ Sun Jun 21 09:00:24 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-21] feat: operator NL assistant handles partial commands
 Mon Jun 22 01:00:15 UTC 2026: docs: update GCC expansion roadmap
 Mon Jun 22 01:00:15 UTC 2026: docs: update GCC expansion roadmap
+Mon Jun 22 01:00:15 UTC 2026: refactor: improve booking lifecycle documentation
