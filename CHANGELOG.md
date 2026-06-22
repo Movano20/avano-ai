@@ -1466,3 +1466,4 @@ Sun Jun 21 09:00:24 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Jun 22 01:00:15 UTC 2026: docs: update GCC expansion roadmap
 Mon Jun 22 01:00:15 UTC 2026: docs: update GCC expansion roadmap
 Mon Jun 22 01:00:15 UTC 2026: refactor: improve booking lifecycle documentation
+Mon Jun 22 09:00:11 UTC 2026: docs: update Arabic NLP pipeline notes
