@@ -1472,3 +1472,4 @@ Mon Jun 22 09:00:11 UTC 2026: docs: update sovereign AI model training plan
 [2026-06-22] docs: expand multilingual support documentation
 [2026-06-22] fix: deposit split validation for cash+card combinations
 [2026-06-22] refactor: consolidate pricing engine rate selection logic
+[2026-06-22] feat: enhance bot tone calibration for Gulf Arabic dialect
