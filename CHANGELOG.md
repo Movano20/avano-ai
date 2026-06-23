@@ -1480,3 +1480,4 @@ Mon Jun 22 09:00:11 UTC 2026: docs: update sovereign AI model training plan
 [2026-06-22] fix: edge case in handover checklist for vehicle swap
 [2026-06-22] feat: add vehicle utilization metrics to dashboard
 Tue Jun 23 01:00:11 UTC 2026: docs: update GCC expansion roadmap
+Tue Jun 23 01:00:11 UTC 2026: refactor: improve multi-tenant architecture docs
