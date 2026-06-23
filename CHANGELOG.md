@@ -1490,3 +1490,4 @@ Tue Jun 23 09:01:18 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-23] docs: add operator onboarding guide
 [2026-06-23] fix: notification worker stability improvements
 [2026-06-23] fix: race condition in concurrent booking confirmations
+[2026-06-23] feat: add telemetry logging for operator assistant commands
