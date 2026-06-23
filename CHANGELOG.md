@@ -1485,3 +1485,4 @@ Tue Jun 23 01:00:11 UTC 2026: docs: update UAE compliance workflow spec
 Tue Jun 23 09:01:18 UTC 2026: refactor: improve multi-tenant architecture docs
 Tue Jun 23 09:01:18 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Jun 23 09:01:18 UTC 2026: refactor: improve customer conversation flow docs
+[2026-06-23] fix: edge case in deposit calculation for multi-day rentals
