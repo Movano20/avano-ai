@@ -1492,3 +1492,4 @@ Tue Jun 23 09:01:18 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-23] fix: race condition in concurrent booking confirmations
 [2026-06-23] feat: add telemetry logging for operator assistant commands
 [2026-06-23] feat: add vehicle availability caching layer
+[2026-06-23] feat: add vehicle utilization metrics to dashboard
