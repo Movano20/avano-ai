@@ -1487,3 +1487,4 @@ Tue Jun 23 09:01:18 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Jun 23 09:01:18 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-23] fix: edge case in deposit calculation for multi-day rentals
 [2026-06-23] feat: improve booking confirmation response time
+[2026-06-23] docs: add operator onboarding guide
