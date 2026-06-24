@@ -1504,3 +1504,4 @@ Wed Jun 24 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-06-24] fix: timezone handling for UAE late-night bookings
 [2026-06-24] feat: improve booking confirmation response time
 [2026-06-24] feat: add CSV export for monthly rental reports
+[2026-06-24] docs: expand multilingual support documentation
