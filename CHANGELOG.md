@@ -1509,3 +1509,4 @@ Wed Jun 24 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-06-24] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-24] feat: smart alert thresholds for low Salik balance
 [2026-06-24] refactor: clean up closing flow state transitions
+[2026-06-24] feat: add vehicle availability caching layer
