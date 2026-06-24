@@ -1497,3 +1497,4 @@ Tue Jun 23 09:01:18 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-23] feat: enhance bot tone calibration for Gulf Arabic dialect
 Wed Jun 24 01:00:12 UTC 2026: refactor: improve booking lifecycle documentation
 Wed Jun 24 01:00:12 UTC 2026: docs: update sovereign AI model training plan
+Wed Jun 24 01:00:12 UTC 2026: feat: add operator onboarding flow documentation
