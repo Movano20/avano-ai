@@ -1507,3 +1507,4 @@ Wed Jun 24 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-06-24] docs: expand multilingual support documentation
 [2026-06-24] refactor: consolidate pricing engine rate selection logic
 [2026-06-24] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-06-24] feat: smart alert thresholds for low Salik balance
