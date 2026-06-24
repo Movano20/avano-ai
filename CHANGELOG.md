@@ -1501,3 +1501,4 @@ Wed Jun 24 01:00:12 UTC 2026: feat: add operator onboarding flow documentation
 Wed Jun 24 09:00:15 UTC 2026: refactor: improve booking lifecycle documentation
 Wed Jun 24 09:00:15 UTC 2026: docs: add dynamic pricing engine notes
 Wed Jun 24 09:00:15 UTC 2026: docs: update platform architecture notes
+[2026-06-24] fix: timezone handling for UAE late-night bookings
