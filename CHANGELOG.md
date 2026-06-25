@@ -1525,3 +1525,4 @@ Thu Jun 25 09:00:34 UTC 2026: refactor: improve API integration specs
 [2026-06-25] feat: enhance document OCR confidence scoring
 [2026-06-25] feat: improve WhatsApp message delivery retry logic
 [2026-06-25] fix: edge case in handover checklist for vehicle swap
+[2026-06-25] feat: add CSV export for monthly rental reports
