@@ -1511,3 +1511,4 @@ Wed Jun 24 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-06-24] refactor: clean up closing flow state transitions
 [2026-06-24] feat: add vehicle availability caching layer
 [2026-06-24] docs: update API reference for booking lifecycle endpoints
+Thu Jun 25 01:00:15 UTC 2026: feat: add operator onboarding flow documentation
