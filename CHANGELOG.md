@@ -1520,3 +1520,4 @@ Thu Jun 25 09:00:34 UTC 2026: refactor: improve API integration specs
 [2026-06-25] fix: race condition in concurrent booking confirmations
 [2026-06-25] feat: improve fines sync error handling and retry logic
 [2026-06-25] feat: enhance Arabic NLP response quality
+[2026-06-25] docs: expand multilingual support documentation
