@@ -1542,3 +1542,4 @@ Fri Jun 26 09:00:15 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-06-26] refactor: clean up closing flow state transitions
 [2026-06-26] feat: add vehicle utilization metrics to dashboard
 [2026-06-26] feat: enhance document OCR confidence scoring
+[2026-06-26] docs: add operator onboarding guide
