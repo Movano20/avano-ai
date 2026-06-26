@@ -1531,3 +1531,4 @@ Fri Jun 26 01:00:17 UTC 2026: refactor: improve booking lifecycle documentation
 Fri Jun 26 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
 Fri Jun 26 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
 Fri Jun 26 09:00:15 UTC 2026: docs: update GCC expansion roadmap
+Fri Jun 26 09:00:15 UTC 2026: feat: document WhatsApp automation flow
