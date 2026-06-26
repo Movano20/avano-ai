@@ -1528,3 +1528,4 @@ Thu Jun 25 09:00:34 UTC 2026: refactor: improve API integration specs
 [2026-06-25] feat: add CSV export for monthly rental reports
 [2026-06-25] feat: improve booking confirmation response time
 Fri Jun 26 01:00:17 UTC 2026: refactor: improve booking lifecycle documentation
+Fri Jun 26 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
