@@ -1557,3 +1557,4 @@ Sat Jun 27 09:00:17 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-06-27] docs: update architecture diagram for fleet intelligence layer
 [2026-06-27] fix: timezone handling for UAE late-night bookings
 [2026-06-27] docs: compliance and data retention policy update
+[2026-06-27] refactor: improve database query performance for fleet router
