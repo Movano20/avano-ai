@@ -1553,3 +1553,4 @@ Sat Jun 27 09:00:17 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-06-27] docs: update API reference for booking lifecycle endpoints
 [2026-06-27] docs: add operator onboarding guide
 [2026-06-27] feat: improve fines sync error handling and retry logic
+[2026-06-27] refactor: consolidate pricing engine rate selection logic
