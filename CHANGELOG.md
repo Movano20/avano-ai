@@ -1570,3 +1570,4 @@ Sun Jun 28 09:00:19 UTC 2026: docs: add dynamic pricing engine notes
 [2026-06-28] refactor: consolidate pricing engine rate selection logic
 [2026-06-28] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-28] feat: add vehicle availability caching layer
+[2026-06-28] fix: deposit split validation for cash+card combinations
