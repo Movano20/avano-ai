@@ -1574,3 +1574,4 @@ Sun Jun 28 09:00:19 UTC 2026: docs: add dynamic pricing engine notes
 [2026-06-28] docs: compliance and data retention policy update
 [2026-06-28] feat: improve booking confirmation response time
 [2026-06-28] feat: operator NL assistant handles partial commands
+[2026-06-28] feat: smart alert thresholds for low Salik balance
