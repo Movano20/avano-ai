@@ -1564,3 +1564,4 @@ Sun Jun 28 01:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Jun 28 01:00:16 UTC 2026: refactor: improve API integration specs
 Sun Jun 28 09:00:19 UTC 2026: feat: document fleet analytics data model
 Sun Jun 28 09:00:19 UTC 2026: docs: update platform architecture notes
+Sun Jun 28 09:00:19 UTC 2026: docs: add dynamic pricing engine notes
