@@ -1586,3 +1586,4 @@ Mon Jun 29 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-29] feat: improve fines sync error handling and retry logic
 [2026-06-29] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-06-29] docs: add operator onboarding guide
+[2026-06-29] feat: add booking search by plate number
