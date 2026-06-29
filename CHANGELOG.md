@@ -1578,3 +1578,4 @@ Sun Jun 28 09:00:19 UTC 2026: docs: add dynamic pricing engine notes
 Mon Jun 29 01:00:14 UTC 2026: feat: document operator alert system design
 Mon Jun 29 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
 Mon Jun 29 01:00:14 UTC 2026: feat: document fleet analytics data model
+Mon Jun 29 09:00:14 UTC 2026: feat: document WhatsApp automation flow
