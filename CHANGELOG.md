@@ -1579,3 +1579,4 @@ Mon Jun 29 01:00:14 UTC 2026: feat: document operator alert system design
 Mon Jun 29 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
 Mon Jun 29 01:00:14 UTC 2026: feat: document fleet analytics data model
 Mon Jun 29 09:00:14 UTC 2026: feat: document WhatsApp automation flow
+Mon Jun 29 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
