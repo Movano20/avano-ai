@@ -1577,3 +1577,4 @@ Sun Jun 28 09:00:19 UTC 2026: docs: add dynamic pricing engine notes
 [2026-06-28] feat: smart alert thresholds for low Salik balance
 Mon Jun 29 01:00:14 UTC 2026: feat: document operator alert system design
 Mon Jun 29 01:00:14 UTC 2026: feat: add operator onboarding flow documentation
+Mon Jun 29 01:00:14 UTC 2026: feat: document fleet analytics data model
