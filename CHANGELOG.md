@@ -1582,3 +1582,4 @@ Mon Jun 29 09:00:14 UTC 2026: feat: document WhatsApp automation flow
 Mon Jun 29 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 Mon Jun 29 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-29] feat: add vehicle availability caching layer
+[2026-06-29] fix: edge case in handover checklist for vehicle swap
