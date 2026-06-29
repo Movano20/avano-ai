@@ -1590,3 +1590,4 @@ Mon Jun 29 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-06-29] docs: Q3 2026 roadmap update — logistics expansion
 [2026-06-29] fix: IDP expiry edge case for short-term rentals
 [2026-06-29] fix: notification worker stability improvements
+[2026-06-29] docs: expand multilingual support documentation
