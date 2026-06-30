@@ -1595,3 +1595,4 @@ Tue Jun 30 01:00:21 UTC 2026: feat: document operator alert system design
 Tue Jun 30 01:00:21 UTC 2026: feat: document WhatsApp automation flow
 Tue Jun 30 01:00:21 UTC 2026: refactor: improve multi-tenant architecture docs
 Tue Jun 30 09:00:20 UTC 2026: docs: add dynamic pricing engine notes
+Tue Jun 30 09:00:20 UTC 2026: docs: add demand forecasting model spec
