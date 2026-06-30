@@ -1606,3 +1606,4 @@ Tue Jun 30 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-30] fix: timezone handling for UAE late-night bookings
 [2026-06-30] refactor: clean up closing flow state transitions
 [2026-06-30] refactor: consolidate pricing engine rate selection logic
+[2026-06-30] feat: add vehicle utilization metrics to dashboard
