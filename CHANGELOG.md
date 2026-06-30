@@ -1602,3 +1602,4 @@ Tue Jun 30 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-30] docs: update API reference for booking lifecycle endpoints
 [2026-06-30] feat: enhance Arabic NLP response quality
 [2026-06-30] docs: update architecture diagram for fleet intelligence layer
+[2026-06-30] refactor: optimize ConversationEngine message routing
