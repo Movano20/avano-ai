@@ -1600,3 +1600,4 @@ Tue Jun 30 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-30] fix: IDP expiry edge case for short-term rentals
 [2026-06-30] feat: add telemetry logging for operator assistant commands
 [2026-06-30] docs: update API reference for booking lifecycle endpoints
+[2026-06-30] feat: enhance Arabic NLP response quality
