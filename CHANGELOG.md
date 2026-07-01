@@ -1609,3 +1609,4 @@ Tue Jun 30 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 [2026-06-30] feat: add vehicle utilization metrics to dashboard
 Wed Jul  1 01:00:19 UTC 2026: feat: document WhatsApp automation flow
 Wed Jul  1 01:00:19 UTC 2026: refactor: improve customer conversation flow docs
+Wed Jul  1 01:00:19 UTC 2026: feat: add operator onboarding flow documentation
