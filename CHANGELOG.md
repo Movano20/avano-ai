@@ -1610,3 +1610,4 @@ Tue Jun 30 09:00:20 UTC 2026: docs: update GCC expansion roadmap
 Wed Jul  1 01:00:19 UTC 2026: feat: document WhatsApp automation flow
 Wed Jul  1 01:00:19 UTC 2026: refactor: improve customer conversation flow docs
 Wed Jul  1 01:00:19 UTC 2026: feat: add operator onboarding flow documentation
+Wed Jul  1 09:00:24 UTC 2026: docs: add dynamic pricing engine notes
