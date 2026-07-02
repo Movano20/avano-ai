@@ -1626,3 +1626,4 @@ Thu Jul  2 09:01:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-02] docs: expand multilingual support documentation
 [2026-07-02] refactor: clean up closing flow state transitions
 [2026-07-02] docs: add operator onboarding guide
+[2026-07-02] feat: improve WhatsApp message delivery retry logic
