@@ -1632,3 +1632,4 @@ Thu Jul  2 09:01:13 UTC 2026: docs: update UAE compliance workflow spec
 Fri Jul  3 01:00:17 UTC 2026: docs: add demand forecasting model spec
 Fri Jul  3 01:00:17 UTC 2026: refactor: improve booking lifecycle documentation
 Fri Jul  3 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
+Fri Jul  3 09:00:18 UTC 2026: feat: add operator onboarding flow documentation
