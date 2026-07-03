@@ -1629,3 +1629,4 @@ Thu Jul  2 09:01:13 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-02] feat: improve WhatsApp message delivery retry logic
 [2026-07-02] docs: update architecture diagram for fleet intelligence layer
 [2026-07-02] refactor: consolidate pricing engine rate selection logic
+Fri Jul  3 01:00:17 UTC 2026: docs: add demand forecasting model spec
