@@ -1639,3 +1639,4 @@ Fri Jul  3 09:00:18 UTC 2026: feat: document WhatsApp automation flow
 [2026-07-03] feat: add booking search by plate number
 [2026-07-03] feat: add CSV export for monthly rental reports
 [2026-07-03] refactor: improve database query performance for fleet router
+[2026-07-03] docs: Q3 2026 roadmap update — logistics expansion
