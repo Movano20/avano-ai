@@ -1656,3 +1656,4 @@ Sat Jul  4 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-04] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-04] fix: notification worker stability improvements
 [2026-07-04] refactor: clean up closing flow state transitions
+[2026-07-04] refactor: consolidate pricing engine rate selection logic
