@@ -1658,3 +1658,4 @@ Sat Jul  4 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-04] refactor: clean up closing flow state transitions
 [2026-07-04] refactor: consolidate pricing engine rate selection logic
 [2026-07-04] docs: add operator onboarding guide
+[2026-07-04] feat: enhance Arabic NLP response quality
