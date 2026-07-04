@@ -1652,3 +1652,4 @@ Sat Jul  4 09:00:14 UTC 2026: docs: update sovereign AI model training plan
 Sat Jul  4 09:00:14 UTC 2026: feat: document WhatsApp automation flow
 Sat Jul  4 09:00:14 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-04] feat: add vehicle utilization metrics to dashboard
+[2026-07-04] feat: enhance bot tone calibration for Gulf Arabic dialect
