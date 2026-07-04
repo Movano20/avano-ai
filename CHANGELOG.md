@@ -1649,3 +1649,4 @@ Sat Jul  4 01:00:14 UTC 2026: refactor: improve booking lifecycle documentation
 Sat Jul  4 01:00:14 UTC 2026: docs: update GCC expansion roadmap
 Sat Jul  4 01:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 Sat Jul  4 09:00:14 UTC 2026: docs: update sovereign AI model training plan
+Sat Jul  4 09:00:14 UTC 2026: feat: document WhatsApp automation flow
