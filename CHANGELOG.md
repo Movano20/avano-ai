@@ -1674,3 +1674,4 @@ Sun Jul  5 09:00:18 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-07-05] feat: enhance Arabic NLP response quality
 [2026-07-05] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-05] feat: add CSV export for monthly rental reports
+[2026-07-05] feat: add vehicle utilization metrics to dashboard
