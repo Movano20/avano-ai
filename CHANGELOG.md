@@ -1677,3 +1677,4 @@ Sun Jul  5 09:00:18 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-07-05] feat: add vehicle utilization metrics to dashboard
 [2026-07-05] fix: IDP expiry edge case for short-term rentals
 [2026-07-05] fix: race condition in concurrent booking confirmations
+Mon Jul  6 01:00:12 UTC 2026: docs: add demand forecasting model spec
