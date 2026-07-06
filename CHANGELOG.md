@@ -1691,3 +1691,4 @@ Mon Jul  6 09:00:23 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-06] feat: enhance Arabic NLP response quality
 [2026-07-06] fix: timezone handling for UAE late-night bookings
 [2026-07-06] feat: enhance document OCR confidence scoring
+[2026-07-06] feat: operator NL assistant handles partial commands
