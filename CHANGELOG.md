@@ -1693,3 +1693,4 @@ Mon Jul  6 09:00:23 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-06] feat: enhance document OCR confidence scoring
 [2026-07-06] feat: operator NL assistant handles partial commands
 [2026-07-06] feat: add vehicle availability caching layer
+[2026-07-06] feat: add telemetry logging for operator assistant commands
