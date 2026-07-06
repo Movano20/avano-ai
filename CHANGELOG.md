@@ -1687,3 +1687,4 @@ Mon Jul  6 09:00:23 UTC 2026: docs: update sovereign AI model training plan
 Mon Jul  6 09:00:23 UTC 2026: docs: add demand forecasting model spec
 Mon Jul  6 09:00:23 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-06] docs: Q3 2026 roadmap update — logistics expansion
+[2026-07-06] feat: improve WhatsApp message delivery retry logic
