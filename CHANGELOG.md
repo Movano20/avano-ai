@@ -1698,3 +1698,4 @@ Mon Jul  6 09:00:23 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-06] refactor: optimize ConversationEngine message routing
 Tue Jul  7 01:00:19 UTC 2026: docs: update platform architecture notes
 Tue Jul  7 01:00:19 UTC 2026: refactor: improve customer conversation flow docs
+Tue Jul  7 01:00:19 UTC 2026: docs: add demand forecasting model spec
