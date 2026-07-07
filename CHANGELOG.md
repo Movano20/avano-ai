@@ -1706,3 +1706,4 @@ Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-07-07] docs: add operator onboarding guide
 [2026-07-07] feat: add vehicle utilization metrics to dashboard
 [2026-07-07] refactor: consolidate pricing engine rate selection logic
+[2026-07-07] feat: operator NL assistant handles partial commands
