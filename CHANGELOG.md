@@ -1711,3 +1711,4 @@ Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-07-07] fix: race condition in concurrent booking confirmations
 [2026-07-07] fix: notification worker stability improvements
 [2026-07-07] fix: IDP expiry edge case for short-term rentals
+[2026-07-07] feat: improve WhatsApp message delivery retry logic
