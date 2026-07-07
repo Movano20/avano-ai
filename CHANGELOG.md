@@ -1704,3 +1704,4 @@ Tue Jul  7 09:00:40 UTC 2026: docs: add demand forecasting model spec
 Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-07-07] feat: smart alert thresholds for low Salik balance
 [2026-07-07] docs: add operator onboarding guide
+[2026-07-07] feat: add vehicle utilization metrics to dashboard
