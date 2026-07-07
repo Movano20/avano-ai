@@ -1701,3 +1701,4 @@ Tue Jul  7 01:00:19 UTC 2026: refactor: improve customer conversation flow docs
 Tue Jul  7 01:00:19 UTC 2026: docs: add demand forecasting model spec
 Tue Jul  7 09:00:40 UTC 2026: docs: update GCC expansion roadmap
 Tue Jul  7 09:00:40 UTC 2026: docs: add demand forecasting model spec
+Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
