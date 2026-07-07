@@ -1708,3 +1708,4 @@ Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-07-07] refactor: consolidate pricing engine rate selection logic
 [2026-07-07] feat: operator NL assistant handles partial commands
 [2026-07-07] fix: edge case in handover checklist for vehicle swap
+[2026-07-07] fix: race condition in concurrent booking confirmations
