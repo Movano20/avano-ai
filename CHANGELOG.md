@@ -1718,3 +1718,4 @@ Wed Jul  8 01:00:14 UTC 2026: docs: update GCC expansion roadmap
 Wed Jul  8 09:00:30 UTC 2026: docs: add demand forecasting model spec
 Wed Jul  8 09:00:31 UTC 2026: refactor: improve API integration specs
 Wed Jul  8 09:00:31 UTC 2026: docs: update sovereign AI model training plan
+[2026-07-08] docs: Q3 2026 roadmap update — logistics expansion
