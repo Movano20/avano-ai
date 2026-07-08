@@ -1715,3 +1715,4 @@ Tue Jul  7 09:00:40 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Jul  8 01:00:14 UTC 2026: docs: add demand forecasting model spec
 Wed Jul  8 01:00:14 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Jul  8 01:00:14 UTC 2026: docs: update GCC expansion roadmap
+Wed Jul  8 09:00:30 UTC 2026: docs: add demand forecasting model spec
