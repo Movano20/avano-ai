@@ -1725,3 +1725,4 @@ Wed Jul  8 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-07-08] fix: IDP expiry edge case for short-term rentals
 [2026-07-08] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-07-08] refactor: consolidate pricing engine rate selection logic
+[2026-07-08] fix: timezone handling for UAE late-night bookings
