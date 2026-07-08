@@ -1720,3 +1720,4 @@ Wed Jul  8 09:00:31 UTC 2026: refactor: improve API integration specs
 Wed Jul  8 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-07-08] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-08] feat: operator NL assistant handles partial commands
+[2026-07-08] feat: add CSV export for monthly rental reports
