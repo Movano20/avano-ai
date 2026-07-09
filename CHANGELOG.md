@@ -1729,3 +1729,4 @@ Wed Jul  8 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 [2026-07-08] refactor: clean up closing flow state transitions
 [2026-07-08] feat: improve fines sync error handling and retry logic
 Thu Jul  9 09:06:09 UTC 2026: docs: update platform architecture notes
+Thu Jul  9 09:06:09 UTC 2026: refactor: improve booking lifecycle documentation
