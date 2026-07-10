@@ -1731,3 +1731,4 @@ Wed Jul  8 09:00:31 UTC 2026: docs: update sovereign AI model training plan
 Thu Jul  9 09:06:09 UTC 2026: docs: update platform architecture notes
 Thu Jul  9 09:06:09 UTC 2026: refactor: improve booking lifecycle documentation
 Thu Jul  9 09:06:09 UTC 2026: docs: update sovereign AI model training plan
+Fri Jul 10 01:08:43 UTC 2026: docs: update UAE compliance workflow spec
