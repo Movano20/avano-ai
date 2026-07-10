@@ -1735,3 +1735,4 @@ Fri Jul 10 01:08:43 UTC 2026: docs: update UAE compliance workflow spec
 Fri Jul 10 01:08:43 UTC 2026: feat: document fleet analytics data model
 Fri Jul 10 01:08:43 UTC 2026: docs: update GCC expansion roadmap
 [2026-07-10] fix: deposit split validation for cash+card combinations
+[2026-07-10] feat: enhance document OCR confidence scoring
