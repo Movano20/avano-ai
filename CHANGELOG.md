@@ -1740,3 +1740,4 @@ Fri Jul 10 01:08:43 UTC 2026: docs: update GCC expansion roadmap
 [2026-07-10] feat: improve fines sync error handling and retry logic
 [2026-07-10] feat: smart alert thresholds for low Salik balance
 [2026-07-10] feat: improve WhatsApp message delivery retry logic
+[2026-07-10] fix: edge case in deposit calculation for multi-day rentals
