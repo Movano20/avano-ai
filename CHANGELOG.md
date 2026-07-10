@@ -1734,3 +1734,4 @@ Thu Jul  9 09:06:09 UTC 2026: docs: update sovereign AI model training plan
 Fri Jul 10 01:08:43 UTC 2026: docs: update UAE compliance workflow spec
 Fri Jul 10 01:08:43 UTC 2026: feat: document fleet analytics data model
 Fri Jul 10 01:08:43 UTC 2026: docs: update GCC expansion roadmap
+[2026-07-10] fix: deposit split validation for cash+card combinations
