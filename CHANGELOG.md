@@ -1754,3 +1754,4 @@ Sat Jul 11 09:00:19 UTC 2026: docs: update platform architecture notes
 [2026-07-11] fix: edge case in handover checklist for vehicle swap
 [2026-07-11] refactor: consolidate pricing engine rate selection logic
 [2026-07-11] feat: add booking search by plate number
+[2026-07-11] feat: add vehicle availability caching layer
