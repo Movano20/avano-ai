@@ -1776,3 +1776,4 @@ Sun Jul 12 09:00:23 UTC 2026: refactor: improve API integration specs
 [2026-07-12] docs: compliance and data retention policy update
 [2026-07-12] docs: add operator onboarding guide
 [2026-07-12] docs: expand multilingual support documentation
+[2026-07-12] fix: edge case in deposit calculation for multi-day rentals
