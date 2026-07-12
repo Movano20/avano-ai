@@ -1763,3 +1763,4 @@ Sat Jul 11 09:00:19 UTC 2026: docs: update platform architecture notes
 Sun Jul 12 01:00:55 UTC 2026: feat: document WhatsApp automation flow
 Sun Jul 12 01:00:55 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Jul 12 01:00:55 UTC 2026: docs: update Arabic NLP pipeline notes
+Sun Jul 12 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
