@@ -1770,3 +1770,4 @@ Sun Jul 12 09:00:23 UTC 2026: refactor: improve customer conversation flow docs
 Sun Jul 12 09:00:23 UTC 2026: docs: update UAE compliance workflow spec
 Sun Jul 12 09:00:23 UTC 2026: refactor: improve API integration specs
 [2026-07-12] docs: update API reference for booking lifecycle endpoints
+[2026-07-12] fix: timezone handling for UAE late-night bookings
