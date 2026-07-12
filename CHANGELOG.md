@@ -1767,3 +1767,4 @@ Sun Jul 12 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Jul 12 09:00:16 UTC 2026: docs: add demand forecasting model spec
 Sun Jul 12 09:00:16 UTC 2026: feat: document operator alert system design
 Sun Jul 12 09:00:23 UTC 2026: refactor: improve customer conversation flow docs
+Sun Jul 12 09:00:23 UTC 2026: docs: update UAE compliance workflow spec
