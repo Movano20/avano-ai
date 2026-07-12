@@ -1772,3 +1772,4 @@ Sun Jul 12 09:00:23 UTC 2026: refactor: improve API integration specs
 [2026-07-12] docs: update API reference for booking lifecycle endpoints
 [2026-07-12] fix: timezone handling for UAE late-night bookings
 [2026-07-12] feat: add booking search by plate number
+[2026-07-12] refactor: improve database query performance for fleet router
