@@ -1790,3 +1790,4 @@ Mon Jul 13 09:00:14 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-13] fix: edge case in handover checklist for vehicle swap
 [2026-07-13] feat: improve WhatsApp message delivery retry logic
 [2026-07-13] feat: add booking search by plate number
+[2026-07-13] docs: update API reference for booking lifecycle endpoints
