@@ -1786,3 +1786,4 @@ Mon Jul 13 09:00:14 UTC 2026: feat: document operator alert system design
 Mon Jul 13 09:00:14 UTC 2026: feat: document WhatsApp automation flow
 Mon Jul 13 09:00:14 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-13] refactor: improve database query performance for fleet router
+[2026-07-13] refactor: clean up closing flow state transitions
