@@ -1791,3 +1791,4 @@ Mon Jul 13 09:00:14 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-13] feat: improve WhatsApp message delivery retry logic
 [2026-07-13] feat: add booking search by plate number
 [2026-07-13] docs: update API reference for booking lifecycle endpoints
+[2026-07-13] feat: add CSV export for monthly rental reports
