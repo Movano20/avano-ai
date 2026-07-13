@@ -1794,3 +1794,4 @@ Mon Jul 13 09:00:14 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-13] feat: add CSV export for monthly rental reports
 [2026-07-13] fix: deposit split validation for cash+card combinations
 [2026-07-13] fix: timezone handling for UAE late-night bookings
+[2026-07-13] feat: improve fines sync error handling and retry logic
