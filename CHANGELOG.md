@@ -1780,3 +1780,4 @@ Sun Jul 12 09:00:23 UTC 2026: refactor: improve API integration specs
 [2026-07-12] feat: add vehicle utilization metrics to dashboard
 [2026-07-12] feat: improve WhatsApp message delivery retry logic
 Mon Jul 13 01:00:15 UTC 2026: feat: add operator onboarding flow documentation
+Mon Jul 13 01:00:15 UTC 2026: docs: update Arabic NLP pipeline notes
