@@ -1801,3 +1801,4 @@ Tue Jul 14 01:00:14 UTC 2026: feat: document fleet analytics data model
 Tue Jul 14 09:00:16 UTC 2026: docs: update Arabic NLP pipeline notes
 Tue Jul 14 09:00:16 UTC 2026: docs: add demand forecasting model spec
 Tue Jul 14 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
+[2026-07-14] fix: deposit split validation for cash+card combinations
