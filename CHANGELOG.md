@@ -1810,3 +1810,4 @@ Tue Jul 14 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-14] refactor: clean up closing flow state transitions
 [2026-07-14] docs: expand multilingual support documentation
 [2026-07-14] feat: improve booking confirmation response time
+[2026-07-14] docs: update API reference for booking lifecycle endpoints
