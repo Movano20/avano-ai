@@ -1799,3 +1799,4 @@ Tue Jul 14 01:00:14 UTC 2026: refactor: improve API integration specs
 Tue Jul 14 01:00:14 UTC 2026: refactor: improve API integration specs
 Tue Jul 14 01:00:14 UTC 2026: feat: document fleet analytics data model
 Tue Jul 14 09:00:16 UTC 2026: docs: update Arabic NLP pipeline notes
+Tue Jul 14 09:00:16 UTC 2026: docs: add demand forecasting model spec
