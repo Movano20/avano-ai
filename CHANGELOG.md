@@ -1804,3 +1804,4 @@ Tue Jul 14 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-14] fix: deposit split validation for cash+card combinations
 [2026-07-14] refactor: optimize ConversationEngine message routing
 [2026-07-14] docs: add operator onboarding guide
+[2026-07-14] refactor: consolidate pricing engine rate selection logic
