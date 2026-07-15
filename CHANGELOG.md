@@ -1826,3 +1826,4 @@ Wed Jul 15 09:00:31 UTC 2026: docs: update platform architecture notes
 [2026-07-15] docs: add operator onboarding guide
 [2026-07-15] docs: update API reference for booking lifecycle endpoints
 [2026-07-15] feat: add telemetry logging for operator assistant commands
+[2026-07-15] feat: enhance Arabic NLP response quality
