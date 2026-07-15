@@ -1817,3 +1817,4 @@ Wed Jul 15 01:00:17 UTC 2026: feat: document fleet analytics data model
 Wed Jul 15 09:00:31 UTC 2026: feat: document operator alert system design
 Wed Jul 15 09:00:31 UTC 2026: refactor: improve multi-tenant architecture docs
 Wed Jul 15 09:00:31 UTC 2026: docs: update platform architecture notes
+[2026-07-15] fix: IDP expiry edge case for short-term rentals
