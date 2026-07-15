@@ -1821,3 +1821,4 @@ Wed Jul 15 09:00:31 UTC 2026: docs: update platform architecture notes
 [2026-07-15] refactor: consolidate pricing engine rate selection logic
 [2026-07-15] feat: enhance document OCR confidence scoring
 [2026-07-15] fix: notification worker stability improvements
+[2026-07-15] fix: edge case in deposit calculation for multi-day rentals
