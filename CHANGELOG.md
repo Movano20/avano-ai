@@ -1811,3 +1811,4 @@ Tue Jul 14 09:00:16 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-14] docs: expand multilingual support documentation
 [2026-07-14] feat: improve booking confirmation response time
 [2026-07-14] docs: update API reference for booking lifecycle endpoints
+Wed Jul 15 01:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
