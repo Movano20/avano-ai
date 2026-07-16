@@ -1835,3 +1835,4 @@ Thu Jul 16 09:00:16 UTC 2026: refactor: improve API integration specs
 Thu Jul 16 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-07-16] feat: add telemetry logging for operator assistant commands
 [2026-07-16] refactor: clean up closing flow state transitions
+[2026-07-16] docs: expand multilingual support documentation
