@@ -1837,3 +1837,4 @@ Thu Jul 16 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-07-16] refactor: clean up closing flow state transitions
 [2026-07-16] docs: expand multilingual support documentation
 [2026-07-16] refactor: optimize ConversationEngine message routing
+[2026-07-16] docs: add operator onboarding guide
