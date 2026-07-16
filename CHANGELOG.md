@@ -1841,3 +1841,4 @@ Thu Jul 16 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-07-16] feat: smart alert thresholds for low Salik balance
 [2026-07-16] refactor: consolidate pricing engine rate selection logic
 [2026-07-16] docs: Q3 2026 roadmap update — logistics expansion
+[2026-07-16] fix: edge case in deposit calculation for multi-day rentals
