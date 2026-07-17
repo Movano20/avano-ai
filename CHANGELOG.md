@@ -1857,3 +1857,4 @@ Fri Jul 17 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-07-17] feat: enhance Arabic NLP response quality
 [2026-07-17] fix: timezone handling for UAE late-night bookings
 [2026-07-17] refactor: clean up closing flow state transitions
+[2026-07-17] feat: add vehicle availability caching layer
