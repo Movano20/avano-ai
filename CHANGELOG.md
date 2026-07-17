@@ -1846,3 +1846,4 @@ Thu Jul 16 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 Fri Jul 17 01:00:15 UTC 2026: docs: add demand forecasting model spec
 Fri Jul 17 01:00:15 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Jul 17 01:00:15 UTC 2026: refactor: improve API integration specs
+Fri Jul 17 09:00:15 UTC 2026: feat: document WhatsApp automation flow
