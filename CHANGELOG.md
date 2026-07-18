@@ -1866,3 +1866,4 @@ Sat Jul 18 09:00:27 UTC 2026: feat: document WhatsApp automation flow
 Sat Jul 18 09:00:27 UTC 2026: docs: add demand forecasting model spec
 Sat Jul 18 09:00:27 UTC 2026: docs: update sovereign AI model training plan
 [2026-07-18] feat: operator NL assistant handles partial commands
+[2026-07-18] fix: edge case in deposit calculation for multi-day rentals
