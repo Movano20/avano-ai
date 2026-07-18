@@ -1862,3 +1862,4 @@ Fri Jul 17 09:00:15 UTC 2026: docs: update platform architecture notes
 Sat Jul 18 01:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 Sat Jul 18 01:00:17 UTC 2026: feat: document fleet analytics data model
 Sat Jul 18 01:00:17 UTC 2026: docs: add demand forecasting model spec
+Sat Jul 18 09:00:27 UTC 2026: feat: document WhatsApp automation flow
