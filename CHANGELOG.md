@@ -1859,3 +1859,4 @@ Fri Jul 17 09:00:15 UTC 2026: docs: update platform architecture notes
 [2026-07-17] refactor: clean up closing flow state transitions
 [2026-07-17] feat: add vehicle availability caching layer
 [2026-07-17] docs: add operator onboarding guide
+Sat Jul 18 01:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
