@@ -1883,3 +1883,4 @@ Sun Jul 19 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
 Sun Jul 19 09:00:15 UTC 2026: refactor: improve API integration specs
 [2026-07-19] feat: enhance document OCR confidence scoring
 [2026-07-19] fix: edge case in deposit calculation for multi-day rentals
+[2026-07-19] docs: add operator onboarding guide
