@@ -1880,3 +1880,4 @@ Sun Jul 19 01:00:13 UTC 2026: docs: add dynamic pricing engine notes
 Sun Jul 19 01:00:13 UTC 2026: docs: update platform architecture notes
 Sun Jul 19 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
 Sun Jul 19 09:00:15 UTC 2026: refactor: improve customer conversation flow docs
+Sun Jul 19 09:00:15 UTC 2026: refactor: improve API integration specs
