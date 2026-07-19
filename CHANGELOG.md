@@ -1889,3 +1889,4 @@ Sun Jul 19 09:00:15 UTC 2026: refactor: improve API integration specs
 [2026-07-19] feat: improve fines sync error handling and retry logic
 [2026-07-19] fix: race condition in concurrent booking confirmations
 [2026-07-19] docs: update API reference for booking lifecycle endpoints
+[2026-07-19] feat: add vehicle utilization metrics to dashboard
