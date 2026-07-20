@@ -1896,3 +1896,4 @@ Mon Jul 20 01:00:10 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Jul 20 01:00:10 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-20] fix: race condition in concurrent booking confirmations
 [2026-07-20] docs: add operator onboarding guide
+[2026-07-20] fix: notification worker stability improvements
