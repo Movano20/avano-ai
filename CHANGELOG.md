@@ -1894,3 +1894,4 @@ Sun Jul 19 09:00:15 UTC 2026: refactor: improve API integration specs
 Mon Jul 20 01:00:10 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Jul 20 01:00:10 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Jul 20 01:00:10 UTC 2026: feat: add operator onboarding flow documentation
+[2026-07-20] fix: race condition in concurrent booking confirmations
