@@ -1897,3 +1897,4 @@ Mon Jul 20 01:00:10 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-20] fix: race condition in concurrent booking confirmations
 [2026-07-20] docs: add operator onboarding guide
 [2026-07-20] fix: notification worker stability improvements
+[2026-07-20] refactor: clean up closing flow state transitions
