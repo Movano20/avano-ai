@@ -1901,3 +1901,4 @@ Mon Jul 20 01:00:10 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-20] feat: improve booking confirmation response time
 [2026-07-20] feat: improve WhatsApp message delivery retry logic
 [2026-07-20] fix: IDP expiry edge case for short-term rentals
+[2026-07-20] feat: add vehicle availability caching layer
