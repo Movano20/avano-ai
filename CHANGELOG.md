@@ -1920,3 +1920,4 @@ Tue Jul 21 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-21] docs: compliance and data retention policy update
 [2026-07-21] fix: edge case in handover checklist for vehicle swap
 [2026-07-21] docs: expand multilingual support documentation
+[2026-07-21] feat: add vehicle utilization metrics to dashboard
