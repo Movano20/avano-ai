@@ -1915,3 +1915,4 @@ Tue Jul 21 09:00:14 UTC 2026: feat: document WhatsApp automation flow
 Tue Jul 21 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-21] docs: update architecture diagram for fleet intelligence layer
 [2026-07-21] fix: edge case in deposit calculation for multi-day rentals
+[2026-07-21] feat: enhance Arabic NLP response quality
