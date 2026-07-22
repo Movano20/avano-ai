@@ -1934,3 +1934,4 @@ Wed Jul 22 09:00:16 UTC 2026: docs: update GCC expansion roadmap
 Wed Jul 22 09:00:17 UTC 2026: refactor: improve API integration specs
 [2026-07-22] fix: edge case in handover checklist for vehicle swap
 [2026-07-22] docs: expand multilingual support documentation
+[2026-07-22] refactor: clean up closing flow state transitions
