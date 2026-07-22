@@ -1938,3 +1938,4 @@ Wed Jul 22 09:00:17 UTC 2026: refactor: improve API integration specs
 [2026-07-22] feat: improve WhatsApp message delivery retry logic
 [2026-07-22] refactor: optimize ConversationEngine message routing
 [2026-07-22] feat: enhance Arabic NLP response quality
+[2026-07-22] fix: timezone handling for UAE late-night bookings
