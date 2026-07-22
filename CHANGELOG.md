@@ -1926,3 +1926,4 @@ Tue Jul 21 09:00:14 UTC 2026: docs: update UAE compliance workflow spec
 Wed Jul 22 01:00:08 UTC 2026: docs: update platform architecture notes
 Wed Jul 22 01:00:08 UTC 2026: docs: add dynamic pricing engine notes
 Wed Jul 22 01:00:08 UTC 2026: docs: update Arabic NLP pipeline notes
+Wed Jul 22 09:00:08 UTC 2026: feat: add operator onboarding flow documentation
