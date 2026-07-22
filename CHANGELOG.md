@@ -1941,3 +1941,4 @@ Wed Jul 22 09:00:17 UTC 2026: refactor: improve API integration specs
 [2026-07-22] fix: timezone handling for UAE late-night bookings
 [2026-07-22] feat: smart alert thresholds for low Salik balance
 [2026-07-22] fix: IDP expiry edge case for short-term rentals
+[2026-07-22] docs: update architecture diagram for fleet intelligence layer
