@@ -1929,3 +1929,4 @@ Wed Jul 22 01:00:08 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Jul 22 09:00:08 UTC 2026: feat: add operator onboarding flow documentation
 Wed Jul 22 09:00:08 UTC 2026: docs: update UAE compliance workflow spec
 Wed Jul 22 09:00:08 UTC 2026: feat: document fleet analytics data model
+Wed Jul 22 09:00:16 UTC 2026: refactor: improve API integration specs
