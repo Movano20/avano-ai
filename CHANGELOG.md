@@ -1947,3 +1947,4 @@ Thu Jul 23 01:00:10 UTC 2026: docs: update platform architecture notes
 Thu Jul 23 01:00:10 UTC 2026: refactor: improve booking lifecycle documentation
 Thu Jul 23 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 Thu Jul 23 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
+Thu Jul 23 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
