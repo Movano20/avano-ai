@@ -1957,3 +1957,4 @@ Thu Jul 23 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-23] docs: expand multilingual support documentation
 [2026-07-23] feat: improve booking confirmation response time
 [2026-07-23] docs: compliance and data retention policy update
+[2026-07-23] docs: add operator onboarding guide
