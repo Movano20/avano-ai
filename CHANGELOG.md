@@ -1949,3 +1949,4 @@ Thu Jul 23 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 Thu Jul 23 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Thu Jul 23 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-23] feat: add vehicle availability caching layer
+[2026-07-23] feat: improve WhatsApp message delivery retry logic
