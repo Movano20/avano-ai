@@ -1971,3 +1971,4 @@ Fri Jul 24 09:00:12 UTC 2026: docs: add dynamic pricing engine notes
 [2026-07-24] feat: add vehicle utilization metrics to dashboard
 [2026-07-24] feat: improve WhatsApp message delivery retry logic
 [2026-07-24] refactor: consolidate pricing engine rate selection logic
+[2026-07-24] refactor: clean up closing flow state transitions
