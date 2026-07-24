@@ -1974,3 +1974,4 @@ Fri Jul 24 09:00:12 UTC 2026: docs: add dynamic pricing engine notes
 [2026-07-24] refactor: clean up closing flow state transitions
 [2026-07-24] fix: race condition in concurrent booking confirmations
 [2026-07-24] docs: compliance and data retention policy update
+[2026-07-24] fix: edge case in deposit calculation for multi-day rentals
