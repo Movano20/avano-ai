@@ -1983,3 +1983,4 @@ Sat Jul 25 01:00:09 UTC 2026: docs: add demand forecasting model spec
 Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 Sat Jul 25 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
+[2026-07-25] docs: Q3 2026 roadmap update — logistics expansion
