@@ -1989,3 +1989,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-25] feat: add vehicle availability caching layer
 [2026-07-25] refactor: clean up closing flow state transitions
 [2026-07-25] fix: race condition in concurrent booking confirmations
+[2026-07-25] docs: compliance and data retention policy update
