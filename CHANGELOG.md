@@ -1978,3 +1978,4 @@ Fri Jul 24 09:00:12 UTC 2026: docs: add dynamic pricing engine notes
 [2026-07-24] fix: timezone handling for UAE late-night bookings
 [2026-07-24] feat: enhance Arabic NLP response quality
 Sat Jul 25 01:00:09 UTC 2026: feat: document fleet analytics data model
+Sat Jul 25 01:00:09 UTC 2026: refactor: improve booking lifecycle documentation
