@@ -1986,3 +1986,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-25] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-25] feat: add CSV export for monthly rental reports
 [2026-07-25] fix: deposit split validation for cash+card combinations
+[2026-07-25] feat: add vehicle availability caching layer
