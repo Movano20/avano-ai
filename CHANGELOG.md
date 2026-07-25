@@ -1988,3 +1988,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-25] fix: deposit split validation for cash+card combinations
 [2026-07-25] feat: add vehicle availability caching layer
 [2026-07-25] refactor: clean up closing flow state transitions
+[2026-07-25] fix: race condition in concurrent booking confirmations
