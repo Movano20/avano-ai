@@ -1992,3 +1992,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-25] docs: compliance and data retention policy update
 [2026-07-25] feat: operator NL assistant handles partial commands
 [2026-07-25] feat: add booking search by plate number
+[2026-07-25] fix: timezone handling for UAE late-night bookings
