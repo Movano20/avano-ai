@@ -1995,3 +1995,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 [2026-07-25] fix: timezone handling for UAE late-night bookings
 Sun Jul 26 01:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Jul 26 01:00:08 UTC 2026: refactor: improve customer conversation flow docs
+Sun Jul 26 01:00:08 UTC 2026: docs: update platform architecture notes
