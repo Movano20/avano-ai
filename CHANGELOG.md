@@ -1999,3 +1999,4 @@ Sun Jul 26 01:00:08 UTC 2026: docs: update platform architecture notes
 Sun Jul 26 09:00:09 UTC 2026: docs: add demand forecasting model spec
 Sun Jul 26 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun Jul 26 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
+[2026-07-26] refactor: optimize ConversationEngine message routing
