@@ -2004,3 +2004,4 @@ Sun Jul 26 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-07-26] docs: expand multilingual support documentation
 [2026-07-26] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-26] feat: operator NL assistant handles partial commands
+[2026-07-26] docs: add operator onboarding guide
