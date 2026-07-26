@@ -1996,3 +1996,4 @@ Sat Jul 25 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 Sun Jul 26 01:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Jul 26 01:00:08 UTC 2026: refactor: improve customer conversation flow docs
 Sun Jul 26 01:00:08 UTC 2026: docs: update platform architecture notes
+Sun Jul 26 09:00:09 UTC 2026: docs: add demand forecasting model spec
