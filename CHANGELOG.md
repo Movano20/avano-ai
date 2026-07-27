@@ -2016,3 +2016,4 @@ Mon Jul 27 09:00:09 UTC 2026: docs: update sovereign AI model training plan
 Mon Jul 27 09:00:10 UTC 2026: docs: update platform architecture notes
 Mon Jul 27 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 [2026-07-27] feat: enhance document OCR confidence scoring
+[2026-07-27] fix: edge case in deposit calculation for multi-day rentals
