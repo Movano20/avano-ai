@@ -2020,3 +2020,4 @@ Mon Jul 27 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 [2026-07-27] refactor: improve database query performance for fleet router
 [2026-07-27] docs: update API reference for booking lifecycle endpoints
 [2026-07-27] refactor: optimize ConversationEngine message routing
+[2026-07-27] docs: Q3 2026 roadmap update — logistics expansion
