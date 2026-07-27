@@ -2022,3 +2022,4 @@ Mon Jul 27 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 [2026-07-27] refactor: optimize ConversationEngine message routing
 [2026-07-27] docs: Q3 2026 roadmap update — logistics expansion
 [2026-07-27] feat: add vehicle availability caching layer
+[2026-07-27] docs: expand multilingual support documentation
