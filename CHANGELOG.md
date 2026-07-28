@@ -2038,3 +2038,4 @@ Tue Jul 28 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-07-28] feat: add booking search by plate number
 [2026-07-28] docs: add operator onboarding guide
 [2026-07-28] docs: expand multilingual support documentation
+[2026-07-28] feat: enhance document OCR confidence scoring
