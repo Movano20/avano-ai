@@ -2035,3 +2035,4 @@ Tue Jul 28 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-07-28] refactor: improve database query performance for fleet router
 [2026-07-28] feat: add vehicle utilization metrics to dashboard
 [2026-07-28] refactor: consolidate pricing engine rate selection logic
+[2026-07-28] feat: add booking search by plate number
