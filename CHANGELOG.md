@@ -2028,3 +2028,4 @@ Mon Jul 27 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 Tue Jul 28 01:00:11 UTC 2026: docs: update GCC expansion roadmap
 Tue Jul 28 01:00:11 UTC 2026: docs: update UAE compliance workflow spec
 Tue Jul 28 01:00:11 UTC 2026: docs: update GCC expansion roadmap
+Tue Jul 28 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
