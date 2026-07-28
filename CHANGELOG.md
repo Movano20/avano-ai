@@ -2027,3 +2027,4 @@ Mon Jul 27 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 [2026-07-27] docs: update architecture diagram for fleet intelligence layer
 Tue Jul 28 01:00:11 UTC 2026: docs: update GCC expansion roadmap
 Tue Jul 28 01:00:11 UTC 2026: docs: update UAE compliance workflow spec
+Tue Jul 28 01:00:11 UTC 2026: docs: update GCC expansion roadmap
