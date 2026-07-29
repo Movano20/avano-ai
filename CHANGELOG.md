@@ -2053,3 +2053,4 @@ Wed Jul 29 09:00:15 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-29] refactor: clean up closing flow state transitions
 [2026-07-29] docs: compliance and data retention policy update
 [2026-07-29] feat: enhance document OCR confidence scoring
+[2026-07-29] fix: edge case in handover checklist for vehicle swap
