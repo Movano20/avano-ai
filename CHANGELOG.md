@@ -2071,3 +2071,4 @@ Thu Jul 30 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-30] docs: update architecture diagram for fleet intelligence layer
 [2026-07-30] feat: add vehicle availability caching layer
 [2026-07-30] feat: add booking search by plate number
+[2026-07-30] fix: IDP expiry edge case for short-term rentals
