@@ -2061,3 +2061,4 @@ Wed Jul 29 09:00:15 UTC 2026: docs: update UAE compliance workflow spec
 [2026-07-29] fix: IDP expiry edge case for short-term rentals
 [2026-07-29] fix: deposit split validation for cash+card combinations
 Thu Jul 30 01:00:09 UTC 2026: docs: add demand forecasting model spec
+Thu Jul 30 01:00:09 UTC 2026: docs: update GCC expansion roadmap
