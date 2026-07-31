@@ -2082,3 +2082,4 @@ Fri Jul 31 01:00:09 UTC 2026: docs: update platform architecture notes
 [2026-07-31] fix: edge case in deposit calculation for multi-day rentals
 [2026-07-31] docs: update architecture diagram for fleet intelligence layer
 [2026-07-31] feat: operator NL assistant handles partial commands
+[2026-07-31] docs: add operator onboarding guide
