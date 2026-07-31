@@ -2084,3 +2084,4 @@ Fri Jul 31 01:00:09 UTC 2026: docs: update platform architecture notes
 [2026-07-31] feat: operator NL assistant handles partial commands
 [2026-07-31] docs: add operator onboarding guide
 [2026-07-31] feat: add vehicle availability caching layer
+[2026-07-31] feat: enhance bot tone calibration for Gulf Arabic dialect
