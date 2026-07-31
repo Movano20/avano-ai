@@ -2076,3 +2076,4 @@ Thu Jul 30 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-07-30] feat: improve WhatsApp message delivery retry logic
 [2026-07-30] feat: improve booking confirmation response time
 [2026-07-30] feat: improve fines sync error handling and retry logic
+Fri Jul 31 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
