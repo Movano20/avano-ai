@@ -2103,3 +2103,4 @@ Sat Aug  1 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-01] feat: enhance Arabic NLP response quality
 [2026-08-01] feat: add booking search by plate number
 [2026-08-01] feat: add vehicle utilization metrics to dashboard
+[2026-08-01] feat: add telemetry logging for operator assistant commands
