@@ -2100,3 +2100,4 @@ Sat Aug  1 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-01] feat: operator NL assistant handles partial commands
 [2026-08-01] refactor: clean up closing flow state transitions
 [2026-08-01] feat: add CSV export for monthly rental reports
+[2026-08-01] feat: enhance Arabic NLP response quality
