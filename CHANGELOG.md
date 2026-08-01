@@ -2092,3 +2092,4 @@ Fri Jul 31 01:00:09 UTC 2026: docs: update platform architecture notes
 Sat Aug  1 01:00:08 UTC 2026: refactor: improve API integration specs
 Sat Aug  1 01:00:08 UTC 2026: docs: add demand forecasting model spec
 Sat Aug  1 01:00:08 UTC 2026: docs: update Arabic NLP pipeline notes
+Sat Aug  1 09:00:10 UTC 2026: docs: add demand forecasting model spec
