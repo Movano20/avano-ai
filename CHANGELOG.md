@@ -2096,3 +2096,4 @@ Sat Aug  1 09:00:10 UTC 2026: docs: add demand forecasting model spec
 Sat Aug  1 09:00:10 UTC 2026: docs: update platform architecture notes
 Sat Aug  1 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-01] docs: add operator onboarding guide
+[2026-08-01] fix: IDP expiry edge case for short-term rentals
