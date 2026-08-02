@@ -2120,3 +2120,4 @@ Sun Aug  2 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-02] fix: race condition in concurrent booking confirmations
 [2026-08-02] docs: compliance and data retention policy update
 [2026-08-02] feat: enhance Arabic NLP response quality
+[2026-08-02] docs: add operator onboarding guide
