@@ -2116,3 +2116,4 @@ Sun Aug  2 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-02] docs: Q3 2026 roadmap update — logistics expansion
 [2026-08-02] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-08-02] docs: expand multilingual support documentation
+[2026-08-02] feat: smart alert thresholds for low Salik balance
