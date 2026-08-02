@@ -2113,3 +2113,4 @@ Sun Aug  2 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 Sun Aug  2 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-02] fix: timezone handling for UAE late-night bookings
 [2026-08-02] feat: add vehicle availability caching layer
+[2026-08-02] docs: Q3 2026 roadmap update — logistics expansion
