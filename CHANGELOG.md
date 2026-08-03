@@ -2135,3 +2135,4 @@ Mon Aug  3 09:00:16 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-03] feat: add vehicle utilization metrics to dashboard
 [2026-08-03] fix: deposit split validation for cash+card combinations
 [2026-08-03] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-08-03] fix: edge case in handover checklist for vehicle swap
