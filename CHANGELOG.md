@@ -2132,3 +2132,4 @@ Mon Aug  3 09:00:16 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-03] feat: operator NL assistant handles partial commands
 [2026-08-03] feat: enhance Arabic NLP response quality
 [2026-08-03] docs: Q3 2026 roadmap update — logistics expansion
+[2026-08-03] feat: add vehicle utilization metrics to dashboard
