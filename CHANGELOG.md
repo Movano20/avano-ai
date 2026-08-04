@@ -2149,3 +2149,4 @@ Tue Aug  4 09:00:10 UTC 2026: docs: update sovereign AI model training plan
 [2026-08-04] docs: compliance and data retention policy update
 [2026-08-04] refactor: clean up closing flow state transitions
 [2026-08-04] docs: update architecture diagram for fleet intelligence layer
+[2026-08-04] refactor: consolidate pricing engine rate selection logic
