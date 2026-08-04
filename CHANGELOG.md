@@ -2137,3 +2137,4 @@ Mon Aug  3 09:00:16 UTC 2026: docs: update UAE compliance workflow spec
 [2026-08-03] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-08-03] fix: edge case in handover checklist for vehicle swap
 [2026-08-03] fix: IDP expiry edge case for short-term rentals
+Tue Aug  4 01:00:12 UTC 2026: refactor: improve customer conversation flow docs
