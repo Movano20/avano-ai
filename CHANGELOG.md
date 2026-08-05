@@ -2167,3 +2167,4 @@ Wed Aug  5 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 [2026-08-05] docs: update API reference for booking lifecycle endpoints
 [2026-08-05] docs: Q3 2026 roadmap update — logistics expansion
 [2026-08-05] fix: edge case in deposit calculation for multi-day rentals
+[2026-08-05] fix: IDP expiry edge case for short-term rentals
