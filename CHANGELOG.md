@@ -2158,3 +2158,4 @@ Wed Aug  5 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
 Wed Aug  5 01:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Wed Aug  5 09:00:09 UTC 2026: feat: document WhatsApp automation flow
 Wed Aug  5 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
+Wed Aug  5 09:00:09 UTC 2026: docs: update GCC expansion roadmap
