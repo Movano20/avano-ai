@@ -2165,3 +2165,4 @@ Wed Aug  5 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 [2026-08-05] feat: enhance document OCR confidence scoring
 [2026-08-05] feat: operator NL assistant handles partial commands
 [2026-08-05] docs: update API reference for booking lifecycle endpoints
+[2026-08-05] docs: Q3 2026 roadmap update — logistics expansion
