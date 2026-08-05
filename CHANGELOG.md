@@ -2154,3 +2154,4 @@ Tue Aug  4 09:00:10 UTC 2026: docs: update sovereign AI model training plan
 [2026-08-04] feat: improve booking confirmation response time
 [2026-08-04] feat: smart alert thresholds for low Salik balance
 Wed Aug  5 01:00:09 UTC 2026: docs: add demand forecasting model spec
+Wed Aug  5 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
