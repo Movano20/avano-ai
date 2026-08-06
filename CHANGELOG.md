@@ -2172,3 +2172,4 @@ Wed Aug  5 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 Thu Aug  6 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Thu Aug  6 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Thu Aug  6 01:00:09 UTC 2026: docs: update sovereign AI model training plan
+Thu Aug  6 09:00:09 UTC 2026: feat: document WhatsApp automation flow
