@@ -2169,3 +2169,4 @@ Wed Aug  5 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 [2026-08-05] fix: edge case in deposit calculation for multi-day rentals
 [2026-08-05] fix: IDP expiry edge case for short-term rentals
 [2026-08-05] feat: add vehicle utilization metrics to dashboard
+Thu Aug  6 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
