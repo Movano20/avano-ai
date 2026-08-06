@@ -2182,3 +2182,4 @@ Thu Aug  6 09:00:15 UTC 2026: feat: document fleet analytics data model
 [2026-08-06] docs: expand multilingual support documentation
 [2026-08-06] fix: edge case in deposit calculation for multi-day rentals
 [2026-08-06] docs: add operator onboarding guide
+[2026-08-06] fix: deposit split validation for cash+card combinations
