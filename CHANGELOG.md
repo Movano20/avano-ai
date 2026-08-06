@@ -2180,3 +2180,4 @@ Thu Aug  6 09:00:15 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu Aug  6 09:00:15 UTC 2026: feat: document fleet analytics data model
 [2026-08-06] feat: improve booking confirmation response time
 [2026-08-06] docs: expand multilingual support documentation
+[2026-08-06] fix: edge case in deposit calculation for multi-day rentals
