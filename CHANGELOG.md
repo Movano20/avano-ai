@@ -2198,3 +2198,4 @@ Fri Aug  7 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-08-07] refactor: clean up closing flow state transitions
 [2026-08-07] fix: edge case in deposit calculation for multi-day rentals
 [2026-08-07] docs: update API reference for booking lifecycle endpoints
+[2026-08-07] fix: notification worker stability improvements
