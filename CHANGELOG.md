@@ -2201,3 +2201,4 @@ Fri Aug  7 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-08-07] fix: notification worker stability improvements
 [2026-08-07] feat: operator NL assistant handles partial commands
 [2026-08-07] feat: improve booking confirmation response time
+[2026-08-07] feat: add booking search by plate number
