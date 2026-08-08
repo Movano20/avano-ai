@@ -2213,3 +2213,4 @@ Sat Aug  8 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-08] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-08-08] fix: edge case in handover checklist for vehicle swap
 [2026-08-08] feat: enhance Arabic NLP response quality
+[2026-08-08] feat: add vehicle availability caching layer
