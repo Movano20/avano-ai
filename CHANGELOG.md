@@ -2216,3 +2216,4 @@ Sat Aug  8 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-08] feat: add vehicle availability caching layer
 [2026-08-08] feat: improve booking confirmation response time
 [2026-08-08] fix: deposit split validation for cash+card combinations
+[2026-08-08] fix: timezone handling for UAE late-night bookings
