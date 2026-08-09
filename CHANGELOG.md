@@ -2234,3 +2234,4 @@ Sun Aug  9 09:00:11 UTC 2026: feat: document WhatsApp automation flow
 [2026-08-09] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-08-09] docs: expand multilingual support documentation
 [2026-08-09] refactor: improve database query performance for fleet router
+[2026-08-09] feat: add booking search by plate number
