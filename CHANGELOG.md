@@ -2224,3 +2224,4 @@ Sun Aug  9 01:00:11 UTC 2026: docs: add demand forecasting model spec
 Sun Aug  9 01:00:11 UTC 2026: docs: update GCC expansion roadmap
 Sun Aug  9 01:00:11 UTC 2026: feat: document operator alert system design
 Sun Aug  9 09:00:11 UTC 2026: docs: add demand forecasting model spec
+Sun Aug  9 09:00:11 UTC 2026: docs: update Arabic NLP pipeline notes
