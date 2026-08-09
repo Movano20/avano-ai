@@ -2229,3 +2229,4 @@ Sun Aug  9 09:00:11 UTC 2026: feat: document WhatsApp automation flow
 [2026-08-09] feat: smart alert thresholds for low Salik balance
 [2026-08-09] feat: enhance Arabic NLP response quality
 [2026-08-09] refactor: clean up closing flow state transitions
+[2026-08-09] fix: edge case in handover checklist for vehicle swap
