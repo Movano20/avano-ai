@@ -2226,3 +2226,4 @@ Sun Aug  9 01:00:11 UTC 2026: feat: document operator alert system design
 Sun Aug  9 09:00:11 UTC 2026: docs: add demand forecasting model spec
 Sun Aug  9 09:00:11 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun Aug  9 09:00:11 UTC 2026: feat: document WhatsApp automation flow
+[2026-08-09] feat: smart alert thresholds for low Salik balance
