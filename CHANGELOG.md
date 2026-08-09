@@ -2231,3 +2231,4 @@ Sun Aug  9 09:00:11 UTC 2026: feat: document WhatsApp automation flow
 [2026-08-09] refactor: clean up closing flow state transitions
 [2026-08-09] fix: edge case in handover checklist for vehicle swap
 [2026-08-09] docs: update API reference for booking lifecycle endpoints
+[2026-08-09] feat: enhance bot tone calibration for Gulf Arabic dialect
