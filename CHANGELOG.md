@@ -2239,3 +2239,4 @@ Sun Aug  9 09:00:11 UTC 2026: feat: document WhatsApp automation flow
 Mon Aug 10 01:00:25 UTC 2026: feat: document WhatsApp automation flow
 Mon Aug 10 01:00:25 UTC 2026: docs: update sovereign AI model training plan
 Mon Aug 10 01:00:25 UTC 2026: docs: update Arabic NLP pipeline notes
+Mon Aug 10 09:00:08 UTC 2026: docs: add demand forecasting model spec
