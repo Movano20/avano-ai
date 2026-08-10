@@ -2242,3 +2242,4 @@ Mon Aug 10 01:00:25 UTC 2026: docs: update Arabic NLP pipeline notes
 Mon Aug 10 09:00:08 UTC 2026: docs: add demand forecasting model spec
 Mon Aug 10 09:00:08 UTC 2026: refactor: improve customer conversation flow docs
 Mon Aug 10 09:00:08 UTC 2026: refactor: improve API integration specs
+[2026-08-10] feat: add CSV export for monthly rental reports
