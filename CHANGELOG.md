@@ -2249,3 +2249,4 @@ Mon Aug 10 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-10] feat: add booking search by plate number
 [2026-08-10] refactor: optimize ConversationEngine message routing
 [2026-08-10] refactor: improve database query performance for fleet router
+[2026-08-10] docs: expand multilingual support documentation
