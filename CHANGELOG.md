@@ -2246,3 +2246,4 @@ Mon Aug 10 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-10] fix: deposit split validation for cash+card combinations
 [2026-08-10] feat: add vehicle availability caching layer
 [2026-08-10] docs: compliance and data retention policy update
+[2026-08-10] feat: add booking search by plate number
