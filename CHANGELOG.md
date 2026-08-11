@@ -2264,3 +2264,4 @@ Tue Aug 11 09:00:10 UTC 2026: docs: update platform architecture notes
 [2026-08-11] fix: notification worker stability improvements
 [2026-08-11] refactor: optimize ConversationEngine message routing
 [2026-08-11] docs: update API reference for booking lifecycle endpoints
+[2026-08-11] feat: add CSV export for monthly rental reports
