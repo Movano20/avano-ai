@@ -2261,3 +2261,4 @@ Tue Aug 11 09:00:10 UTC 2026: docs: update platform architecture notes
 [2026-08-11] refactor: consolidate pricing engine rate selection logic
 [2026-08-11] feat: enhance document OCR confidence scoring
 [2026-08-11] docs: Q3 2026 roadmap update — logistics expansion
+[2026-08-11] fix: notification worker stability improvements
