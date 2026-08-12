@@ -2284,3 +2284,4 @@ Wed Aug 12 09:00:15 UTC 2026: feat: add operator onboarding flow documentation
 [2026-08-12] feat: smart alert thresholds for low Salik balance
 [2026-08-12] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-08-12] feat: improve WhatsApp message delivery retry logic
+[2026-08-12] fix: edge case in deposit calculation for multi-day rentals
