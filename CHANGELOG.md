@@ -2277,3 +2277,4 @@ Wed Aug 12 09:00:08 UTC 2026: refactor: improve API integration specs
 Wed Aug 12 09:00:15 UTC 2026: refactor: improve API integration specs
 Wed Aug 12 09:00:15 UTC 2026: docs: update UAE compliance workflow spec
 Wed Aug 12 09:00:15 UTC 2026: feat: add operator onboarding flow documentation
+[2026-08-12] feat: add vehicle utilization metrics to dashboard
