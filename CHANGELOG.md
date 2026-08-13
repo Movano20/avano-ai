@@ -2298,3 +2298,4 @@ Thu Aug 13 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-13] feat: add CSV export for monthly rental reports
 [2026-08-13] docs: add operator onboarding guide
 [2026-08-13] fix: IDP expiry edge case for short-term rentals
+[2026-08-13] feat: enhance document OCR confidence scoring
