@@ -2289,3 +2289,4 @@ Wed Aug 12 09:00:15 UTC 2026: feat: add operator onboarding flow documentation
 [2026-08-12] fix: race condition in concurrent booking confirmations
 Thu Aug 13 01:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Thu Aug 13 01:00:09 UTC 2026: docs: add demand forecasting model spec
+Thu Aug 13 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
