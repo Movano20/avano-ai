@@ -2295,3 +2295,4 @@ Thu Aug 13 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 Thu Aug 13 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-13] feat: enhance Arabic NLP response quality
 [2026-08-13] fix: timezone handling for UAE late-night bookings
+[2026-08-13] feat: add CSV export for monthly rental reports
