@@ -2305,3 +2305,4 @@ Thu Aug 13 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-13] refactor: consolidate pricing engine rate selection logic
 Fri Aug 14 01:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 Fri Aug 14 01:00:09 UTC 2026: refactor: improve customer conversation flow docs
+Fri Aug 14 01:00:09 UTC 2026: refactor: improve API integration specs
