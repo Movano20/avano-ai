@@ -2306,3 +2306,4 @@ Thu Aug 13 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 Fri Aug 14 01:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 Fri Aug 14 01:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Fri Aug 14 01:00:09 UTC 2026: refactor: improve API integration specs
+Fri Aug 14 09:00:09 UTC 2026: feat: document WhatsApp automation flow
