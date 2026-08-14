@@ -2309,3 +2309,4 @@ Fri Aug 14 01:00:09 UTC 2026: refactor: improve API integration specs
 Fri Aug 14 09:00:09 UTC 2026: feat: document WhatsApp automation flow
 Fri Aug 14 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 Fri Aug 14 09:00:09 UTC 2026: feat: document operator alert system design
+[2026-08-14] fix: edge case in deposit calculation for multi-day rentals
