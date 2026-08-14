@@ -2317,3 +2317,4 @@ Fri Aug 14 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-14] feat: improve booking confirmation response time
 [2026-08-14] fix: IDP expiry edge case for short-term rentals
 [2026-08-14] feat: enhance document OCR confidence scoring
+[2026-08-14] docs: add operator onboarding guide
