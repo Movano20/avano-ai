@@ -2326,3 +2326,4 @@ Sat Aug 15 09:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Aug 15 09:00:09 UTC 2026: docs: update UAE compliance workflow spec
 Sat Aug 15 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-15] fix: timezone handling for UAE late-night bookings
+[2026-08-15] docs: expand multilingual support documentation
