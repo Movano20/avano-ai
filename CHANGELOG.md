@@ -2324,3 +2324,4 @@ Sat Aug 15 01:00:08 UTC 2026: feat: document operator alert system design
 Sat Aug 15 01:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Aug 15 09:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sat Aug 15 09:00:09 UTC 2026: docs: update UAE compliance workflow spec
+Sat Aug 15 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
