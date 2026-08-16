@@ -2347,3 +2347,4 @@ Sun Aug 16 09:00:08 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-16] refactor: optimize ConversationEngine message routing
 [2026-08-16] feat: enhance document OCR confidence scoring
 [2026-08-16] docs: update architecture diagram for fleet intelligence layer
+[2026-08-16] docs: compliance and data retention policy update
