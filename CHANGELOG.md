@@ -2337,3 +2337,4 @@ Sat Aug 15 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-15] docs: update API reference for booking lifecycle endpoints
 Sun Aug 16 01:00:08 UTC 2026: feat: document fleet analytics data model
 Sun Aug 16 01:00:08 UTC 2026: refactor: improve customer conversation flow docs
+Sun Aug 16 01:00:08 UTC 2026: refactor: improve API integration specs
