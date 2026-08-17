@@ -2365,3 +2365,4 @@ Mon Aug 17 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-17] refactor: consolidate pricing engine rate selection logic
 [2026-08-17] fix: IDP expiry edge case for short-term rentals
 [2026-08-17] refactor: improve database query performance for fleet router
+[2026-08-17] feat: add booking search by plate number
