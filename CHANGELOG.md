@@ -2356,3 +2356,4 @@ Mon Aug 17 01:00:09 UTC 2026: docs: add demand forecasting model spec
 Mon Aug 17 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Mon Aug 17 09:00:08 UTC 2026: feat: document operator alert system design
 Mon Aug 17 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
+Mon Aug 17 09:00:08 UTC 2026: refactor: improve API integration specs
