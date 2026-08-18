@@ -2382,3 +2382,4 @@ Tue Aug 18 09:00:08 UTC 2026: feat: document operator alert system design
 [2026-08-18] feat: operator NL assistant handles partial commands
 [2026-08-18] refactor: clean up closing flow state transitions
 [2026-08-18] docs: expand multilingual support documentation
+[2026-08-18] docs: add operator onboarding guide
