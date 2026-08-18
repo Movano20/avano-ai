@@ -2374,3 +2374,4 @@ Tue Aug 18 09:00:08 UTC 2026: feat: add operator onboarding flow documentation
 Tue Aug 18 09:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 Tue Aug 18 09:00:08 UTC 2026: feat: document operator alert system design
 [2026-08-18] fix: deposit split validation for cash+card combinations
+[2026-08-18] docs: update API reference for booking lifecycle endpoints
