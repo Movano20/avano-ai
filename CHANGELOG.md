@@ -2377,3 +2377,4 @@ Tue Aug 18 09:00:08 UTC 2026: feat: document operator alert system design
 [2026-08-18] docs: update API reference for booking lifecycle endpoints
 [2026-08-18] fix: notification worker stability improvements
 [2026-08-18] fix: edge case in handover checklist for vehicle swap
+[2026-08-18] fix: timezone handling for UAE late-night bookings
