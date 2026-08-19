@@ -2399,3 +2399,4 @@ Wed Aug 19 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-19] docs: expand multilingual support documentation
 [2026-08-19] docs: update architecture diagram for fleet intelligence layer
 [2026-08-19] feat: improve WhatsApp message delivery retry logic
+[2026-08-19] refactor: clean up closing flow state transitions
