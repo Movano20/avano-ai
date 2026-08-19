@@ -2385,3 +2385,4 @@ Tue Aug 18 09:00:08 UTC 2026: feat: document operator alert system design
 [2026-08-18] docs: add operator onboarding guide
 Wed Aug 19 01:00:10 UTC 2026: feat: document WhatsApp automation flow
 Wed Aug 19 01:00:10 UTC 2026: feat: document fleet analytics data model
+Wed Aug 19 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
