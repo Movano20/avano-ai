@@ -2396,3 +2396,4 @@ Wed Aug 19 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-19] feat: operator NL assistant handles partial commands
 [2026-08-19] feat: smart alert thresholds for low Salik balance
 [2026-08-19] feat: add telemetry logging for operator assistant commands
+[2026-08-19] docs: expand multilingual support documentation
