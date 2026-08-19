@@ -2386,3 +2386,4 @@ Tue Aug 18 09:00:08 UTC 2026: feat: document operator alert system design
 Wed Aug 19 01:00:10 UTC 2026: feat: document WhatsApp automation flow
 Wed Aug 19 01:00:10 UTC 2026: feat: document fleet analytics data model
 Wed Aug 19 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
+Wed Aug 19 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
