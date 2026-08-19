@@ -2393,3 +2393,4 @@ Wed Aug 19 09:00:10 UTC 2026: feat: document fleet analytics data model
 Wed Aug 19 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
 Wed Aug 19 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-19] fix: IDP expiry edge case for short-term rentals
+[2026-08-19] feat: operator NL assistant handles partial commands
