@@ -2387,3 +2387,4 @@ Wed Aug 19 01:00:10 UTC 2026: feat: document WhatsApp automation flow
 Wed Aug 19 01:00:10 UTC 2026: feat: document fleet analytics data model
 Wed Aug 19 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Wed Aug 19 01:00:17 UTC 2026: docs: update UAE compliance workflow spec
+Wed Aug 19 01:00:17 UTC 2026: refactor: improve booking lifecycle documentation
