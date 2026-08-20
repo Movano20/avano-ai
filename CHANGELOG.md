@@ -2403,3 +2403,4 @@ Wed Aug 19 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-19] feat: add vehicle utilization metrics to dashboard
 [2026-08-19] refactor: optimize ConversationEngine message routing
 Thu Aug 20 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
+Thu Aug 20 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
