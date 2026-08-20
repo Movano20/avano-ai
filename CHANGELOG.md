@@ -2414,3 +2414,4 @@ Thu Aug 20 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-08-20] feat: smart alert thresholds for low Salik balance
 [2026-08-20] docs: compliance and data retention policy update
 [2026-08-20] feat: operator NL assistant handles partial commands
+[2026-08-20] fix: timezone handling for UAE late-night bookings
