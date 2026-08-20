@@ -2418,3 +2418,4 @@ Thu Aug 20 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-08-20] feat: improve fines sync error handling and retry logic
 [2026-08-20] feat: add CSV export for monthly rental reports
 [2026-08-20] refactor: optimize ConversationEngine message routing
+[2026-08-20] feat: enhance Arabic NLP response quality
