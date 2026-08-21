@@ -2434,3 +2434,4 @@ Fri Aug 21 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-21] refactor: optimize ConversationEngine message routing
 [2026-08-21] feat: operator NL assistant handles partial commands
 [2026-08-21] docs: update architecture diagram for fleet intelligence layer
+[2026-08-21] feat: improve WhatsApp message delivery retry logic
