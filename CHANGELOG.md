@@ -2432,3 +2432,4 @@ Fri Aug 21 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-21] feat: improve booking confirmation response time
 [2026-08-21] docs: update API reference for booking lifecycle endpoints
 [2026-08-21] refactor: optimize ConversationEngine message routing
+[2026-08-21] feat: operator NL assistant handles partial commands
