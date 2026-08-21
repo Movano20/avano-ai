@@ -2424,3 +2424,4 @@ Thu Aug 20 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Aug 21 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
 Fri Aug 21 01:00:09 UTC 2026: refactor: improve API integration specs
 Fri Aug 21 01:00:09 UTC 2026: feat: add operator onboarding flow documentation
+Fri Aug 21 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
