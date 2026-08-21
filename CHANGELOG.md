@@ -2426,3 +2426,4 @@ Fri Aug 21 01:00:09 UTC 2026: refactor: improve API integration specs
 Fri Aug 21 01:00:09 UTC 2026: feat: add operator onboarding flow documentation
 Fri Aug 21 09:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Fri Aug 21 09:00:10 UTC 2026: refactor: improve multi-tenant architecture docs
+Fri Aug 21 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
