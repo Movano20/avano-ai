@@ -2422,3 +2422,4 @@ Thu Aug 20 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-08-20] docs: update API reference for booking lifecycle endpoints
 [2026-08-20] feat: add telemetry logging for operator assistant commands
 Fri Aug 21 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
+Fri Aug 21 01:00:09 UTC 2026: refactor: improve API integration specs
