@@ -2443,3 +2443,4 @@ Sat Aug 22 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-22] fix: timezone handling for UAE late-night bookings
 [2026-08-22] feat: smart alert thresholds for low Salik balance
 [2026-08-22] refactor: clean up closing flow state transitions
+[2026-08-22] docs: add operator onboarding guide
