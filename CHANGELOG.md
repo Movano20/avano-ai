@@ -2438,3 +2438,4 @@ Fri Aug 21 09:00:10 UTC 2026: docs: add dynamic pricing engine notes
 [2026-08-21] refactor: improve database query performance for fleet router
 [2026-08-21] docs: compliance and data retention policy update
 Sat Aug 22 09:00:09 UTC 2026: docs: update sovereign AI model training plan
+Sat Aug 22 09:00:09 UTC 2026: feat: document WhatsApp automation flow
