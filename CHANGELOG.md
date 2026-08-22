@@ -2446,3 +2446,4 @@ Sat Aug 22 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-22] docs: add operator onboarding guide
 [2026-08-22] docs: update API reference for booking lifecycle endpoints
 [2026-08-22] refactor: optimize ConversationEngine message routing
+[2026-08-22] fix: edge case in handover checklist for vehicle swap
