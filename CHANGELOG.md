@@ -2468,3 +2468,4 @@ Sun Aug 23 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-23] feat: improve WhatsApp message delivery retry logic
 [2026-08-23] feat: add vehicle utilization metrics to dashboard
 [2026-08-23] feat: operator NL assistant handles partial commands
+[2026-08-23] feat: add vehicle availability caching layer
