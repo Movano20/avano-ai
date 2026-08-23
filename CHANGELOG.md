@@ -2462,3 +2462,4 @@ Sun Aug 23 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-23] fix: edge case in handover checklist for vehicle swap
 [2026-08-23] feat: add booking search by plate number
 [2026-08-23] fix: deposit split validation for cash+card combinations
+[2026-08-23] feat: improve booking confirmation response time
