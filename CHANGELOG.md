@@ -2458,3 +2458,4 @@ Sun Aug 23 01:00:15 UTC 2026: feat: document fleet analytics data model
 Sun Aug 23 01:00:15 UTC 2026: docs: update platform architecture notes
 Sun Aug 23 09:00:09 UTC 2026: feat: document WhatsApp automation flow
 Sun Aug 23 09:00:09 UTC 2026: docs: update platform architecture notes
+Sun Aug 23 09:00:09 UTC 2026: feat: document operator alert system design
