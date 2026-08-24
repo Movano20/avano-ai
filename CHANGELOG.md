@@ -2470,3 +2470,4 @@ Sun Aug 23 09:00:09 UTC 2026: feat: document operator alert system design
 [2026-08-23] feat: operator NL assistant handles partial commands
 [2026-08-23] feat: add vehicle availability caching layer
 Mon Aug 24 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
+Mon Aug 24 09:00:10 UTC 2026: docs: update platform architecture notes
