@@ -2473,3 +2473,4 @@ Mon Aug 24 09:00:10 UTC 2026: docs: update UAE compliance workflow spec
 Mon Aug 24 09:00:10 UTC 2026: docs: update platform architecture notes
 Mon Aug 24 09:00:10 UTC 2026: feat: document fleet analytics data model
 Mon Aug 24 09:00:16 UTC 2026: docs: update platform architecture notes
+Mon Aug 24 09:00:16 UTC 2026: docs: update sovereign AI model training plan
