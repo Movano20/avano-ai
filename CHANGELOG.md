@@ -2475,3 +2475,4 @@ Mon Aug 24 09:00:10 UTC 2026: feat: document fleet analytics data model
 Mon Aug 24 09:00:16 UTC 2026: docs: update platform architecture notes
 Mon Aug 24 09:00:16 UTC 2026: docs: update sovereign AI model training plan
 Mon Aug 24 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
+[2026-08-24] feat: smart alert thresholds for low Salik balance
