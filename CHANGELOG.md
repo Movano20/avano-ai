@@ -2485,3 +2485,4 @@ Mon Aug 24 09:00:16 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-08-24] docs: update API reference for booking lifecycle endpoints
 [2026-08-24] fix: IDP expiry edge case for short-term rentals
 [2026-08-24] docs: expand multilingual support documentation
+Tue Aug 25 01:00:10 UTC 2026: docs: add demand forecasting model spec
