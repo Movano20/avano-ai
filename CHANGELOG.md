@@ -2495,3 +2495,4 @@ Tue Aug 25 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-25] refactor: improve database query performance for fleet router
 [2026-08-25] feat: add telemetry logging for operator assistant commands
 [2026-08-25] feat: improve booking confirmation response time
+[2026-08-25] feat: add vehicle utilization metrics to dashboard
