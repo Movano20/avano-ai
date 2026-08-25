@@ -2493,3 +2493,4 @@ Tue Aug 25 09:00:08 UTC 2026: docs: add dynamic pricing engine notes
 Tue Aug 25 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-25] feat: smart alert thresholds for low Salik balance
 [2026-08-25] refactor: improve database query performance for fleet router
+[2026-08-25] feat: add telemetry logging for operator assistant commands
