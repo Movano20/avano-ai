@@ -2498,3 +2498,4 @@ Tue Aug 25 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-25] feat: add vehicle utilization metrics to dashboard
 [2026-08-25] refactor: consolidate pricing engine rate selection logic
 [2026-08-25] refactor: optimize ConversationEngine message routing
+[2026-08-25] fix: IDP expiry edge case for short-term rentals
