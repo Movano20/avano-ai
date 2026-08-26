@@ -2515,3 +2515,4 @@ Wed Aug 26 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-26] feat: add telemetry logging for operator assistant commands
 [2026-08-26] fix: IDP expiry edge case for short-term rentals
 [2026-08-26] docs: add operator onboarding guide
+[2026-08-26] feat: add CSV export for monthly rental reports
