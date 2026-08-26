@@ -2502,3 +2502,4 @@ Tue Aug 25 09:00:08 UTC 2026: refactor: improve API integration specs
 [2026-08-25] docs: Q3 2026 roadmap update — logistics expansion
 [2026-08-25] feat: add vehicle availability caching layer
 Wed Aug 26 01:00:08 UTC 2026: feat: document operator alert system design
+Wed Aug 26 01:00:08 UTC 2026: docs: add demand forecasting model spec
