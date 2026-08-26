@@ -2512,3 +2512,4 @@ Wed Aug 26 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-26] feat: add vehicle utilization metrics to dashboard
 [2026-08-26] docs: update API reference for booking lifecycle endpoints
 [2026-08-26] feat: smart alert thresholds for low Salik balance
+[2026-08-26] feat: add telemetry logging for operator assistant commands
