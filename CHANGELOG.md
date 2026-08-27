@@ -2527,3 +2527,4 @@ Thu Aug 27 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-08-27] feat: improve WhatsApp message delivery retry logic
 [2026-08-27] feat: improve fines sync error handling and retry logic
 [2026-08-27] docs: add operator onboarding guide
+[2026-08-27] docs: update API reference for booking lifecycle endpoints
