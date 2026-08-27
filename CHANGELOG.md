@@ -2523,3 +2523,4 @@ Thu Aug 27 01:00:10 UTC 2026: docs: update platform architecture notes
 Thu Aug 27 09:00:08 UTC 2026: feat: document fleet analytics data model
 Thu Aug 27 09:00:08 UTC 2026: docs: update GCC expansion roadmap
 Thu Aug 27 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
+[2026-08-27] fix: timezone handling for UAE late-night bookings
