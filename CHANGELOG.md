@@ -2520,3 +2520,4 @@ Wed Aug 26 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Thu Aug 27 01:00:10 UTC 2026: docs: update GCC expansion roadmap
 Thu Aug 27 01:00:10 UTC 2026: docs: update platform architecture notes
 Thu Aug 27 01:00:10 UTC 2026: docs: update platform architecture notes
+Thu Aug 27 09:00:08 UTC 2026: feat: document fleet analytics data model
