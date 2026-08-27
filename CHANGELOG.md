@@ -2517,3 +2517,4 @@ Wed Aug 26 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 [2026-08-26] docs: add operator onboarding guide
 [2026-08-26] feat: add CSV export for monthly rental reports
 [2026-08-26] docs: Q3 2026 roadmap update — logistics expansion
+Thu Aug 27 01:00:10 UTC 2026: docs: update GCC expansion roadmap
