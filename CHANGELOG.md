@@ -2531,3 +2531,4 @@ Thu Aug 27 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-08-27] fix: IDP expiry edge case for short-term rentals
 [2026-08-27] feat: enhance document OCR confidence scoring
 [2026-08-27] refactor: clean up closing flow state transitions
+[2026-08-27] fix: deposit split validation for cash+card combinations
