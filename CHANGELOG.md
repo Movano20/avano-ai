@@ -2541,3 +2541,4 @@ Fri Aug 28 09:00:08 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Aug 28 09:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-08-28] feat: add vehicle utilization metrics to dashboard
 [2026-08-28] docs: compliance and data retention policy update
+[2026-08-28] feat: add vehicle availability caching layer
