@@ -2536,3 +2536,4 @@ Thu Aug 27 09:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 Fri Aug 28 01:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 Fri Aug 28 01:00:08 UTC 2026: docs: update sovereign AI model training plan
 Fri Aug 28 01:00:08 UTC 2026: feat: document operator alert system design
+Fri Aug 28 09:00:08 UTC 2026: docs: add demand forecasting model spec
