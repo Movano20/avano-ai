@@ -2545,3 +2545,4 @@ Fri Aug 28 09:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-08-28] feat: enhance Arabic NLP response quality
 [2026-08-28] feat: smart alert thresholds for low Salik balance
 [2026-08-28] feat: add telemetry logging for operator assistant commands
+[2026-08-28] fix: edge case in handover checklist for vehicle swap
