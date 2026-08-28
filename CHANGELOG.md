@@ -2539,3 +2539,4 @@ Fri Aug 28 01:00:08 UTC 2026: feat: document operator alert system design
 Fri Aug 28 09:00:08 UTC 2026: docs: add demand forecasting model spec
 Fri Aug 28 09:00:08 UTC 2026: docs: update Arabic NLP pipeline notes
 Fri Aug 28 09:00:08 UTC 2026: refactor: improve booking lifecycle documentation
+[2026-08-28] feat: add vehicle utilization metrics to dashboard
