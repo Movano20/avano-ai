@@ -2547,3 +2547,4 @@ Fri Aug 28 09:00:08 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-08-28] feat: add telemetry logging for operator assistant commands
 [2026-08-28] fix: edge case in handover checklist for vehicle swap
 [2026-08-28] fix: race condition in concurrent booking confirmations
+[2026-08-28] docs: update architecture diagram for fleet intelligence layer
