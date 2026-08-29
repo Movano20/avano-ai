@@ -2565,3 +2565,4 @@ Sat Aug 29 09:00:14 UTC 2026: docs: add demand forecasting model spec
 [2026-08-29] docs: expand multilingual support documentation
 [2026-08-29] docs: add operator onboarding guide
 [2026-08-29] refactor: improve database query performance for fleet router
+[2026-08-29] fix: edge case in handover checklist for vehicle swap
