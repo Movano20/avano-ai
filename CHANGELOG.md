@@ -2556,3 +2556,4 @@ Sat Aug 29 09:00:08 UTC 2026: refactor: improve API integration specs
 Sat Aug 29 09:00:08 UTC 2026: feat: document WhatsApp automation flow
 Sat Aug 29 09:00:08 UTC 2026: docs: add demand forecasting model spec
 Sat Aug 29 09:00:14 UTC 2026: refactor: improve booking lifecycle documentation
+Sat Aug 29 09:00:14 UTC 2026: docs: update platform architecture notes
