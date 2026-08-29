@@ -2567,3 +2567,4 @@ Sat Aug 29 09:00:14 UTC 2026: docs: add demand forecasting model spec
 [2026-08-29] refactor: improve database query performance for fleet router
 [2026-08-29] fix: edge case in handover checklist for vehicle swap
 [2026-08-29] feat: improve WhatsApp message delivery retry logic
+[2026-08-29] docs: compliance and data retention policy update
