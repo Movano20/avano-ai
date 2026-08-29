@@ -2558,3 +2558,4 @@ Sat Aug 29 09:00:08 UTC 2026: docs: add demand forecasting model spec
 Sat Aug 29 09:00:14 UTC 2026: refactor: improve booking lifecycle documentation
 Sat Aug 29 09:00:14 UTC 2026: docs: update platform architecture notes
 Sat Aug 29 09:00:14 UTC 2026: docs: add demand forecasting model spec
+[2026-08-29] feat: add CSV export for monthly rental reports
