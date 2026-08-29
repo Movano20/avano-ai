@@ -2560,3 +2560,4 @@ Sat Aug 29 09:00:14 UTC 2026: docs: update platform architecture notes
 Sat Aug 29 09:00:14 UTC 2026: docs: add demand forecasting model spec
 [2026-08-29] feat: add CSV export for monthly rental reports
 [2026-08-29] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-08-29] feat: improve booking confirmation response time
