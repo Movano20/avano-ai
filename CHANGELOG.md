@@ -2578,3 +2578,4 @@ Sun Aug 30 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-03] feat: enhance document OCR confidence scoring
 [2026-09-03] refactor: optimize ConversationEngine message routing
 [2026-09-03] fix: deposit split validation for cash+card combinations
+[2026-09-03] fix: timezone handling for UAE late-night bookings
