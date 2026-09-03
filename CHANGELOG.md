@@ -2574,3 +2574,4 @@ Sun Aug 30 01:00:09 UTC 2026: refactor: improve API integration specs
 Sun Aug 30 09:00:09 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun Aug 30 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Aug 30 09:00:09 UTC 2026: docs: update platform architecture notes
+[2026-09-03] feat: operator NL assistant handles partial commands
