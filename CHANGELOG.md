@@ -2583,3 +2583,4 @@ Sun Aug 30 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-03] docs: Q3 2026 roadmap update — logistics expansion
 [2026-09-03] feat: improve WhatsApp message delivery retry logic
 [2026-09-03] feat: improve fines sync error handling and retry logic
+[2026-09-03] docs: update API reference for booking lifecycle endpoints
