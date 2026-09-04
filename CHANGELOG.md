@@ -2592,3 +2592,4 @@ Fri Sep  4 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-09-04] fix: timezone handling for UAE late-night bookings
 [2026-09-04] fix: edge case in deposit calculation for multi-day rentals
 [2026-09-04] refactor: optimize ConversationEngine message routing
+[2026-09-04] refactor: improve database query performance for fleet router
