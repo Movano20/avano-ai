@@ -2590,3 +2590,4 @@ Fri Sep  4 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-09-04] fix: race condition in concurrent booking confirmations
 [2026-09-04] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-04] fix: timezone handling for UAE late-night bookings
+[2026-09-04] fix: edge case in deposit calculation for multi-day rentals
