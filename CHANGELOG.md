@@ -2594,3 +2594,4 @@ Fri Sep  4 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-09-04] refactor: optimize ConversationEngine message routing
 [2026-09-04] refactor: improve database query performance for fleet router
 [2026-09-04] feat: enhance document OCR confidence scoring
+[2026-09-04] fix: IDP expiry edge case for short-term rentals
