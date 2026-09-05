@@ -2597,3 +2597,4 @@ Fri Sep  4 09:00:11 UTC 2026: docs: update platform architecture notes
 [2026-09-04] fix: IDP expiry edge case for short-term rentals
 [2026-09-04] feat: enhance Arabic NLP response quality
 [2026-09-04] fix: deposit split validation for cash+card combinations
+Sat Sep  5 01:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
