@@ -2612,3 +2612,4 @@ Sat Sep  5 09:00:10 UTC 2026: docs: update GCC expansion roadmap
 [2026-09-05] feat: add booking search by plate number
 [2026-09-05] refactor: improve database query performance for fleet router
 [2026-09-05] refactor: clean up closing flow state transitions
+[2026-09-05] feat: smart alert thresholds for low Salik balance
