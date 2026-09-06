@@ -2632,3 +2632,4 @@ Sun Sep  6 09:00:16 UTC 2026: docs: update sovereign AI model training plan
 [2026-09-06] feat: add CSV export for monthly rental reports
 [2026-09-06] docs: compliance and data retention policy update
 [2026-09-06] feat: improve WhatsApp message delivery retry logic
+[2026-09-06] feat: add telemetry logging for operator assistant commands
