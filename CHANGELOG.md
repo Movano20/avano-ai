@@ -2622,3 +2622,4 @@ Sun Sep  6 01:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Sep  6 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 Sun Sep  6 09:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Sep  6 09:00:09 UTC 2026: feat: document WhatsApp automation flow
+Sun Sep  6 09:00:16 UTC 2026: docs: update UAE compliance workflow spec
