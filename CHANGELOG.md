@@ -2626,3 +2626,4 @@ Sun Sep  6 09:00:16 UTC 2026: docs: update UAE compliance workflow spec
 Sun Sep  6 09:00:16 UTC 2026: feat: add operator onboarding flow documentation
 Sun Sep  6 09:00:16 UTC 2026: docs: update sovereign AI model training plan
 [2026-09-06] fix: notification worker stability improvements
+[2026-09-06] refactor: optimize ConversationEngine message routing
