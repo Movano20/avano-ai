@@ -2645,3 +2645,4 @@ Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-07] refactor: optimize ConversationEngine message routing
 [2026-09-07] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-07] fix: IDP expiry edge case for short-term rentals
+[2026-09-07] fix: edge case in handover checklist for vehicle swap
