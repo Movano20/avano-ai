@@ -2647,3 +2647,4 @@ Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-07] fix: IDP expiry edge case for short-term rentals
 [2026-09-07] fix: edge case in handover checklist for vehicle swap
 [2026-09-07] docs: add operator onboarding guide
+[2026-09-07] fix: deposit split validation for cash+card combinations
