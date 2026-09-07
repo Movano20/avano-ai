@@ -2641,3 +2641,4 @@ Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-07] feat: add vehicle utilization metrics to dashboard
 [2026-09-07] feat: add booking search by plate number
 [2026-09-07] fix: timezone handling for UAE late-night bookings
+[2026-09-07] feat: improve fines sync error handling and retry logic
