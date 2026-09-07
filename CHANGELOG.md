@@ -2639,3 +2639,4 @@ Mon Sep  7 09:00:11 UTC 2026: feat: add operator onboarding flow documentation
 Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-07] feat: add vehicle utilization metrics to dashboard
+[2026-09-07] feat: add booking search by plate number
