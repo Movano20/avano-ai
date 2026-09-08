@@ -2649,3 +2649,4 @@ Mon Sep  7 09:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-07] docs: add operator onboarding guide
 [2026-09-07] fix: deposit split validation for cash+card combinations
 Tue Sep  8 12:38:30 UTC 2026: docs: update UAE compliance workflow spec
+Tue Sep  8 12:38:30 UTC 2026: docs: update sovereign AI model training plan
