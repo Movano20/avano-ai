@@ -2660,3 +2660,4 @@ Tue Sep  8 12:38:30 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-09] feat: improve WhatsApp message delivery retry logic
 [2026-09-09] feat: add vehicle utilization metrics to dashboard
 [2026-09-09] feat: add telemetry logging for operator assistant commands
+[2026-09-09] docs: update API reference for booking lifecycle endpoints
