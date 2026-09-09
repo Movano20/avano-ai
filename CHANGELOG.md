@@ -2654,3 +2654,4 @@ Tue Sep  8 12:38:30 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-09] feat: operator NL assistant handles partial commands
 [2026-09-09] feat: smart alert thresholds for low Salik balance
 [2026-09-09] fix: timezone handling for UAE late-night bookings
+[2026-09-09] feat: add CSV export for monthly rental reports
