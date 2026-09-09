@@ -2652,3 +2652,4 @@ Tue Sep  8 12:38:30 UTC 2026: docs: update UAE compliance workflow spec
 Tue Sep  8 12:38:30 UTC 2026: docs: update sovereign AI model training plan
 Tue Sep  8 12:38:30 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-09] feat: operator NL assistant handles partial commands
+[2026-09-09] feat: smart alert thresholds for low Salik balance
