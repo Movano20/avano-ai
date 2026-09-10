@@ -2676,3 +2676,4 @@ Thu Sep 10 09:00:09 UTC 2026: refactor: improve API integration specs
 [2026-09-10] fix: edge case in deposit calculation for multi-day rentals
 [2026-09-10] fix: timezone handling for UAE late-night bookings
 [2026-09-10] feat: add CSV export for monthly rental reports
+[2026-09-10] refactor: consolidate pricing engine rate selection logic
