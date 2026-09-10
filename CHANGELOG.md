@@ -2672,3 +2672,4 @@ Thu Sep 10 09:00:09 UTC 2026: refactor: improve API integration specs
 [2026-09-10] docs: compliance and data retention policy update
 [2026-09-10] feat: add booking search by plate number
 [2026-09-10] feat: operator NL assistant handles partial commands
+[2026-09-10] feat: add telemetry logging for operator assistant commands
