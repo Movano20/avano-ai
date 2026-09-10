@@ -2667,3 +2667,4 @@ Thu Sep 10 01:00:10 UTC 2026: feat: document operator alert system design
 Thu Sep 10 09:00:09 UTC 2026: docs: update sovereign AI model training plan
 Thu Sep 10 09:00:09 UTC 2026: feat: document WhatsApp automation flow
 Thu Sep 10 09:00:09 UTC 2026: refactor: improve API integration specs
+[2026-09-10] docs: update architecture diagram for fleet intelligence layer
