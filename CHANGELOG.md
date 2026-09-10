@@ -2665,3 +2665,4 @@ Thu Sep 10 01:00:10 UTC 2026: docs: update GCC expansion roadmap
 Thu Sep 10 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Thu Sep 10 01:00:10 UTC 2026: feat: document operator alert system design
 Thu Sep 10 09:00:09 UTC 2026: docs: update sovereign AI model training plan
+Thu Sep 10 09:00:09 UTC 2026: feat: document WhatsApp automation flow
