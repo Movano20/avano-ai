@@ -2681,3 +2681,4 @@ Fri Sep 11 09:00:10 UTC 2026: feat: document fleet analytics data model
 Fri Sep 11 09:00:10 UTC 2026: docs: update platform architecture notes
 Fri Sep 11 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 [2026-09-11] docs: add operator onboarding guide
+[2026-09-11] feat: enhance bot tone calibration for Gulf Arabic dialect
