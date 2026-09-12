@@ -2700,3 +2700,4 @@ Sat Sep 12 01:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-09-12] fix: edge case in handover checklist for vehicle swap
 [2026-09-12] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-12] fix: edge case in deposit calculation for multi-day rentals
+[2026-09-12] feat: add telemetry logging for operator assistant commands
