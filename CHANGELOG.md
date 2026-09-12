@@ -2697,3 +2697,4 @@ Sat Sep 12 01:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
 [2026-09-12] feat: add CSV export for monthly rental reports
 [2026-09-12] refactor: optimize ConversationEngine message routing
 [2026-09-12] feat: add booking search by plate number
+[2026-09-12] fix: edge case in handover checklist for vehicle swap
