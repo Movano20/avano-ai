@@ -2693,3 +2693,4 @@ Fri Sep 11 09:00:10 UTC 2026: feat: document WhatsApp automation flow
 Sat Sep 12 01:00:08 UTC 2026: feat: document operator alert system design
 Sat Sep 12 01:00:08 UTC 2026: feat: document operator alert system design
 Sat Sep 12 01:00:08 UTC 2026: refactor: improve multi-tenant architecture docs
+[2026-09-12] feat: add vehicle availability caching layer
