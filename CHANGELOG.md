@@ -2715,3 +2715,4 @@ Sun Sep 13 09:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-09-13] feat: operator NL assistant handles partial commands
 [2026-09-13] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-13] feat: add vehicle utilization metrics to dashboard
+[2026-09-13] docs: expand multilingual support documentation
