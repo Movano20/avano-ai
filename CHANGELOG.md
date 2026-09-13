@@ -2707,3 +2707,4 @@ Sun Sep 13 09:00:10 UTC 2026: docs: update Arabic NLP pipeline notes
 Sun Sep 13 09:00:10 UTC 2026: refactor: improve API integration specs
 Sun Sep 13 09:00:10 UTC 2026: docs: update platform architecture notes
 Sun Sep 13 09:00:17 UTC 2026: feat: document operator alert system design
+Sun Sep 13 09:00:17 UTC 2026: feat: document fleet analytics data model
