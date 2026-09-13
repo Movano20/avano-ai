@@ -2717,3 +2717,4 @@ Sun Sep 13 09:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-09-13] feat: add vehicle utilization metrics to dashboard
 [2026-09-13] docs: expand multilingual support documentation
 [2026-09-13] fix: edge case in handover checklist for vehicle swap
+[2026-09-13] feat: add telemetry logging for operator assistant commands
