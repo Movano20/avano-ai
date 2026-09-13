@@ -2711,3 +2711,4 @@ Sun Sep 13 09:00:17 UTC 2026: feat: document fleet analytics data model
 Sun Sep 13 09:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-09-13] feat: add vehicle availability caching layer
 [2026-09-13] feat: improve fines sync error handling and retry logic
+[2026-09-13] refactor: improve database query performance for fleet router
