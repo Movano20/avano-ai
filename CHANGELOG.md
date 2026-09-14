@@ -2730,3 +2730,4 @@ Mon Sep 14 09:00:09 UTC 2026: feat: document fleet analytics data model
 [2026-09-14] feat: operator NL assistant handles partial commands
 [2026-09-14] fix: timezone handling for UAE late-night bookings
 [2026-09-14] fix: deposit split validation for cash+card combinations
+[2026-09-14] feat: add telemetry logging for operator assistant commands
