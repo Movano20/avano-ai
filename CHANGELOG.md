@@ -2733,3 +2733,4 @@ Mon Sep 14 09:00:09 UTC 2026: feat: document fleet analytics data model
 [2026-09-14] feat: add telemetry logging for operator assistant commands
 [2026-09-14] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-14] feat: enhance Arabic NLP response quality
+[2026-09-14] feat: add vehicle availability caching layer
