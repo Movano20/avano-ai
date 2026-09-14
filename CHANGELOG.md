@@ -2721,3 +2721,4 @@ Sun Sep 13 09:00:17 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-09-13] fix: notification worker stability improvements
 Mon Sep 14 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Mon Sep 14 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
+Mon Sep 14 01:00:09 UTC 2026: refactor: improve API integration specs
