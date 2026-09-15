@@ -2738,3 +2738,4 @@ Mon Sep 14 09:00:09 UTC 2026: feat: document fleet analytics data model
 Tue Sep 15 01:00:11 UTC 2026: feat: document operator alert system design
 Tue Sep 15 01:00:11 UTC 2026: feat: document fleet analytics data model
 Tue Sep 15 01:00:11 UTC 2026: feat: document fleet analytics data model
+[2026-09-15] docs: compliance and data retention policy update
