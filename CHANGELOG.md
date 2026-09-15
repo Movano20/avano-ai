@@ -2742,3 +2742,4 @@ Tue Sep 15 01:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-15] docs: expand multilingual support documentation
 [2026-09-15] refactor: improve database query performance for fleet router
 [2026-09-15] docs: Q3 2026 roadmap update — logistics expansion
+[2026-09-15] feat: enhance bot tone calibration for Gulf Arabic dialect
