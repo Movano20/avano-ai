@@ -2745,3 +2745,4 @@ Tue Sep 15 01:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-15] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-09-15] feat: add vehicle availability caching layer
 [2026-09-15] feat: smart alert thresholds for low Salik balance
+[2026-09-15] fix: edge case in deposit calculation for multi-day rentals
