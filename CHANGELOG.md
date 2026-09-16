@@ -2748,3 +2748,4 @@ Tue Sep 15 01:00:11 UTC 2026: feat: document fleet analytics data model
 [2026-09-15] fix: edge case in deposit calculation for multi-day rentals
 [2026-09-15] docs: add operator onboarding guide
 [2026-09-15] feat: improve fines sync error handling and retry logic
+Wed Sep 16 01:00:11 UTC 2026: docs: update GCC expansion roadmap
