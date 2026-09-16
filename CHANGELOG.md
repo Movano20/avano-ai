@@ -2755,3 +2755,4 @@ Wed Sep 16 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 Wed Sep 16 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 Wed Sep 16 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-16] feat: add telemetry logging for operator assistant commands
+[2026-09-16] fix: notification worker stability improvements
