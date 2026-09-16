@@ -2757,3 +2757,4 @@ Wed Sep 16 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-16] feat: add telemetry logging for operator assistant commands
 [2026-09-16] fix: notification worker stability improvements
 [2026-09-16] fix: race condition in concurrent booking confirmations
+[2026-09-16] refactor: optimize ConversationEngine message routing
