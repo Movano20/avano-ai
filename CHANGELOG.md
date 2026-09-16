@@ -2760,3 +2760,4 @@ Wed Sep 16 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-16] refactor: optimize ConversationEngine message routing
 [2026-09-16] docs: compliance and data retention policy update
 [2026-09-16] refactor: improve database query performance for fleet router
+[2026-09-16] feat: operator NL assistant handles partial commands
