@@ -2762,3 +2762,4 @@ Wed Sep 16 09:00:09 UTC 2026: docs: update platform architecture notes
 [2026-09-16] refactor: improve database query performance for fleet router
 [2026-09-16] feat: operator NL assistant handles partial commands
 [2026-09-16] refactor: consolidate pricing engine rate selection logic
+[2026-09-16] feat: add CSV export for monthly rental reports
