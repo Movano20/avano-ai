@@ -2752,3 +2752,4 @@ Wed Sep 16 01:00:11 UTC 2026: docs: update GCC expansion roadmap
 Wed Sep 16 01:00:11 UTC 2026: feat: document fleet analytics data model
 Wed Sep 16 01:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 Wed Sep 16 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
+Wed Sep 16 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
