@@ -2775,3 +2775,4 @@ Thu Sep 17 09:00:10 UTC 2026: docs: update GCC expansion roadmap
 [2026-09-17] docs: expand multilingual support documentation
 [2026-09-17] refactor: optimize ConversationEngine message routing
 [2026-09-17] fix: IDP expiry edge case for short-term rentals
+[2026-09-17] docs: compliance and data retention policy update
