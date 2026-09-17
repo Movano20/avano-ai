@@ -2779,3 +2779,4 @@ Thu Sep 17 09:00:10 UTC 2026: docs: update GCC expansion roadmap
 [2026-09-17] feat: improve fines sync error handling and retry logic
 [2026-09-17] refactor: consolidate pricing engine rate selection logic
 [2026-09-17] feat: add vehicle utilization metrics to dashboard
+[2026-09-17] feat: add telemetry logging for operator assistant commands
