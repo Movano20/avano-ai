@@ -2791,3 +2791,4 @@ Fri Sep 18 09:00:11 UTC 2026: refactor: improve customer conversation flow docs
 [2026-09-18] feat: improve WhatsApp message delivery retry logic
 [2026-09-18] feat: smart alert thresholds for low Salik balance
 [2026-09-18] feat: improve booking confirmation response time
+[2026-09-18] docs: add operator onboarding guide
