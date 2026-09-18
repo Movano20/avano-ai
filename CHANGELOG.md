@@ -2789,3 +2789,4 @@ Fri Sep 18 09:00:11 UTC 2026: refactor: improve customer conversation flow docs
 [2026-09-18] docs: expand multilingual support documentation
 [2026-09-18] feat: operator NL assistant handles partial commands
 [2026-09-18] feat: improve WhatsApp message delivery retry logic
+[2026-09-18] feat: smart alert thresholds for low Salik balance
