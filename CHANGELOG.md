@@ -2787,3 +2787,4 @@ Fri Sep 18 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 Fri Sep 18 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 Fri Sep 18 09:00:11 UTC 2026: refactor: improve customer conversation flow docs
 [2026-09-18] docs: expand multilingual support documentation
+[2026-09-18] feat: operator NL assistant handles partial commands
