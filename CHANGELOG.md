@@ -2793,3 +2793,4 @@ Fri Sep 18 09:00:11 UTC 2026: refactor: improve customer conversation flow docs
 [2026-09-18] feat: improve booking confirmation response time
 [2026-09-18] docs: add operator onboarding guide
 [2026-09-18] docs: update architecture diagram for fleet intelligence layer
+[2026-09-18] refactor: optimize ConversationEngine message routing
