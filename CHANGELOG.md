@@ -2804,3 +2804,4 @@ Sat Sep 19 09:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-19] feat: add vehicle utilization metrics to dashboard
 [2026-09-19] fix: edge case in handover checklist for vehicle swap
+[2026-09-19] feat: enhance Arabic NLP response quality
