@@ -2807,3 +2807,4 @@ Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-19] feat: enhance Arabic NLP response quality
 [2026-09-19] refactor: consolidate pricing engine rate selection logic
 [2026-09-19] feat: add telemetry logging for operator assistant commands
+[2026-09-19] feat: add booking search by plate number
