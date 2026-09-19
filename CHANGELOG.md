@@ -2802,3 +2802,4 @@ Sat Sep 19 01:00:09 UTC 2026: docs: update GCC expansion roadmap
 Sat Sep 19 09:00:09 UTC 2026: refactor: improve customer conversation flow docs
 Sat Sep 19 09:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
+[2026-09-19] feat: add vehicle utilization metrics to dashboard
