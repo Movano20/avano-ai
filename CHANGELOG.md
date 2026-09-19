@@ -2805,3 +2805,4 @@ Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-19] feat: add vehicle utilization metrics to dashboard
 [2026-09-19] fix: edge case in handover checklist for vehicle swap
 [2026-09-19] feat: enhance Arabic NLP response quality
+[2026-09-19] refactor: consolidate pricing engine rate selection logic
