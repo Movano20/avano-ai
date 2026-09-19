@@ -2810,3 +2810,4 @@ Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-19] feat: add booking search by plate number
 [2026-09-19] feat: add vehicle availability caching layer
 [2026-09-19] docs: update architecture diagram for fleet intelligence layer
+[2026-09-19] fix: notification worker stability improvements
