@@ -2796,3 +2796,4 @@ Fri Sep 18 09:00:11 UTC 2026: refactor: improve customer conversation flow docs
 [2026-09-18] refactor: optimize ConversationEngine message routing
 [2026-09-18] fix: IDP expiry edge case for short-term rentals
 [2026-09-18] docs: compliance and data retention policy update
+Sat Sep 19 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
