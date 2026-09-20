@@ -2814,3 +2814,4 @@ Sat Sep 19 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-19] refactor: clean up closing flow state transitions
 Sun Sep 20 01:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Sun Sep 20 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
+Sun Sep 20 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
