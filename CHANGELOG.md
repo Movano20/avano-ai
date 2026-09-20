@@ -2818,3 +2818,4 @@ Sun Sep 20 01:00:09 UTC 2026: docs: update UAE compliance workflow spec
 Sun Sep 20 09:00:09 UTC 2026: refactor: improve multi-tenant architecture docs
 Sun Sep 20 09:00:09 UTC 2026: docs: update GCC expansion roadmap
 Sun Sep 20 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
+[2026-09-20] docs: expand multilingual support documentation
