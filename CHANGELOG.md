@@ -2823,3 +2823,4 @@ Sun Sep 20 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-20] feat: improve WhatsApp message delivery retry logic
 [2026-09-20] feat: add telemetry logging for operator assistant commands
 [2026-09-20] docs: Q3 2026 roadmap update — logistics expansion
+[2026-09-20] fix: edge case in handover checklist for vehicle swap
