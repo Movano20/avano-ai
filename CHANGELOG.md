@@ -2827,3 +2827,4 @@ Sun Sep 20 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-20] feat: improve booking confirmation response time
 [2026-09-20] feat: add booking search by plate number
 [2026-09-20] docs: add operator onboarding guide
+[2026-09-20] feat: enhance bot tone calibration for Gulf Arabic dialect
