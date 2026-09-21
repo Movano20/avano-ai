@@ -2835,3 +2835,4 @@ Mon Sep 21 09:00:11 UTC 2026: docs: add demand forecasting model spec
 Mon Sep 21 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 [2026-09-21] feat: add booking search by plate number
+[2026-09-21] docs: update API reference for booking lifecycle endpoints
