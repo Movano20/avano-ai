@@ -2833,3 +2833,4 @@ Mon Sep 21 01:00:10 UTC 2026: refactor: improve API integration specs
 Mon Sep 21 01:00:10 UTC 2026: docs: add dynamic pricing engine notes
 Mon Sep 21 09:00:11 UTC 2026: docs: add demand forecasting model spec
 Mon Sep 21 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
+Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
