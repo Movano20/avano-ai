@@ -2830,3 +2830,4 @@ Sun Sep 20 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-20] feat: enhance bot tone calibration for Gulf Arabic dialect
 Mon Sep 21 01:00:10 UTC 2026: docs: update sovereign AI model training plan
 Mon Sep 21 01:00:10 UTC 2026: refactor: improve API integration specs
+Mon Sep 21 01:00:10 UTC 2026: docs: add dynamic pricing engine notes
