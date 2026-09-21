@@ -2842,3 +2842,4 @@ Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 [2026-09-21] feat: add vehicle availability caching layer
 [2026-09-21] docs: compliance and data retention policy update
 [2026-09-21] fix: notification worker stability improvements
+[2026-09-21] feat: add vehicle utilization metrics to dashboard
