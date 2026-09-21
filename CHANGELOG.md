@@ -2838,3 +2838,4 @@ Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 [2026-09-21] docs: update API reference for booking lifecycle endpoints
 [2026-09-21] fix: IDP expiry edge case for short-term rentals
 [2026-09-21] feat: operator NL assistant handles partial commands
+[2026-09-21] fix: race condition in concurrent booking confirmations
