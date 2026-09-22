@@ -2847,3 +2847,4 @@ Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 Tue Sep 22 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Tue Sep 22 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Tue Sep 22 01:00:10 UTC 2026: refactor: improve booking lifecycle documentation
+Tue Sep 22 09:00:10 UTC 2026: docs: add demand forecasting model spec
