@@ -2853,3 +2853,4 @@ Tue Sep 22 09:00:10 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-22] feat: enhance Arabic NLP response quality
 [2026-09-22] feat: improve fines sync error handling and retry logic
 [2026-09-22] feat: add vehicle availability caching layer
+[2026-09-22] fix: race condition in concurrent booking confirmations
