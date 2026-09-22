@@ -2858,3 +2858,4 @@ Tue Sep 22 09:00:10 UTC 2026: feat: add operator onboarding flow documentation
 [2026-09-22] refactor: clean up closing flow state transitions
 [2026-09-22] feat: add CSV export for monthly rental reports
 [2026-09-22] refactor: optimize ConversationEngine message routing
+[2026-09-22] docs: Q3 2026 roadmap update — logistics expansion
