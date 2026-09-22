@@ -2846,3 +2846,4 @@ Mon Sep 21 09:00:11 UTC 2026: docs: add dynamic pricing engine notes
 [2026-09-21] fix: deposit split validation for cash+card combinations
 Tue Sep 22 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
 Tue Sep 22 01:00:10 UTC 2026: refactor: improve customer conversation flow docs
+Tue Sep 22 01:00:10 UTC 2026: refactor: improve booking lifecycle documentation
