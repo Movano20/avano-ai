@@ -2877,3 +2877,4 @@ Wed Sep 23 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-23] docs: Q3 2026 roadmap update — logistics expansion
 [2026-09-23] feat: add CSV export for monthly rental reports
 [2026-09-23] refactor: clean up closing flow state transitions
+[2026-09-23] feat: enhance document OCR confidence scoring
