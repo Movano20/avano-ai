@@ -2871,3 +2871,4 @@ Wed Sep 23 09:00:11 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Sep 23 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-23] feat: add telemetry logging for operator assistant commands
 [2026-09-23] docs: update architecture diagram for fleet intelligence layer
+[2026-09-23] docs: compliance and data retention policy update
