@@ -2889,3 +2889,4 @@ Thu Sep 24 09:00:10 UTC 2026: docs: add demand forecasting model spec
 [2026-09-24] fix: timezone handling for UAE late-night bookings
 [2026-09-24] feat: improve fines sync error handling and retry logic
 [2026-09-24] feat: improve WhatsApp message delivery retry logic
+[2026-09-24] docs: compliance and data retention policy update
