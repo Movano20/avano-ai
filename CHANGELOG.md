@@ -2894,3 +2894,4 @@ Thu Sep 24 09:00:10 UTC 2026: docs: add demand forecasting model spec
 [2026-09-24] docs: Q3 2026 roadmap update — logistics expansion
 [2026-09-24] feat: enhance document OCR confidence scoring
 [2026-09-24] docs: expand multilingual support documentation
+[2026-09-24] fix: deposit split validation for cash+card combinations
