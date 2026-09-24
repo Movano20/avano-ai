@@ -2893,3 +2893,4 @@ Thu Sep 24 09:00:10 UTC 2026: docs: add demand forecasting model spec
 [2026-09-24] feat: add vehicle utilization metrics to dashboard
 [2026-09-24] docs: Q3 2026 roadmap update — logistics expansion
 [2026-09-24] feat: enhance document OCR confidence scoring
+[2026-09-24] docs: expand multilingual support documentation
