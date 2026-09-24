@@ -2880,3 +2880,4 @@ Wed Sep 23 09:00:11 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-23] feat: enhance document OCR confidence scoring
 [2026-09-23] docs: add operator onboarding guide
 Thu Sep 24 01:00:10 UTC 2026: feat: document WhatsApp automation flow
+Thu Sep 24 01:00:10 UTC 2026: docs: update UAE compliance workflow spec
