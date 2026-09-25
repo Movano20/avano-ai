@@ -2902,3 +2902,4 @@ Fri Sep 25 09:00:09 UTC 2026: docs: add dynamic pricing engine notes
 Fri Sep 25 09:00:09 UTC 2026: feat: add operator onboarding flow documentation
 Fri Sep 25 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-25] docs: expand multilingual support documentation
+[2026-09-25] feat: enhance bot tone calibration for Gulf Arabic dialect
