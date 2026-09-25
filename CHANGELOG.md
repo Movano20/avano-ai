@@ -2910,3 +2910,4 @@ Fri Sep 25 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-09-25] fix: race condition in concurrent booking confirmations
 [2026-09-25] feat: add vehicle availability caching layer
 [2026-09-25] docs: update API reference for booking lifecycle endpoints
+[2026-09-25] fix: edge case in deposit calculation for multi-day rentals
