@@ -2926,3 +2926,4 @@ Thu Oct 15 09:12:07 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-10-15] refactor: improve database query performance for fleet router
 [2026-10-15] docs: expand multilingual support documentation
 [2026-10-15] fix: deposit split validation for cash+card combinations
+[2026-10-15] feat: improve WhatsApp message delivery retry logic
