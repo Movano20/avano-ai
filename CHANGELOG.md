@@ -2914,3 +2914,4 @@ Fri Sep 25 09:00:09 UTC 2026: refactor: improve booking lifecycle documentation
 Thu Oct 15 08:55:39 UTC 2026: docs: update sovereign AI model training plan
 Thu Oct 15 08:55:39 UTC 2026: docs: update platform architecture notes
 Thu Oct 15 08:55:39 UTC 2026: feat: document fleet analytics data model
+Thu Oct 15 09:12:07 UTC 2026: docs: update UAE compliance workflow spec
