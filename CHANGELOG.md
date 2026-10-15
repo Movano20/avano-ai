@@ -2922,3 +2922,4 @@ Thu Oct 15 09:12:07 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-10-15] feat: operator NL assistant handles partial commands
 [2026-10-15] feat: enhance document OCR confidence scoring
 [2026-10-15] feat: add telemetry logging for operator assistant commands
+[2026-10-15] fix: IDP expiry edge case for short-term rentals
