@@ -2920,3 +2920,4 @@ Thu Oct 15 09:12:07 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-10-15] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-10-15] fix: edge case in deposit calculation for multi-day rentals
 [2026-10-15] feat: operator NL assistant handles partial commands
+[2026-10-15] feat: enhance document OCR confidence scoring
