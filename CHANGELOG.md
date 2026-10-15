@@ -2917,3 +2917,4 @@ Thu Oct 15 08:55:39 UTC 2026: feat: document fleet analytics data model
 Thu Oct 15 09:12:07 UTC 2026: docs: update UAE compliance workflow spec
 Thu Oct 15 09:12:07 UTC 2026: refactor: improve API integration specs
 Thu Oct 15 09:12:07 UTC 2026: refactor: improve booking lifecycle documentation
+[2026-10-15] feat: enhance bot tone calibration for Gulf Arabic dialect
