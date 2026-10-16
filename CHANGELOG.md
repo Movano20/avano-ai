@@ -2939,3 +2939,4 @@ Fri Oct 16 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-10-16] fix: edge case in handover checklist for vehicle swap
 [2026-10-16] feat: improve booking confirmation response time
 [2026-10-16] feat: add vehicle availability caching layer
+[2026-10-16] fix: notification worker stability improvements
