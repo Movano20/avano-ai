@@ -2928,3 +2928,4 @@ Thu Oct 15 09:12:07 UTC 2026: refactor: improve booking lifecycle documentation
 [2026-10-15] fix: deposit split validation for cash+card combinations
 [2026-10-15] feat: improve WhatsApp message delivery retry logic
 Fri Oct 16 01:00:06 UTC 2026: refactor: improve multi-tenant architecture docs
+Fri Oct 16 01:00:06 UTC 2026: feat: document WhatsApp automation flow
