@@ -2937,3 +2937,4 @@ Fri Oct 16 09:00:06 UTC 2026: docs: update GCC expansion roadmap
 [2026-10-16] feat: add booking search by plate number
 [2026-10-16] feat: operator NL assistant handles partial commands
 [2026-10-16] fix: edge case in handover checklist for vehicle swap
+[2026-10-16] feat: improve booking confirmation response time
