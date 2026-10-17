@@ -2949,3 +2949,4 @@ Sat Oct 17 01:00:06 UTC 2026: feat: document operator alert system design
 Sat Oct 17 09:00:06 UTC 2026: feat: document operator alert system design
 Sat Oct 17 09:00:06 UTC 2026: feat: add operator onboarding flow documentation
 Sat Oct 17 09:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
+[2026-10-17] docs: update architecture diagram for fleet intelligence layer
