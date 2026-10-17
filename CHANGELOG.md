@@ -2952,3 +2952,4 @@ Sat Oct 17 09:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-10-17] docs: update architecture diagram for fleet intelligence layer
 [2026-10-17] docs: update API reference for booking lifecycle endpoints
 [2026-10-17] feat: improve fines sync error handling and retry logic
+[2026-10-17] feat: improve WhatsApp message delivery retry logic
