@@ -2954,3 +2954,4 @@ Sat Oct 17 09:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
 [2026-10-17] feat: improve fines sync error handling and retry logic
 [2026-10-17] feat: improve WhatsApp message delivery retry logic
 [2026-10-17] docs: Q3 2026 roadmap update — logistics expansion
+[2026-10-17] feat: smart alert thresholds for low Salik balance
