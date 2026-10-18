@@ -2971,3 +2971,4 @@ Sun Oct 18 09:00:05 UTC 2026: refactor: improve API integration specs
 [2026-10-18] docs: update API reference for booking lifecycle endpoints
 [2026-10-18] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-10-18] feat: add telemetry logging for operator assistant commands
+[2026-10-18] refactor: consolidate pricing engine rate selection logic
