@@ -2967,3 +2967,4 @@ Sun Oct 18 09:00:05 UTC 2026: refactor: improve booking lifecycle documentation
 Sun Oct 18 09:00:05 UTC 2026: refactor: improve API integration specs
 [2026-10-18] feat: enhance Arabic NLP response quality
 [2026-10-18] docs: Q3 2026 roadmap update — logistics expansion
+[2026-10-18] fix: edge case in deposit calculation for multi-day rentals
