@@ -2985,3 +2985,4 @@ Mon Oct 19 09:00:06 UTC 2026: refactor: improve API integration specs
 [2026-10-19] refactor: consolidate pricing engine rate selection logic
 [2026-10-19] fix: edge case in deposit calculation for multi-day rentals
 [2026-10-19] docs: Q3 2026 roadmap update — logistics expansion
+[2026-10-19] docs: expand multilingual support documentation
