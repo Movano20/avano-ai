@@ -2978,3 +2978,4 @@ Sun Oct 18 09:00:05 UTC 2026: refactor: improve API integration specs
 Mon Oct 19 01:00:06 UTC 2026: refactor: improve booking lifecycle documentation
 Mon Oct 19 01:00:06 UTC 2026: docs: update GCC expansion roadmap
 Mon Oct 19 01:00:06 UTC 2026: docs: add demand forecasting model spec
+Mon Oct 19 09:00:06 UTC 2026: docs: update Arabic NLP pipeline notes
