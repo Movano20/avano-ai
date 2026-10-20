@@ -3003,3 +3003,4 @@ Tue Oct 20 09:00:07 UTC 2026: feat: document WhatsApp automation flow
 [2026-10-20] docs: compliance and data retention policy update
 [2026-10-20] fix: edge case in deposit calculation for multi-day rentals
 [2026-10-20] docs: add operator onboarding guide
+[2026-10-20] refactor: improve database query performance for fleet router
