@@ -3000,3 +3000,4 @@ Tue Oct 20 09:00:07 UTC 2026: feat: document WhatsApp automation flow
 [2026-10-20] feat: add booking search by plate number
 [2026-10-20] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-10-20] docs: update architecture diagram for fleet intelligence layer
+[2026-10-20] docs: compliance and data retention policy update
