@@ -2996,3 +2996,4 @@ Tue Oct 20 01:00:06 UTC 2026: feat: document WhatsApp automation flow
 Tue Oct 20 01:00:06 UTC 2026: refactor: improve multi-tenant architecture docs
 Tue Oct 20 09:00:07 UTC 2026: refactor: improve customer conversation flow docs
 Tue Oct 20 09:00:07 UTC 2026: refactor: improve customer conversation flow docs
+Tue Oct 20 09:00:07 UTC 2026: feat: document WhatsApp automation flow
