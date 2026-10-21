@@ -3013,3 +3013,4 @@ Wed Oct 21 01:00:07 UTC 2026: docs: add demand forecasting model spec
 Wed Oct 21 09:00:07 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Oct 21 09:00:07 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Oct 21 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
+[2026-10-21] docs: Q3 2026 roadmap update — logistics expansion
