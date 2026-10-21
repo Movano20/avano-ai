@@ -3011,3 +3011,4 @@ Wed Oct 21 01:00:07 UTC 2026: refactor: improve multi-tenant architecture docs
 Wed Oct 21 01:00:07 UTC 2026: docs: add demand forecasting model spec
 Wed Oct 21 01:00:07 UTC 2026: docs: add demand forecasting model spec
 Wed Oct 21 09:00:07 UTC 2026: docs: update Arabic NLP pipeline notes
+Wed Oct 21 09:00:07 UTC 2026: docs: update Arabic NLP pipeline notes
