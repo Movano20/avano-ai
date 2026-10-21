@@ -3008,3 +3008,4 @@ Tue Oct 20 09:00:07 UTC 2026: feat: document WhatsApp automation flow
 [2026-10-20] fix: deposit split validation for cash+card combinations
 [2026-10-20] fix: timezone handling for UAE late-night bookings
 Wed Oct 21 01:00:07 UTC 2026: refactor: improve multi-tenant architecture docs
+Wed Oct 21 01:00:07 UTC 2026: docs: add demand forecasting model spec
