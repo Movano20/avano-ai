@@ -3015,3 +3015,4 @@ Wed Oct 21 09:00:07 UTC 2026: docs: update Arabic NLP pipeline notes
 Wed Oct 21 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-10-21] docs: Q3 2026 roadmap update — logistics expansion
 [2026-10-21] feat: enhance bot tone calibration for Gulf Arabic dialect
+[2026-10-21] docs: expand multilingual support documentation
