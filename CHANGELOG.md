@@ -3020,3 +3020,4 @@ Wed Oct 21 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-10-21] feat: operator NL assistant handles partial commands
 [2026-10-21] docs: update architecture diagram for fleet intelligence layer
 [2026-10-21] fix: race condition in concurrent booking confirmations
+[2026-10-21] docs: update API reference for booking lifecycle endpoints
