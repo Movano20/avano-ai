@@ -3035,3 +3035,4 @@ Thu Oct 22 09:00:07 UTC 2026: docs: update UAE compliance workflow spec
 [2026-10-22] fix: edge case in deposit calculation for multi-day rentals
 [2026-10-22] refactor: optimize ConversationEngine message routing
 [2026-10-22] docs: expand multilingual support documentation
+[2026-10-22] feat: enhance bot tone calibration for Gulf Arabic dialect
