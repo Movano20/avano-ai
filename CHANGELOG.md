@@ -3024,3 +3024,4 @@ Wed Oct 21 09:00:07 UTC 2026: docs: add dynamic pricing engine notes
 [2026-10-21] fix: IDP expiry edge case for short-term rentals
 [2026-10-21] refactor: clean up closing flow state transitions
 Thu Oct 22 01:00:07 UTC 2026: refactor: improve multi-tenant architecture docs
+Thu Oct 22 01:00:07 UTC 2026: feat: add operator onboarding flow documentation
