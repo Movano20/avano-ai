@@ -3038,3 +3038,4 @@ Thu Oct 22 09:00:07 UTC 2026: docs: update UAE compliance workflow spec
 [2026-10-22] feat: enhance bot tone calibration for Gulf Arabic dialect
 [2026-10-22] fix: notification worker stability improvements
 [2026-10-22] docs: add operator onboarding guide
+[2026-10-22] feat: add vehicle utilization metrics to dashboard
