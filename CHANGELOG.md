@@ -3032,3 +3032,4 @@ Thu Oct 22 09:00:07 UTC 2026: docs: update UAE compliance workflow spec
 [2026-10-22] docs: Q3 2026 roadmap update — logistics expansion
 [2026-10-22] refactor: clean up closing flow state transitions
 [2026-10-22] fix: race condition in concurrent booking confirmations
+[2026-10-22] fix: edge case in deposit calculation for multi-day rentals
