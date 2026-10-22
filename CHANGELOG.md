@@ -3029,3 +3029,4 @@ Thu Oct 22 01:00:07 UTC 2026: docs: update UAE compliance workflow spec
 Thu Oct 22 09:00:07 UTC 2026: docs: update UAE compliance workflow spec
 Thu Oct 22 09:00:07 UTC 2026: feat: add operator onboarding flow documentation
 Thu Oct 22 09:00:07 UTC 2026: docs: update UAE compliance workflow spec
+[2026-10-22] docs: Q3 2026 roadmap update — logistics expansion
