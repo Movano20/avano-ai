@@ -3052,3 +3052,4 @@ Fri Oct 23 09:00:06 UTC 2026: feat: add operator onboarding flow documentation
 [2026-10-23] feat: operator NL assistant handles partial commands
 [2026-10-23] docs: expand multilingual support documentation
 [2026-10-23] feat: enhance document OCR confidence scoring
+[2026-10-23] docs: compliance and data retention policy update
