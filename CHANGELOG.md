@@ -3049,3 +3049,4 @@ Fri Oct 23 09:00:06 UTC 2026: feat: document operator alert system design
 Fri Oct 23 09:00:06 UTC 2026: refactor: improve API integration specs
 Fri Oct 23 09:00:06 UTC 2026: feat: add operator onboarding flow documentation
 [2026-10-23] refactor: optimize ConversationEngine message routing
+[2026-10-23] feat: operator NL assistant handles partial commands
