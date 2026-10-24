@@ -3069,3 +3069,4 @@ Sat Oct 24 09:00:05 UTC 2026: docs: update sovereign AI model training plan
 [2026-10-24] feat: improve booking confirmation response time
 [2026-10-24] docs: update API reference for booking lifecycle endpoints
 [2026-10-24] docs: add operator onboarding guide
+[2026-10-24] docs: update architecture diagram for fleet intelligence layer
